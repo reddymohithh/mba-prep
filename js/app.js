@@ -185,7 +185,43 @@ function checkFinalUnlock() {
     : `Complete ${total - done} more syllabus topics to unlock the Final Test`;
 }
 
-function startFinalTest() { alert('Final Test coming in full app!'); }
+function startFinalTest() {
+  currentSection = 'final';
+  showScreen('exam-screen');
+  document.getElementById('exam-title').textContent = '🏆 Final Mock Test';
+  isExamActive = true;
+  acViolations = 0;
+
+  // Sample questions from all 5 sections: 10 easy + 10 intermediate + 10 hard each = 150 total
+  const PER_DIFF = 10;
+  const diffs = ['easy', 'intermediate', 'hard'];
+  let pool = [];
+  SECTIONS.forEach(sec => {
+    const allQ = QUESTIONS[sec.key] || [];
+    diffs.forEach(diff => {
+      const bucket = allQ.filter(q => q.difficulty === diff);
+      const shuffled = bucket.slice().sort(() => Math.random() - 0.5);
+      pool = pool.concat(shuffled.slice(0, PER_DIFF));
+    });
+  });
+
+  // Shuffle final pool
+  pool = pool.sort(() => Math.random() - 0.5);
+
+  const st = getState('final');
+  answeredMap = {};
+  st.attemptCount = (st.attemptCount || 0) + 1;
+  saveState('final', st);
+
+  examQuestions = pool;
+  currentPage = 0;
+  document.getElementById('exam-meta').textContent = `Final Mock · ${pool.length} questions · All Sections`;
+  document.getElementById('btn-prev-attempts').style.display = 'none';
+  startTimer(pool.length * 60);
+  renderTracker();
+  renderPage(0);
+  setupAntiCheat();
+}
 
 function startExam(sectionKey, sectionName) {
   currentSection = sectionKey;
