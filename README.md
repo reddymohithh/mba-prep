@@ -43,7 +43,7 @@ The user needed this in days, not weeks. A backend would mean auth systems, data
 On the first attempt, questions are served easy → intermediate → hard to build confidence progressively. On subsequent attempts, only unanswered questions are shown, so the tool adapts to where the user actually is, not where they started.
 
 ### 3. Syllabus tracker gates the Final Test
-Rather than making the final mock always available, it opens only when all syllabus topics are checked off. This creates a natural study loop. Study a topic → check it off → unlock the next milestone. It's a lightweight form of progress-gating that mirrors how real exam prep should work.
+Rather than making the final mock always available, it opens only when all syllabus topics are checked off. This creates a natural study loop. Study a topic → check it off → next milestone. It's a lightweight form of progress-gating that mirrors how real exam prep should work.
 
 ### 4. Exam Readiness as a composite metric
 The dashboard shows four rings: Syllabus Coverage, Average Score, Readiness (weighted blend of the two), and Final Exam Score. This gives the user a single, honest view of where they stand rather than four separate numbers they have to mentally combine.
@@ -61,11 +61,11 @@ Most prep tools only explain after you answer. This app lets users tap "Show Gui
 - **525 questions** across 5 sections + **150-question Final Mock** (30 per section, randomised)
 - **–0.25 negative marking** matching real AMAT scoring
 - **Per-section timer** (1 min/question) with red alert under 5 minutes
-- **Question tracker** panel — colour-coded answered / unanswered, jump to any question
-- **Anti-cheat** — 3 tab switches triggers auto-submit
-- **Review mode** — browse all previously answered questions with explanations
-- **Persistent progress** — answers and scores survive page refresh via localStorage
-- **Readiness dashboard** — live rings and section bars update after every test
+- **Question tracker** panel: colour-coded answered/unanswered, jump to any question
+- **Anti-cheat**: 3 tab switches triggers auto-submit
+- **Review mode**: browse all previously answered questions with explanations
+- **Persistent progress**: answers and scores survive page refresh via localStorage
+- **Readiness dashboard**: live rings and section bars update after every test
 
 ---
 
@@ -79,9 +79,9 @@ Most prep tools only explain after you answer. This app lets users tap "Show Gui
 | CSS custom properties throughout | Consistent theming, easy to restyle without touching logic |
 | fetch() for JSON loading | Keeps questions out of the JS bundle. Easy to add/edit questions without touching code |
 
-**Stack:** HTML, CSS, Vanilla JS, GitHub Pages
-**Lines of code:** ~500 JS, ~600 CSS, ~200 HTML
-**Build time:** 0 seconds (no build step)
+**Stack:** HTML, CSS, Vanilla JS, GitHub Pages  
+**Lines of code:** ~500 JS, ~600 CSS, ~200 HTML  
+**Build time:** 0 seconds (no build step)  
 **Hosting cost:** $0
 
 ---
@@ -91,7 +91,7 @@ Most prep tools only explain after you answer. This app lets users tap "Show Gui
 These are the next things I would prioritise if this were a real product:
 
 **High impact, low effort**
-- Topic-wise performance breakdown: show which topics within a section the user scores weakest on, so they can direct study time more precisely
+- Topic-wise performance breakdown: show which topics within a section the user scores weakest on, so they can direct study time
 - Export results as PDF: useful for the user to share progress with a mentor or tutor
 
 **Medium term**
@@ -141,4 +141,5 @@ Then open `http://localhost:8080`.
 
 ---
 
-*Built with Claude as an AI-assisted product development exercise. All product decisions, feature scoping, and UX choices were made by me. Claude was the implementation pair.*
+*Built with Claude as an AI-assisted product development exercise.*  
+*All product decisions, feature scoping, and UX choices were made by me. Claude was the implementation pair.*
