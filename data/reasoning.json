@@ -1,0 +1,2312 @@
+[
+  {
+    "id": "r1",
+    "difficulty": "easy",
+    "topic": "Coding",
+    "question": "BOOK\u2192CPPL. DOOR\u2192?",
+    "options": {
+      "A": "EPPS",
+      "B": "EQPT",
+      "C": "FQQS",
+      "D": "EPPR"
+    },
+    "correct": "A",
+    "guidance": "+1 each.",
+    "explanation": {
+      "why_correct": "EPPS.",
+      "why_wrong": {
+        "B": "Inconsistent.",
+        "C": "+2.",
+        "D": "Last wrong."
+      }
+    }
+  },
+  {
+    "id": "r2",
+    "difficulty": "easy",
+    "topic": "Relations",
+    "question": "Daughter of mother's only son. Relation to the son?",
+    "options": {
+      "A": "Uncle",
+      "B": "Father",
+      "C": "Brother",
+      "D": "Grandfather"
+    },
+    "correct": "B",
+    "guidance": "Only son=speaker.",
+    "explanation": {
+      "why_correct": "Father.",
+      "why_wrong": {
+        "A": "Sibling's child.",
+        "C": "Same gen.",
+        "D": "2 gens up."
+      }
+    }
+  },
+  {
+    "id": "r3",
+    "difficulty": "easy",
+    "topic": "Direction",
+    "question": "Walk 10m North, right 5m, right 10m. Distance from start?",
+    "options": {
+      "A": "5m",
+      "B": "10m",
+      "C": "15m",
+      "D": "0m"
+    },
+    "correct": "A",
+    "guidance": "Track NS and EW.",
+    "explanation": {
+      "why_correct": "5m.",
+      "why_wrong": {
+        "B": "Confuses.",
+        "C": "Sum.",
+        "D": "No return."
+      }
+    }
+  },
+  {
+    "id": "r4",
+    "difficulty": "intermediate",
+    "topic": "Syllogisms",
+    "question": "All cats=animals. Some animals=wild. Conclusion: cats=wild?",
+    "options": {
+      "A": "True",
+      "B": "False",
+      "C": "Possible",
+      "D": "Cannot determine"
+    },
+    "correct": "D",
+    "guidance": "Venn diagram.",
+    "explanation": {
+      "why_correct": "Cannot.",
+      "why_wrong": {
+        "A": "Unconfirmed.",
+        "B": "Can't deny.",
+        "C": "Too positive."
+      }
+    }
+  },
+  {
+    "id": "r5",
+    "difficulty": "intermediate",
+    "topic": "Puzzles",
+    "question": "A=2nd from left, D right of A, B at far end. Extreme right?",
+    "options": {
+      "A": "C or E",
+      "B": "B",
+      "C": "D",
+      "D": "A"
+    },
+    "correct": "A",
+    "guidance": "Fix A and D.",
+    "explanation": {
+      "why_correct": "C or E.",
+      "why_wrong": {
+        "B": "B=left.",
+        "C": "D=3rd.",
+        "D": "A=2nd."
+      }
+    }
+  },
+  {
+    "id": "r6",
+    "difficulty": "intermediate",
+    "topic": "Assumptions",
+    "question": "Ad says: Hard work leads to success. Implicit assumption?",
+    "options": {
+      "A": "Only way",
+      "B": "One path among many",
+      "C": "Both I & II",
+      "D": "Neither"
+    },
+    "correct": "B",
+    "guidance": "Not overstated.",
+    "explanation": {
+      "why_correct": "II.",
+      "why_wrong": {
+        "A": "Absolute.",
+        "C": "Overread.",
+        "D": "II clear."
+      }
+    }
+  },
+  {
+    "id": "r7",
+    "difficulty": "hard",
+    "topic": "Seating",
+    "question": "6 in circle: A opp C, B btw A&D, E&F adj, B&F not adj. Who sits opp B?",
+    "options": {
+      "A": "E",
+      "B": "F",
+      "C": "D",
+      "D": "Cannot determine"
+    },
+    "correct": "A",
+    "guidance": "Fix A opposite C.",
+    "explanation": {
+      "why_correct": "E.",
+      "why_wrong": {
+        "B": "Not opp.",
+        "C": "Adjacent.",
+        "D": "Determinable."
+      }
+    }
+  },
+  {
+    "id": "r8",
+    "difficulty": "hard",
+    "topic": "Cause & Effect",
+    "question": "Heavy rains \u2192 city flooded. Traffic disrupted. Which is true?",
+    "options": {
+      "A": "Rains caused disruption",
+      "B": "Disruption caused rains",
+      "C": "Independent",
+      "D": "Common cause"
+    },
+    "correct": "A",
+    "guidance": "Temporal sequence.",
+    "explanation": {
+      "why_correct": "Flood\u2192disruption.",
+      "why_wrong": {
+        "B": "Impossible.",
+        "C": "Related.",
+        "D": "No hidden."
+      }
+    }
+  },
+  {
+    "id": "r9",
+    "difficulty": "hard",
+    "topic": "Management",
+    "question": "Skilled employees, complex project. Best leadership style?",
+    "options": {
+      "A": "Autocratic",
+      "B": "Laissez-faire",
+      "C": "Democratic",
+      "D": "Transactional"
+    },
+    "correct": "C",
+    "guidance": "Participative.",
+    "explanation": {
+      "why_correct": "Democratic.",
+      "why_wrong": {
+        "A": "Suppresses.",
+        "B": "No coord.",
+        "D": "Reward-punish."
+      }
+    }
+  },
+  {
+    "id": "r10",
+    "difficulty": "hard",
+    "topic": "Marketing",
+    "question": "Pricing at \u20b9999 instead of \u20b91000 is an example of?",
+    "options": {
+      "A": "Penetration",
+      "B": "Psychological",
+      "C": "Premium",
+      "D": "Bundle"
+    },
+    "correct": "B",
+    "guidance": "Below-round-number.",
+    "explanation": {
+      "why_correct": "Psychological.",
+      "why_wrong": {
+        "A": "Entry.",
+        "C": "Quality.",
+        "D": "Multi-product."
+      }
+    }
+  },
+  {
+    "id": "r11",
+    "difficulty": "easy",
+    "topic": "Blood Relations & Direction Sense",
+    "question": "[Placeholder] Question 11 on Blood Relations & Direction Sense. This question will be replaced with a real exam-style question.",
+    "options": {
+      "A": "Correct placeholder answer",
+      "B": "Distractor B",
+      "C": "Distractor C",
+      "D": "Distractor D"
+    },
+    "correct": "A",
+    "guidance": "Guidance will be added for this question.",
+    "explanation": {
+      "why_correct": "Explanation will be provided here.",
+      "why_wrong": {
+        "B": "\u2014",
+        "C": "\u2014",
+        "D": "\u2014"
+      }
+    }
+  },
+  {
+    "id": "r12",
+    "difficulty": "easy",
+    "topic": "Syllogisms & Logical Deduction",
+    "question": "[Placeholder] Question 12 on Syllogisms & Logical Deduction. This question will be replaced with a real exam-style question.",
+    "options": {
+      "A": "Correct placeholder answer",
+      "B": "Distractor B",
+      "C": "Distractor C",
+      "D": "Distractor D"
+    },
+    "correct": "A",
+    "guidance": "Guidance will be added for this question.",
+    "explanation": {
+      "why_correct": "Explanation will be provided here.",
+      "why_wrong": {
+        "B": "\u2014",
+        "C": "\u2014",
+        "D": "\u2014"
+      }
+    }
+  },
+  {
+    "id": "r13",
+    "difficulty": "easy",
+    "topic": "Seating Arrangements & Puzzles",
+    "question": "[Placeholder] Question 13 on Seating Arrangements & Puzzles. This question will be replaced with a real exam-style question.",
+    "options": {
+      "A": "Correct placeholder answer",
+      "B": "Distractor B",
+      "C": "Distractor C",
+      "D": "Distractor D"
+    },
+    "correct": "A",
+    "guidance": "Guidance will be added for this question.",
+    "explanation": {
+      "why_correct": "Explanation will be provided here.",
+      "why_wrong": {
+        "B": "\u2014",
+        "C": "\u2014",
+        "D": "\u2014"
+      }
+    }
+  },
+  {
+    "id": "r14",
+    "difficulty": "intermediate",
+    "topic": "Statement & Assumption",
+    "question": "[Placeholder] Question 14 on Statement & Assumption. This question will be replaced with a real exam-style question.",
+    "options": {
+      "A": "Correct placeholder answer",
+      "B": "Distractor B",
+      "C": "Distractor C",
+      "D": "Distractor D"
+    },
+    "correct": "A",
+    "guidance": "Guidance will be added for this question.",
+    "explanation": {
+      "why_correct": "Explanation will be provided here.",
+      "why_wrong": {
+        "B": "\u2014",
+        "C": "\u2014",
+        "D": "\u2014"
+      }
+    }
+  },
+  {
+    "id": "r15",
+    "difficulty": "intermediate",
+    "topic": "Cause & Effect Analysis",
+    "question": "[Placeholder] Question 15 on Cause & Effect Analysis. This question will be replaced with a real exam-style question.",
+    "options": {
+      "A": "Correct placeholder answer",
+      "B": "Distractor B",
+      "C": "Distractor C",
+      "D": "Distractor D"
+    },
+    "correct": "A",
+    "guidance": "Guidance will be added for this question.",
+    "explanation": {
+      "why_correct": "Explanation will be provided here.",
+      "why_wrong": {
+        "B": "\u2014",
+        "C": "\u2014",
+        "D": "\u2014"
+      }
+    }
+  },
+  {
+    "id": "r16",
+    "difficulty": "intermediate",
+    "topic": "Management & Marketing Concepts",
+    "question": "[Placeholder] Question 16 on Management & Marketing Concepts. This question will be replaced with a real exam-style question.",
+    "options": {
+      "A": "Correct placeholder answer",
+      "B": "Distractor B",
+      "C": "Distractor C",
+      "D": "Distractor D"
+    },
+    "correct": "A",
+    "guidance": "Guidance will be added for this question.",
+    "explanation": {
+      "why_correct": "Explanation will be provided here.",
+      "why_wrong": {
+        "B": "\u2014",
+        "C": "\u2014",
+        "D": "\u2014"
+      }
+    }
+  },
+  {
+    "id": "r17",
+    "difficulty": "intermediate",
+    "topic": "Organisational Behaviour",
+    "question": "[Placeholder] Question 17 on Organisational Behaviour. This question will be replaced with a real exam-style question.",
+    "options": {
+      "A": "Correct placeholder answer",
+      "B": "Distractor B",
+      "C": "Distractor C",
+      "D": "Distractor D"
+    },
+    "correct": "A",
+    "guidance": "Guidance will be added for this question.",
+    "explanation": {
+      "why_correct": "Explanation will be provided here.",
+      "why_wrong": {
+        "B": "\u2014",
+        "C": "\u2014",
+        "D": "\u2014"
+      }
+    }
+  },
+  {
+    "id": "r18",
+    "difficulty": "hard",
+    "topic": "Economics & Business Terminology",
+    "question": "[Placeholder] Question 18 on Economics & Business Terminology. This question will be replaced with a real exam-style question.",
+    "options": {
+      "A": "Correct placeholder answer",
+      "B": "Distractor B",
+      "C": "Distractor C",
+      "D": "Distractor D"
+    },
+    "correct": "A",
+    "guidance": "Guidance will be added for this question.",
+    "explanation": {
+      "why_correct": "Explanation will be provided here.",
+      "why_wrong": {
+        "B": "\u2014",
+        "C": "\u2014",
+        "D": "\u2014"
+      }
+    }
+  },
+  {
+    "id": "r19",
+    "difficulty": "hard",
+    "topic": "Coding-Decoding & Analogies",
+    "question": "[Placeholder] Question 19 on Coding-Decoding & Analogies. This question will be replaced with a real exam-style question.",
+    "options": {
+      "A": "Correct placeholder answer",
+      "B": "Distractor B",
+      "C": "Distractor C",
+      "D": "Distractor D"
+    },
+    "correct": "A",
+    "guidance": "Guidance will be added for this question.",
+    "explanation": {
+      "why_correct": "Explanation will be provided here.",
+      "why_wrong": {
+        "B": "\u2014",
+        "C": "\u2014",
+        "D": "\u2014"
+      }
+    }
+  },
+  {
+    "id": "r20",
+    "difficulty": "hard",
+    "topic": "Blood Relations & Direction Sense",
+    "question": "[Placeholder] Question 20 on Blood Relations & Direction Sense. This question will be replaced with a real exam-style question.",
+    "options": {
+      "A": "Correct placeholder answer",
+      "B": "Distractor B",
+      "C": "Distractor C",
+      "D": "Distractor D"
+    },
+    "correct": "A",
+    "guidance": "Guidance will be added for this question.",
+    "explanation": {
+      "why_correct": "Explanation will be provided here.",
+      "why_wrong": {
+        "B": "\u2014",
+        "C": "\u2014",
+        "D": "\u2014"
+      }
+    }
+  },
+  {
+    "id": "r21",
+    "difficulty": "easy",
+    "topic": "Syllogisms & Logical Deduction",
+    "question": "[Placeholder] Question 21 on Syllogisms & Logical Deduction. This question will be replaced with a real exam-style question.",
+    "options": {
+      "A": "Correct placeholder answer",
+      "B": "Distractor B",
+      "C": "Distractor C",
+      "D": "Distractor D"
+    },
+    "correct": "A",
+    "guidance": "Guidance will be added for this question.",
+    "explanation": {
+      "why_correct": "Explanation will be provided here.",
+      "why_wrong": {
+        "B": "\u2014",
+        "C": "\u2014",
+        "D": "\u2014"
+      }
+    }
+  },
+  {
+    "id": "r22",
+    "difficulty": "easy",
+    "topic": "Seating Arrangements & Puzzles",
+    "question": "[Placeholder] Question 22 on Seating Arrangements & Puzzles. This question will be replaced with a real exam-style question.",
+    "options": {
+      "A": "Correct placeholder answer",
+      "B": "Distractor B",
+      "C": "Distractor C",
+      "D": "Distractor D"
+    },
+    "correct": "A",
+    "guidance": "Guidance will be added for this question.",
+    "explanation": {
+      "why_correct": "Explanation will be provided here.",
+      "why_wrong": {
+        "B": "\u2014",
+        "C": "\u2014",
+        "D": "\u2014"
+      }
+    }
+  },
+  {
+    "id": "r23",
+    "difficulty": "easy",
+    "topic": "Statement & Assumption",
+    "question": "[Placeholder] Question 23 on Statement & Assumption. This question will be replaced with a real exam-style question.",
+    "options": {
+      "A": "Correct placeholder answer",
+      "B": "Distractor B",
+      "C": "Distractor C",
+      "D": "Distractor D"
+    },
+    "correct": "A",
+    "guidance": "Guidance will be added for this question.",
+    "explanation": {
+      "why_correct": "Explanation will be provided here.",
+      "why_wrong": {
+        "B": "\u2014",
+        "C": "\u2014",
+        "D": "\u2014"
+      }
+    }
+  },
+  {
+    "id": "r24",
+    "difficulty": "intermediate",
+    "topic": "Cause & Effect Analysis",
+    "question": "[Placeholder] Question 24 on Cause & Effect Analysis. This question will be replaced with a real exam-style question.",
+    "options": {
+      "A": "Correct placeholder answer",
+      "B": "Distractor B",
+      "C": "Distractor C",
+      "D": "Distractor D"
+    },
+    "correct": "A",
+    "guidance": "Guidance will be added for this question.",
+    "explanation": {
+      "why_correct": "Explanation will be provided here.",
+      "why_wrong": {
+        "B": "\u2014",
+        "C": "\u2014",
+        "D": "\u2014"
+      }
+    }
+  },
+  {
+    "id": "r25",
+    "difficulty": "intermediate",
+    "topic": "Management & Marketing Concepts",
+    "question": "[Placeholder] Question 25 on Management & Marketing Concepts. This question will be replaced with a real exam-style question.",
+    "options": {
+      "A": "Correct placeholder answer",
+      "B": "Distractor B",
+      "C": "Distractor C",
+      "D": "Distractor D"
+    },
+    "correct": "A",
+    "guidance": "Guidance will be added for this question.",
+    "explanation": {
+      "why_correct": "Explanation will be provided here.",
+      "why_wrong": {
+        "B": "\u2014",
+        "C": "\u2014",
+        "D": "\u2014"
+      }
+    }
+  },
+  {
+    "id": "r26",
+    "difficulty": "intermediate",
+    "topic": "Organisational Behaviour",
+    "question": "[Placeholder] Question 26 on Organisational Behaviour. This question will be replaced with a real exam-style question.",
+    "options": {
+      "A": "Correct placeholder answer",
+      "B": "Distractor B",
+      "C": "Distractor C",
+      "D": "Distractor D"
+    },
+    "correct": "A",
+    "guidance": "Guidance will be added for this question.",
+    "explanation": {
+      "why_correct": "Explanation will be provided here.",
+      "why_wrong": {
+        "B": "\u2014",
+        "C": "\u2014",
+        "D": "\u2014"
+      }
+    }
+  },
+  {
+    "id": "r27",
+    "difficulty": "intermediate",
+    "topic": "Economics & Business Terminology",
+    "question": "[Placeholder] Question 27 on Economics & Business Terminology. This question will be replaced with a real exam-style question.",
+    "options": {
+      "A": "Correct placeholder answer",
+      "B": "Distractor B",
+      "C": "Distractor C",
+      "D": "Distractor D"
+    },
+    "correct": "A",
+    "guidance": "Guidance will be added for this question.",
+    "explanation": {
+      "why_correct": "Explanation will be provided here.",
+      "why_wrong": {
+        "B": "\u2014",
+        "C": "\u2014",
+        "D": "\u2014"
+      }
+    }
+  },
+  {
+    "id": "r28",
+    "difficulty": "hard",
+    "topic": "Coding-Decoding & Analogies",
+    "question": "[Placeholder] Question 28 on Coding-Decoding & Analogies. This question will be replaced with a real exam-style question.",
+    "options": {
+      "A": "Correct placeholder answer",
+      "B": "Distractor B",
+      "C": "Distractor C",
+      "D": "Distractor D"
+    },
+    "correct": "A",
+    "guidance": "Guidance will be added for this question.",
+    "explanation": {
+      "why_correct": "Explanation will be provided here.",
+      "why_wrong": {
+        "B": "\u2014",
+        "C": "\u2014",
+        "D": "\u2014"
+      }
+    }
+  },
+  {
+    "id": "r29",
+    "difficulty": "hard",
+    "topic": "Blood Relations & Direction Sense",
+    "question": "[Placeholder] Question 29 on Blood Relations & Direction Sense. This question will be replaced with a real exam-style question.",
+    "options": {
+      "A": "Correct placeholder answer",
+      "B": "Distractor B",
+      "C": "Distractor C",
+      "D": "Distractor D"
+    },
+    "correct": "A",
+    "guidance": "Guidance will be added for this question.",
+    "explanation": {
+      "why_correct": "Explanation will be provided here.",
+      "why_wrong": {
+        "B": "\u2014",
+        "C": "\u2014",
+        "D": "\u2014"
+      }
+    }
+  },
+  {
+    "id": "r30",
+    "difficulty": "hard",
+    "topic": "Syllogisms & Logical Deduction",
+    "question": "[Placeholder] Question 30 on Syllogisms & Logical Deduction. This question will be replaced with a real exam-style question.",
+    "options": {
+      "A": "Correct placeholder answer",
+      "B": "Distractor B",
+      "C": "Distractor C",
+      "D": "Distractor D"
+    },
+    "correct": "A",
+    "guidance": "Guidance will be added for this question.",
+    "explanation": {
+      "why_correct": "Explanation will be provided here.",
+      "why_wrong": {
+        "B": "\u2014",
+        "C": "\u2014",
+        "D": "\u2014"
+      }
+    }
+  },
+  {
+    "id": "r31",
+    "difficulty": "easy",
+    "topic": "Seating Arrangements & Puzzles",
+    "question": "[Placeholder] Question 31 on Seating Arrangements & Puzzles. This question will be replaced with a real exam-style question.",
+    "options": {
+      "A": "Correct placeholder answer",
+      "B": "Distractor B",
+      "C": "Distractor C",
+      "D": "Distractor D"
+    },
+    "correct": "A",
+    "guidance": "Guidance will be added for this question.",
+    "explanation": {
+      "why_correct": "Explanation will be provided here.",
+      "why_wrong": {
+        "B": "\u2014",
+        "C": "\u2014",
+        "D": "\u2014"
+      }
+    }
+  },
+  {
+    "id": "r32",
+    "difficulty": "easy",
+    "topic": "Statement & Assumption",
+    "question": "[Placeholder] Question 32 on Statement & Assumption. This question will be replaced with a real exam-style question.",
+    "options": {
+      "A": "Correct placeholder answer",
+      "B": "Distractor B",
+      "C": "Distractor C",
+      "D": "Distractor D"
+    },
+    "correct": "A",
+    "guidance": "Guidance will be added for this question.",
+    "explanation": {
+      "why_correct": "Explanation will be provided here.",
+      "why_wrong": {
+        "B": "\u2014",
+        "C": "\u2014",
+        "D": "\u2014"
+      }
+    }
+  },
+  {
+    "id": "r33",
+    "difficulty": "easy",
+    "topic": "Cause & Effect Analysis",
+    "question": "[Placeholder] Question 33 on Cause & Effect Analysis. This question will be replaced with a real exam-style question.",
+    "options": {
+      "A": "Correct placeholder answer",
+      "B": "Distractor B",
+      "C": "Distractor C",
+      "D": "Distractor D"
+    },
+    "correct": "A",
+    "guidance": "Guidance will be added for this question.",
+    "explanation": {
+      "why_correct": "Explanation will be provided here.",
+      "why_wrong": {
+        "B": "\u2014",
+        "C": "\u2014",
+        "D": "\u2014"
+      }
+    }
+  },
+  {
+    "id": "r34",
+    "difficulty": "intermediate",
+    "topic": "Management & Marketing Concepts",
+    "question": "[Placeholder] Question 34 on Management & Marketing Concepts. This question will be replaced with a real exam-style question.",
+    "options": {
+      "A": "Correct placeholder answer",
+      "B": "Distractor B",
+      "C": "Distractor C",
+      "D": "Distractor D"
+    },
+    "correct": "A",
+    "guidance": "Guidance will be added for this question.",
+    "explanation": {
+      "why_correct": "Explanation will be provided here.",
+      "why_wrong": {
+        "B": "\u2014",
+        "C": "\u2014",
+        "D": "\u2014"
+      }
+    }
+  },
+  {
+    "id": "r35",
+    "difficulty": "intermediate",
+    "topic": "Organisational Behaviour",
+    "question": "[Placeholder] Question 35 on Organisational Behaviour. This question will be replaced with a real exam-style question.",
+    "options": {
+      "A": "Correct placeholder answer",
+      "B": "Distractor B",
+      "C": "Distractor C",
+      "D": "Distractor D"
+    },
+    "correct": "A",
+    "guidance": "Guidance will be added for this question.",
+    "explanation": {
+      "why_correct": "Explanation will be provided here.",
+      "why_wrong": {
+        "B": "\u2014",
+        "C": "\u2014",
+        "D": "\u2014"
+      }
+    }
+  },
+  {
+    "id": "r36",
+    "difficulty": "intermediate",
+    "topic": "Economics & Business Terminology",
+    "question": "[Placeholder] Question 36 on Economics & Business Terminology. This question will be replaced with a real exam-style question.",
+    "options": {
+      "A": "Correct placeholder answer",
+      "B": "Distractor B",
+      "C": "Distractor C",
+      "D": "Distractor D"
+    },
+    "correct": "A",
+    "guidance": "Guidance will be added for this question.",
+    "explanation": {
+      "why_correct": "Explanation will be provided here.",
+      "why_wrong": {
+        "B": "\u2014",
+        "C": "\u2014",
+        "D": "\u2014"
+      }
+    }
+  },
+  {
+    "id": "r37",
+    "difficulty": "intermediate",
+    "topic": "Coding-Decoding & Analogies",
+    "question": "[Placeholder] Question 37 on Coding-Decoding & Analogies. This question will be replaced with a real exam-style question.",
+    "options": {
+      "A": "Correct placeholder answer",
+      "B": "Distractor B",
+      "C": "Distractor C",
+      "D": "Distractor D"
+    },
+    "correct": "A",
+    "guidance": "Guidance will be added for this question.",
+    "explanation": {
+      "why_correct": "Explanation will be provided here.",
+      "why_wrong": {
+        "B": "\u2014",
+        "C": "\u2014",
+        "D": "\u2014"
+      }
+    }
+  },
+  {
+    "id": "r38",
+    "difficulty": "hard",
+    "topic": "Blood Relations & Direction Sense",
+    "question": "[Placeholder] Question 38 on Blood Relations & Direction Sense. This question will be replaced with a real exam-style question.",
+    "options": {
+      "A": "Correct placeholder answer",
+      "B": "Distractor B",
+      "C": "Distractor C",
+      "D": "Distractor D"
+    },
+    "correct": "A",
+    "guidance": "Guidance will be added for this question.",
+    "explanation": {
+      "why_correct": "Explanation will be provided here.",
+      "why_wrong": {
+        "B": "\u2014",
+        "C": "\u2014",
+        "D": "\u2014"
+      }
+    }
+  },
+  {
+    "id": "r39",
+    "difficulty": "hard",
+    "topic": "Syllogisms & Logical Deduction",
+    "question": "[Placeholder] Question 39 on Syllogisms & Logical Deduction. This question will be replaced with a real exam-style question.",
+    "options": {
+      "A": "Correct placeholder answer",
+      "B": "Distractor B",
+      "C": "Distractor C",
+      "D": "Distractor D"
+    },
+    "correct": "A",
+    "guidance": "Guidance will be added for this question.",
+    "explanation": {
+      "why_correct": "Explanation will be provided here.",
+      "why_wrong": {
+        "B": "\u2014",
+        "C": "\u2014",
+        "D": "\u2014"
+      }
+    }
+  },
+  {
+    "id": "r40",
+    "difficulty": "hard",
+    "topic": "Seating Arrangements & Puzzles",
+    "question": "[Placeholder] Question 40 on Seating Arrangements & Puzzles. This question will be replaced with a real exam-style question.",
+    "options": {
+      "A": "Correct placeholder answer",
+      "B": "Distractor B",
+      "C": "Distractor C",
+      "D": "Distractor D"
+    },
+    "correct": "A",
+    "guidance": "Guidance will be added for this question.",
+    "explanation": {
+      "why_correct": "Explanation will be provided here.",
+      "why_wrong": {
+        "B": "\u2014",
+        "C": "\u2014",
+        "D": "\u2014"
+      }
+    }
+  },
+  {
+    "id": "r41",
+    "difficulty": "easy",
+    "topic": "Statement & Assumption",
+    "question": "[Placeholder] Question 41 on Statement & Assumption. This question will be replaced with a real exam-style question.",
+    "options": {
+      "A": "Correct placeholder answer",
+      "B": "Distractor B",
+      "C": "Distractor C",
+      "D": "Distractor D"
+    },
+    "correct": "A",
+    "guidance": "Guidance will be added for this question.",
+    "explanation": {
+      "why_correct": "Explanation will be provided here.",
+      "why_wrong": {
+        "B": "\u2014",
+        "C": "\u2014",
+        "D": "\u2014"
+      }
+    }
+  },
+  {
+    "id": "r42",
+    "difficulty": "easy",
+    "topic": "Cause & Effect Analysis",
+    "question": "[Placeholder] Question 42 on Cause & Effect Analysis. This question will be replaced with a real exam-style question.",
+    "options": {
+      "A": "Correct placeholder answer",
+      "B": "Distractor B",
+      "C": "Distractor C",
+      "D": "Distractor D"
+    },
+    "correct": "A",
+    "guidance": "Guidance will be added for this question.",
+    "explanation": {
+      "why_correct": "Explanation will be provided here.",
+      "why_wrong": {
+        "B": "\u2014",
+        "C": "\u2014",
+        "D": "\u2014"
+      }
+    }
+  },
+  {
+    "id": "r43",
+    "difficulty": "easy",
+    "topic": "Management & Marketing Concepts",
+    "question": "[Placeholder] Question 43 on Management & Marketing Concepts. This question will be replaced with a real exam-style question.",
+    "options": {
+      "A": "Correct placeholder answer",
+      "B": "Distractor B",
+      "C": "Distractor C",
+      "D": "Distractor D"
+    },
+    "correct": "A",
+    "guidance": "Guidance will be added for this question.",
+    "explanation": {
+      "why_correct": "Explanation will be provided here.",
+      "why_wrong": {
+        "B": "\u2014",
+        "C": "\u2014",
+        "D": "\u2014"
+      }
+    }
+  },
+  {
+    "id": "r44",
+    "difficulty": "intermediate",
+    "topic": "Organisational Behaviour",
+    "question": "[Placeholder] Question 44 on Organisational Behaviour. This question will be replaced with a real exam-style question.",
+    "options": {
+      "A": "Correct placeholder answer",
+      "B": "Distractor B",
+      "C": "Distractor C",
+      "D": "Distractor D"
+    },
+    "correct": "A",
+    "guidance": "Guidance will be added for this question.",
+    "explanation": {
+      "why_correct": "Explanation will be provided here.",
+      "why_wrong": {
+        "B": "\u2014",
+        "C": "\u2014",
+        "D": "\u2014"
+      }
+    }
+  },
+  {
+    "id": "r45",
+    "difficulty": "intermediate",
+    "topic": "Economics & Business Terminology",
+    "question": "[Placeholder] Question 45 on Economics & Business Terminology. This question will be replaced with a real exam-style question.",
+    "options": {
+      "A": "Correct placeholder answer",
+      "B": "Distractor B",
+      "C": "Distractor C",
+      "D": "Distractor D"
+    },
+    "correct": "A",
+    "guidance": "Guidance will be added for this question.",
+    "explanation": {
+      "why_correct": "Explanation will be provided here.",
+      "why_wrong": {
+        "B": "\u2014",
+        "C": "\u2014",
+        "D": "\u2014"
+      }
+    }
+  },
+  {
+    "id": "r46",
+    "difficulty": "intermediate",
+    "topic": "Coding-Decoding & Analogies",
+    "question": "[Placeholder] Question 46 on Coding-Decoding & Analogies. This question will be replaced with a real exam-style question.",
+    "options": {
+      "A": "Correct placeholder answer",
+      "B": "Distractor B",
+      "C": "Distractor C",
+      "D": "Distractor D"
+    },
+    "correct": "A",
+    "guidance": "Guidance will be added for this question.",
+    "explanation": {
+      "why_correct": "Explanation will be provided here.",
+      "why_wrong": {
+        "B": "\u2014",
+        "C": "\u2014",
+        "D": "\u2014"
+      }
+    }
+  },
+  {
+    "id": "r47",
+    "difficulty": "intermediate",
+    "topic": "Blood Relations & Direction Sense",
+    "question": "[Placeholder] Question 47 on Blood Relations & Direction Sense. This question will be replaced with a real exam-style question.",
+    "options": {
+      "A": "Correct placeholder answer",
+      "B": "Distractor B",
+      "C": "Distractor C",
+      "D": "Distractor D"
+    },
+    "correct": "A",
+    "guidance": "Guidance will be added for this question.",
+    "explanation": {
+      "why_correct": "Explanation will be provided here.",
+      "why_wrong": {
+        "B": "\u2014",
+        "C": "\u2014",
+        "D": "\u2014"
+      }
+    }
+  },
+  {
+    "id": "r48",
+    "difficulty": "hard",
+    "topic": "Syllogisms & Logical Deduction",
+    "question": "[Placeholder] Question 48 on Syllogisms & Logical Deduction. This question will be replaced with a real exam-style question.",
+    "options": {
+      "A": "Correct placeholder answer",
+      "B": "Distractor B",
+      "C": "Distractor C",
+      "D": "Distractor D"
+    },
+    "correct": "A",
+    "guidance": "Guidance will be added for this question.",
+    "explanation": {
+      "why_correct": "Explanation will be provided here.",
+      "why_wrong": {
+        "B": "\u2014",
+        "C": "\u2014",
+        "D": "\u2014"
+      }
+    }
+  },
+  {
+    "id": "r49",
+    "difficulty": "hard",
+    "topic": "Seating Arrangements & Puzzles",
+    "question": "[Placeholder] Question 49 on Seating Arrangements & Puzzles. This question will be replaced with a real exam-style question.",
+    "options": {
+      "A": "Correct placeholder answer",
+      "B": "Distractor B",
+      "C": "Distractor C",
+      "D": "Distractor D"
+    },
+    "correct": "A",
+    "guidance": "Guidance will be added for this question.",
+    "explanation": {
+      "why_correct": "Explanation will be provided here.",
+      "why_wrong": {
+        "B": "\u2014",
+        "C": "\u2014",
+        "D": "\u2014"
+      }
+    }
+  },
+  {
+    "id": "r50",
+    "difficulty": "hard",
+    "topic": "Statement & Assumption",
+    "question": "[Placeholder] Question 50 on Statement & Assumption. This question will be replaced with a real exam-style question.",
+    "options": {
+      "A": "Correct placeholder answer",
+      "B": "Distractor B",
+      "C": "Distractor C",
+      "D": "Distractor D"
+    },
+    "correct": "A",
+    "guidance": "Guidance will be added for this question.",
+    "explanation": {
+      "why_correct": "Explanation will be provided here.",
+      "why_wrong": {
+        "B": "\u2014",
+        "C": "\u2014",
+        "D": "\u2014"
+      }
+    }
+  },
+  {
+    "id": "r51",
+    "difficulty": "easy",
+    "topic": "Cause & Effect Analysis",
+    "question": "[Placeholder] Question 51 on Cause & Effect Analysis. This question will be replaced with a real exam-style question.",
+    "options": {
+      "A": "Correct placeholder answer",
+      "B": "Distractor B",
+      "C": "Distractor C",
+      "D": "Distractor D"
+    },
+    "correct": "A",
+    "guidance": "Guidance will be added for this question.",
+    "explanation": {
+      "why_correct": "Explanation will be provided here.",
+      "why_wrong": {
+        "B": "\u2014",
+        "C": "\u2014",
+        "D": "\u2014"
+      }
+    }
+  },
+  {
+    "id": "r52",
+    "difficulty": "easy",
+    "topic": "Management & Marketing Concepts",
+    "question": "[Placeholder] Question 52 on Management & Marketing Concepts. This question will be replaced with a real exam-style question.",
+    "options": {
+      "A": "Correct placeholder answer",
+      "B": "Distractor B",
+      "C": "Distractor C",
+      "D": "Distractor D"
+    },
+    "correct": "A",
+    "guidance": "Guidance will be added for this question.",
+    "explanation": {
+      "why_correct": "Explanation will be provided here.",
+      "why_wrong": {
+        "B": "\u2014",
+        "C": "\u2014",
+        "D": "\u2014"
+      }
+    }
+  },
+  {
+    "id": "r53",
+    "difficulty": "easy",
+    "topic": "Organisational Behaviour",
+    "question": "[Placeholder] Question 53 on Organisational Behaviour. This question will be replaced with a real exam-style question.",
+    "options": {
+      "A": "Correct placeholder answer",
+      "B": "Distractor B",
+      "C": "Distractor C",
+      "D": "Distractor D"
+    },
+    "correct": "A",
+    "guidance": "Guidance will be added for this question.",
+    "explanation": {
+      "why_correct": "Explanation will be provided here.",
+      "why_wrong": {
+        "B": "\u2014",
+        "C": "\u2014",
+        "D": "\u2014"
+      }
+    }
+  },
+  {
+    "id": "r54",
+    "difficulty": "intermediate",
+    "topic": "Economics & Business Terminology",
+    "question": "[Placeholder] Question 54 on Economics & Business Terminology. This question will be replaced with a real exam-style question.",
+    "options": {
+      "A": "Correct placeholder answer",
+      "B": "Distractor B",
+      "C": "Distractor C",
+      "D": "Distractor D"
+    },
+    "correct": "A",
+    "guidance": "Guidance will be added for this question.",
+    "explanation": {
+      "why_correct": "Explanation will be provided here.",
+      "why_wrong": {
+        "B": "\u2014",
+        "C": "\u2014",
+        "D": "\u2014"
+      }
+    }
+  },
+  {
+    "id": "r55",
+    "difficulty": "intermediate",
+    "topic": "Coding-Decoding & Analogies",
+    "question": "[Placeholder] Question 55 on Coding-Decoding & Analogies. This question will be replaced with a real exam-style question.",
+    "options": {
+      "A": "Correct placeholder answer",
+      "B": "Distractor B",
+      "C": "Distractor C",
+      "D": "Distractor D"
+    },
+    "correct": "A",
+    "guidance": "Guidance will be added for this question.",
+    "explanation": {
+      "why_correct": "Explanation will be provided here.",
+      "why_wrong": {
+        "B": "\u2014",
+        "C": "\u2014",
+        "D": "\u2014"
+      }
+    }
+  },
+  {
+    "id": "r56",
+    "difficulty": "intermediate",
+    "topic": "Blood Relations & Direction Sense",
+    "question": "[Placeholder] Question 56 on Blood Relations & Direction Sense. This question will be replaced with a real exam-style question.",
+    "options": {
+      "A": "Correct placeholder answer",
+      "B": "Distractor B",
+      "C": "Distractor C",
+      "D": "Distractor D"
+    },
+    "correct": "A",
+    "guidance": "Guidance will be added for this question.",
+    "explanation": {
+      "why_correct": "Explanation will be provided here.",
+      "why_wrong": {
+        "B": "\u2014",
+        "C": "\u2014",
+        "D": "\u2014"
+      }
+    }
+  },
+  {
+    "id": "r57",
+    "difficulty": "intermediate",
+    "topic": "Syllogisms & Logical Deduction",
+    "question": "[Placeholder] Question 57 on Syllogisms & Logical Deduction. This question will be replaced with a real exam-style question.",
+    "options": {
+      "A": "Correct placeholder answer",
+      "B": "Distractor B",
+      "C": "Distractor C",
+      "D": "Distractor D"
+    },
+    "correct": "A",
+    "guidance": "Guidance will be added for this question.",
+    "explanation": {
+      "why_correct": "Explanation will be provided here.",
+      "why_wrong": {
+        "B": "\u2014",
+        "C": "\u2014",
+        "D": "\u2014"
+      }
+    }
+  },
+  {
+    "id": "r58",
+    "difficulty": "hard",
+    "topic": "Seating Arrangements & Puzzles",
+    "question": "[Placeholder] Question 58 on Seating Arrangements & Puzzles. This question will be replaced with a real exam-style question.",
+    "options": {
+      "A": "Correct placeholder answer",
+      "B": "Distractor B",
+      "C": "Distractor C",
+      "D": "Distractor D"
+    },
+    "correct": "A",
+    "guidance": "Guidance will be added for this question.",
+    "explanation": {
+      "why_correct": "Explanation will be provided here.",
+      "why_wrong": {
+        "B": "\u2014",
+        "C": "\u2014",
+        "D": "\u2014"
+      }
+    }
+  },
+  {
+    "id": "r59",
+    "difficulty": "hard",
+    "topic": "Statement & Assumption",
+    "question": "[Placeholder] Question 59 on Statement & Assumption. This question will be replaced with a real exam-style question.",
+    "options": {
+      "A": "Correct placeholder answer",
+      "B": "Distractor B",
+      "C": "Distractor C",
+      "D": "Distractor D"
+    },
+    "correct": "A",
+    "guidance": "Guidance will be added for this question.",
+    "explanation": {
+      "why_correct": "Explanation will be provided here.",
+      "why_wrong": {
+        "B": "\u2014",
+        "C": "\u2014",
+        "D": "\u2014"
+      }
+    }
+  },
+  {
+    "id": "r60",
+    "difficulty": "hard",
+    "topic": "Cause & Effect Analysis",
+    "question": "[Placeholder] Question 60 on Cause & Effect Analysis. This question will be replaced with a real exam-style question.",
+    "options": {
+      "A": "Correct placeholder answer",
+      "B": "Distractor B",
+      "C": "Distractor C",
+      "D": "Distractor D"
+    },
+    "correct": "A",
+    "guidance": "Guidance will be added for this question.",
+    "explanation": {
+      "why_correct": "Explanation will be provided here.",
+      "why_wrong": {
+        "B": "\u2014",
+        "C": "\u2014",
+        "D": "\u2014"
+      }
+    }
+  },
+  {
+    "id": "r61",
+    "difficulty": "easy",
+    "topic": "Management & Marketing Concepts",
+    "question": "[Placeholder] Question 61 on Management & Marketing Concepts. This question will be replaced with a real exam-style question.",
+    "options": {
+      "A": "Correct placeholder answer",
+      "B": "Distractor B",
+      "C": "Distractor C",
+      "D": "Distractor D"
+    },
+    "correct": "A",
+    "guidance": "Guidance will be added for this question.",
+    "explanation": {
+      "why_correct": "Explanation will be provided here.",
+      "why_wrong": {
+        "B": "\u2014",
+        "C": "\u2014",
+        "D": "\u2014"
+      }
+    }
+  },
+  {
+    "id": "r62",
+    "difficulty": "easy",
+    "topic": "Organisational Behaviour",
+    "question": "[Placeholder] Question 62 on Organisational Behaviour. This question will be replaced with a real exam-style question.",
+    "options": {
+      "A": "Correct placeholder answer",
+      "B": "Distractor B",
+      "C": "Distractor C",
+      "D": "Distractor D"
+    },
+    "correct": "A",
+    "guidance": "Guidance will be added for this question.",
+    "explanation": {
+      "why_correct": "Explanation will be provided here.",
+      "why_wrong": {
+        "B": "\u2014",
+        "C": "\u2014",
+        "D": "\u2014"
+      }
+    }
+  },
+  {
+    "id": "r63",
+    "difficulty": "easy",
+    "topic": "Economics & Business Terminology",
+    "question": "[Placeholder] Question 63 on Economics & Business Terminology. This question will be replaced with a real exam-style question.",
+    "options": {
+      "A": "Correct placeholder answer",
+      "B": "Distractor B",
+      "C": "Distractor C",
+      "D": "Distractor D"
+    },
+    "correct": "A",
+    "guidance": "Guidance will be added for this question.",
+    "explanation": {
+      "why_correct": "Explanation will be provided here.",
+      "why_wrong": {
+        "B": "\u2014",
+        "C": "\u2014",
+        "D": "\u2014"
+      }
+    }
+  },
+  {
+    "id": "r64",
+    "difficulty": "intermediate",
+    "topic": "Coding-Decoding & Analogies",
+    "question": "[Placeholder] Question 64 on Coding-Decoding & Analogies. This question will be replaced with a real exam-style question.",
+    "options": {
+      "A": "Correct placeholder answer",
+      "B": "Distractor B",
+      "C": "Distractor C",
+      "D": "Distractor D"
+    },
+    "correct": "A",
+    "guidance": "Guidance will be added for this question.",
+    "explanation": {
+      "why_correct": "Explanation will be provided here.",
+      "why_wrong": {
+        "B": "\u2014",
+        "C": "\u2014",
+        "D": "\u2014"
+      }
+    }
+  },
+  {
+    "id": "r65",
+    "difficulty": "intermediate",
+    "topic": "Blood Relations & Direction Sense",
+    "question": "[Placeholder] Question 65 on Blood Relations & Direction Sense. This question will be replaced with a real exam-style question.",
+    "options": {
+      "A": "Correct placeholder answer",
+      "B": "Distractor B",
+      "C": "Distractor C",
+      "D": "Distractor D"
+    },
+    "correct": "A",
+    "guidance": "Guidance will be added for this question.",
+    "explanation": {
+      "why_correct": "Explanation will be provided here.",
+      "why_wrong": {
+        "B": "\u2014",
+        "C": "\u2014",
+        "D": "\u2014"
+      }
+    }
+  },
+  {
+    "id": "r66",
+    "difficulty": "intermediate",
+    "topic": "Syllogisms & Logical Deduction",
+    "question": "[Placeholder] Question 66 on Syllogisms & Logical Deduction. This question will be replaced with a real exam-style question.",
+    "options": {
+      "A": "Correct placeholder answer",
+      "B": "Distractor B",
+      "C": "Distractor C",
+      "D": "Distractor D"
+    },
+    "correct": "A",
+    "guidance": "Guidance will be added for this question.",
+    "explanation": {
+      "why_correct": "Explanation will be provided here.",
+      "why_wrong": {
+        "B": "\u2014",
+        "C": "\u2014",
+        "D": "\u2014"
+      }
+    }
+  },
+  {
+    "id": "r67",
+    "difficulty": "intermediate",
+    "topic": "Seating Arrangements & Puzzles",
+    "question": "[Placeholder] Question 67 on Seating Arrangements & Puzzles. This question will be replaced with a real exam-style question.",
+    "options": {
+      "A": "Correct placeholder answer",
+      "B": "Distractor B",
+      "C": "Distractor C",
+      "D": "Distractor D"
+    },
+    "correct": "A",
+    "guidance": "Guidance will be added for this question.",
+    "explanation": {
+      "why_correct": "Explanation will be provided here.",
+      "why_wrong": {
+        "B": "\u2014",
+        "C": "\u2014",
+        "D": "\u2014"
+      }
+    }
+  },
+  {
+    "id": "r68",
+    "difficulty": "hard",
+    "topic": "Statement & Assumption",
+    "question": "[Placeholder] Question 68 on Statement & Assumption. This question will be replaced with a real exam-style question.",
+    "options": {
+      "A": "Correct placeholder answer",
+      "B": "Distractor B",
+      "C": "Distractor C",
+      "D": "Distractor D"
+    },
+    "correct": "A",
+    "guidance": "Guidance will be added for this question.",
+    "explanation": {
+      "why_correct": "Explanation will be provided here.",
+      "why_wrong": {
+        "B": "\u2014",
+        "C": "\u2014",
+        "D": "\u2014"
+      }
+    }
+  },
+  {
+    "id": "r69",
+    "difficulty": "hard",
+    "topic": "Cause & Effect Analysis",
+    "question": "[Placeholder] Question 69 on Cause & Effect Analysis. This question will be replaced with a real exam-style question.",
+    "options": {
+      "A": "Correct placeholder answer",
+      "B": "Distractor B",
+      "C": "Distractor C",
+      "D": "Distractor D"
+    },
+    "correct": "A",
+    "guidance": "Guidance will be added for this question.",
+    "explanation": {
+      "why_correct": "Explanation will be provided here.",
+      "why_wrong": {
+        "B": "\u2014",
+        "C": "\u2014",
+        "D": "\u2014"
+      }
+    }
+  },
+  {
+    "id": "r70",
+    "difficulty": "hard",
+    "topic": "Management & Marketing Concepts",
+    "question": "[Placeholder] Question 70 on Management & Marketing Concepts. This question will be replaced with a real exam-style question.",
+    "options": {
+      "A": "Correct placeholder answer",
+      "B": "Distractor B",
+      "C": "Distractor C",
+      "D": "Distractor D"
+    },
+    "correct": "A",
+    "guidance": "Guidance will be added for this question.",
+    "explanation": {
+      "why_correct": "Explanation will be provided here.",
+      "why_wrong": {
+        "B": "\u2014",
+        "C": "\u2014",
+        "D": "\u2014"
+      }
+    }
+  },
+  {
+    "id": "r71",
+    "difficulty": "easy",
+    "topic": "Organisational Behaviour",
+    "question": "[Placeholder] Question 71 on Organisational Behaviour. This question will be replaced with a real exam-style question.",
+    "options": {
+      "A": "Correct placeholder answer",
+      "B": "Distractor B",
+      "C": "Distractor C",
+      "D": "Distractor D"
+    },
+    "correct": "A",
+    "guidance": "Guidance will be added for this question.",
+    "explanation": {
+      "why_correct": "Explanation will be provided here.",
+      "why_wrong": {
+        "B": "\u2014",
+        "C": "\u2014",
+        "D": "\u2014"
+      }
+    }
+  },
+  {
+    "id": "r72",
+    "difficulty": "easy",
+    "topic": "Economics & Business Terminology",
+    "question": "[Placeholder] Question 72 on Economics & Business Terminology. This question will be replaced with a real exam-style question.",
+    "options": {
+      "A": "Correct placeholder answer",
+      "B": "Distractor B",
+      "C": "Distractor C",
+      "D": "Distractor D"
+    },
+    "correct": "A",
+    "guidance": "Guidance will be added for this question.",
+    "explanation": {
+      "why_correct": "Explanation will be provided here.",
+      "why_wrong": {
+        "B": "\u2014",
+        "C": "\u2014",
+        "D": "\u2014"
+      }
+    }
+  },
+  {
+    "id": "r73",
+    "difficulty": "easy",
+    "topic": "Coding-Decoding & Analogies",
+    "question": "[Placeholder] Question 73 on Coding-Decoding & Analogies. This question will be replaced with a real exam-style question.",
+    "options": {
+      "A": "Correct placeholder answer",
+      "B": "Distractor B",
+      "C": "Distractor C",
+      "D": "Distractor D"
+    },
+    "correct": "A",
+    "guidance": "Guidance will be added for this question.",
+    "explanation": {
+      "why_correct": "Explanation will be provided here.",
+      "why_wrong": {
+        "B": "\u2014",
+        "C": "\u2014",
+        "D": "\u2014"
+      }
+    }
+  },
+  {
+    "id": "r74",
+    "difficulty": "intermediate",
+    "topic": "Blood Relations & Direction Sense",
+    "question": "[Placeholder] Question 74 on Blood Relations & Direction Sense. This question will be replaced with a real exam-style question.",
+    "options": {
+      "A": "Correct placeholder answer",
+      "B": "Distractor B",
+      "C": "Distractor C",
+      "D": "Distractor D"
+    },
+    "correct": "A",
+    "guidance": "Guidance will be added for this question.",
+    "explanation": {
+      "why_correct": "Explanation will be provided here.",
+      "why_wrong": {
+        "B": "\u2014",
+        "C": "\u2014",
+        "D": "\u2014"
+      }
+    }
+  },
+  {
+    "id": "r75",
+    "difficulty": "intermediate",
+    "topic": "Syllogisms & Logical Deduction",
+    "question": "[Placeholder] Question 75 on Syllogisms & Logical Deduction. This question will be replaced with a real exam-style question.",
+    "options": {
+      "A": "Correct placeholder answer",
+      "B": "Distractor B",
+      "C": "Distractor C",
+      "D": "Distractor D"
+    },
+    "correct": "A",
+    "guidance": "Guidance will be added for this question.",
+    "explanation": {
+      "why_correct": "Explanation will be provided here.",
+      "why_wrong": {
+        "B": "\u2014",
+        "C": "\u2014",
+        "D": "\u2014"
+      }
+    }
+  },
+  {
+    "id": "r76",
+    "difficulty": "intermediate",
+    "topic": "Seating Arrangements & Puzzles",
+    "question": "[Placeholder] Question 76 on Seating Arrangements & Puzzles. This question will be replaced with a real exam-style question.",
+    "options": {
+      "A": "Correct placeholder answer",
+      "B": "Distractor B",
+      "C": "Distractor C",
+      "D": "Distractor D"
+    },
+    "correct": "A",
+    "guidance": "Guidance will be added for this question.",
+    "explanation": {
+      "why_correct": "Explanation will be provided here.",
+      "why_wrong": {
+        "B": "\u2014",
+        "C": "\u2014",
+        "D": "\u2014"
+      }
+    }
+  },
+  {
+    "id": "r77",
+    "difficulty": "intermediate",
+    "topic": "Statement & Assumption",
+    "question": "[Placeholder] Question 77 on Statement & Assumption. This question will be replaced with a real exam-style question.",
+    "options": {
+      "A": "Correct placeholder answer",
+      "B": "Distractor B",
+      "C": "Distractor C",
+      "D": "Distractor D"
+    },
+    "correct": "A",
+    "guidance": "Guidance will be added for this question.",
+    "explanation": {
+      "why_correct": "Explanation will be provided here.",
+      "why_wrong": {
+        "B": "\u2014",
+        "C": "\u2014",
+        "D": "\u2014"
+      }
+    }
+  },
+  {
+    "id": "r78",
+    "difficulty": "hard",
+    "topic": "Cause & Effect Analysis",
+    "question": "[Placeholder] Question 78 on Cause & Effect Analysis. This question will be replaced with a real exam-style question.",
+    "options": {
+      "A": "Correct placeholder answer",
+      "B": "Distractor B",
+      "C": "Distractor C",
+      "D": "Distractor D"
+    },
+    "correct": "A",
+    "guidance": "Guidance will be added for this question.",
+    "explanation": {
+      "why_correct": "Explanation will be provided here.",
+      "why_wrong": {
+        "B": "\u2014",
+        "C": "\u2014",
+        "D": "\u2014"
+      }
+    }
+  },
+  {
+    "id": "r79",
+    "difficulty": "hard",
+    "topic": "Management & Marketing Concepts",
+    "question": "[Placeholder] Question 79 on Management & Marketing Concepts. This question will be replaced with a real exam-style question.",
+    "options": {
+      "A": "Correct placeholder answer",
+      "B": "Distractor B",
+      "C": "Distractor C",
+      "D": "Distractor D"
+    },
+    "correct": "A",
+    "guidance": "Guidance will be added for this question.",
+    "explanation": {
+      "why_correct": "Explanation will be provided here.",
+      "why_wrong": {
+        "B": "\u2014",
+        "C": "\u2014",
+        "D": "\u2014"
+      }
+    }
+  },
+  {
+    "id": "r80",
+    "difficulty": "hard",
+    "topic": "Organisational Behaviour",
+    "question": "[Placeholder] Question 80 on Organisational Behaviour. This question will be replaced with a real exam-style question.",
+    "options": {
+      "A": "Correct placeholder answer",
+      "B": "Distractor B",
+      "C": "Distractor C",
+      "D": "Distractor D"
+    },
+    "correct": "A",
+    "guidance": "Guidance will be added for this question.",
+    "explanation": {
+      "why_correct": "Explanation will be provided here.",
+      "why_wrong": {
+        "B": "\u2014",
+        "C": "\u2014",
+        "D": "\u2014"
+      }
+    }
+  },
+  {
+    "id": "r81",
+    "difficulty": "easy",
+    "topic": "Economics & Business Terminology",
+    "question": "[Placeholder] Question 81 on Economics & Business Terminology. This question will be replaced with a real exam-style question.",
+    "options": {
+      "A": "Correct placeholder answer",
+      "B": "Distractor B",
+      "C": "Distractor C",
+      "D": "Distractor D"
+    },
+    "correct": "A",
+    "guidance": "Guidance will be added for this question.",
+    "explanation": {
+      "why_correct": "Explanation will be provided here.",
+      "why_wrong": {
+        "B": "\u2014",
+        "C": "\u2014",
+        "D": "\u2014"
+      }
+    }
+  },
+  {
+    "id": "r82",
+    "difficulty": "easy",
+    "topic": "Coding-Decoding & Analogies",
+    "question": "[Placeholder] Question 82 on Coding-Decoding & Analogies. This question will be replaced with a real exam-style question.",
+    "options": {
+      "A": "Correct placeholder answer",
+      "B": "Distractor B",
+      "C": "Distractor C",
+      "D": "Distractor D"
+    },
+    "correct": "A",
+    "guidance": "Guidance will be added for this question.",
+    "explanation": {
+      "why_correct": "Explanation will be provided here.",
+      "why_wrong": {
+        "B": "\u2014",
+        "C": "\u2014",
+        "D": "\u2014"
+      }
+    }
+  },
+  {
+    "id": "r83",
+    "difficulty": "easy",
+    "topic": "Blood Relations & Direction Sense",
+    "question": "[Placeholder] Question 83 on Blood Relations & Direction Sense. This question will be replaced with a real exam-style question.",
+    "options": {
+      "A": "Correct placeholder answer",
+      "B": "Distractor B",
+      "C": "Distractor C",
+      "D": "Distractor D"
+    },
+    "correct": "A",
+    "guidance": "Guidance will be added for this question.",
+    "explanation": {
+      "why_correct": "Explanation will be provided here.",
+      "why_wrong": {
+        "B": "\u2014",
+        "C": "\u2014",
+        "D": "\u2014"
+      }
+    }
+  },
+  {
+    "id": "r84",
+    "difficulty": "intermediate",
+    "topic": "Syllogisms & Logical Deduction",
+    "question": "[Placeholder] Question 84 on Syllogisms & Logical Deduction. This question will be replaced with a real exam-style question.",
+    "options": {
+      "A": "Correct placeholder answer",
+      "B": "Distractor B",
+      "C": "Distractor C",
+      "D": "Distractor D"
+    },
+    "correct": "A",
+    "guidance": "Guidance will be added for this question.",
+    "explanation": {
+      "why_correct": "Explanation will be provided here.",
+      "why_wrong": {
+        "B": "\u2014",
+        "C": "\u2014",
+        "D": "\u2014"
+      }
+    }
+  },
+  {
+    "id": "r85",
+    "difficulty": "intermediate",
+    "topic": "Seating Arrangements & Puzzles",
+    "question": "[Placeholder] Question 85 on Seating Arrangements & Puzzles. This question will be replaced with a real exam-style question.",
+    "options": {
+      "A": "Correct placeholder answer",
+      "B": "Distractor B",
+      "C": "Distractor C",
+      "D": "Distractor D"
+    },
+    "correct": "A",
+    "guidance": "Guidance will be added for this question.",
+    "explanation": {
+      "why_correct": "Explanation will be provided here.",
+      "why_wrong": {
+        "B": "\u2014",
+        "C": "\u2014",
+        "D": "\u2014"
+      }
+    }
+  },
+  {
+    "id": "r86",
+    "difficulty": "intermediate",
+    "topic": "Statement & Assumption",
+    "question": "[Placeholder] Question 86 on Statement & Assumption. This question will be replaced with a real exam-style question.",
+    "options": {
+      "A": "Correct placeholder answer",
+      "B": "Distractor B",
+      "C": "Distractor C",
+      "D": "Distractor D"
+    },
+    "correct": "A",
+    "guidance": "Guidance will be added for this question.",
+    "explanation": {
+      "why_correct": "Explanation will be provided here.",
+      "why_wrong": {
+        "B": "\u2014",
+        "C": "\u2014",
+        "D": "\u2014"
+      }
+    }
+  },
+  {
+    "id": "r87",
+    "difficulty": "intermediate",
+    "topic": "Cause & Effect Analysis",
+    "question": "[Placeholder] Question 87 on Cause & Effect Analysis. This question will be replaced with a real exam-style question.",
+    "options": {
+      "A": "Correct placeholder answer",
+      "B": "Distractor B",
+      "C": "Distractor C",
+      "D": "Distractor D"
+    },
+    "correct": "A",
+    "guidance": "Guidance will be added for this question.",
+    "explanation": {
+      "why_correct": "Explanation will be provided here.",
+      "why_wrong": {
+        "B": "\u2014",
+        "C": "\u2014",
+        "D": "\u2014"
+      }
+    }
+  },
+  {
+    "id": "r88",
+    "difficulty": "hard",
+    "topic": "Management & Marketing Concepts",
+    "question": "[Placeholder] Question 88 on Management & Marketing Concepts. This question will be replaced with a real exam-style question.",
+    "options": {
+      "A": "Correct placeholder answer",
+      "B": "Distractor B",
+      "C": "Distractor C",
+      "D": "Distractor D"
+    },
+    "correct": "A",
+    "guidance": "Guidance will be added for this question.",
+    "explanation": {
+      "why_correct": "Explanation will be provided here.",
+      "why_wrong": {
+        "B": "\u2014",
+        "C": "\u2014",
+        "D": "\u2014"
+      }
+    }
+  },
+  {
+    "id": "r89",
+    "difficulty": "hard",
+    "topic": "Organisational Behaviour",
+    "question": "[Placeholder] Question 89 on Organisational Behaviour. This question will be replaced with a real exam-style question.",
+    "options": {
+      "A": "Correct placeholder answer",
+      "B": "Distractor B",
+      "C": "Distractor C",
+      "D": "Distractor D"
+    },
+    "correct": "A",
+    "guidance": "Guidance will be added for this question.",
+    "explanation": {
+      "why_correct": "Explanation will be provided here.",
+      "why_wrong": {
+        "B": "\u2014",
+        "C": "\u2014",
+        "D": "\u2014"
+      }
+    }
+  },
+  {
+    "id": "r90",
+    "difficulty": "hard",
+    "topic": "Economics & Business Terminology",
+    "question": "[Placeholder] Question 90 on Economics & Business Terminology. This question will be replaced with a real exam-style question.",
+    "options": {
+      "A": "Correct placeholder answer",
+      "B": "Distractor B",
+      "C": "Distractor C",
+      "D": "Distractor D"
+    },
+    "correct": "A",
+    "guidance": "Guidance will be added for this question.",
+    "explanation": {
+      "why_correct": "Explanation will be provided here.",
+      "why_wrong": {
+        "B": "\u2014",
+        "C": "\u2014",
+        "D": "\u2014"
+      }
+    }
+  },
+  {
+    "id": "r91",
+    "difficulty": "easy",
+    "topic": "Coding-Decoding & Analogies",
+    "question": "[Placeholder] Question 91 on Coding-Decoding & Analogies. This question will be replaced with a real exam-style question.",
+    "options": {
+      "A": "Correct placeholder answer",
+      "B": "Distractor B",
+      "C": "Distractor C",
+      "D": "Distractor D"
+    },
+    "correct": "A",
+    "guidance": "Guidance will be added for this question.",
+    "explanation": {
+      "why_correct": "Explanation will be provided here.",
+      "why_wrong": {
+        "B": "\u2014",
+        "C": "\u2014",
+        "D": "\u2014"
+      }
+    }
+  },
+  {
+    "id": "r92",
+    "difficulty": "easy",
+    "topic": "Blood Relations & Direction Sense",
+    "question": "[Placeholder] Question 92 on Blood Relations & Direction Sense. This question will be replaced with a real exam-style question.",
+    "options": {
+      "A": "Correct placeholder answer",
+      "B": "Distractor B",
+      "C": "Distractor C",
+      "D": "Distractor D"
+    },
+    "correct": "A",
+    "guidance": "Guidance will be added for this question.",
+    "explanation": {
+      "why_correct": "Explanation will be provided here.",
+      "why_wrong": {
+        "B": "\u2014",
+        "C": "\u2014",
+        "D": "\u2014"
+      }
+    }
+  },
+  {
+    "id": "r93",
+    "difficulty": "easy",
+    "topic": "Syllogisms & Logical Deduction",
+    "question": "[Placeholder] Question 93 on Syllogisms & Logical Deduction. This question will be replaced with a real exam-style question.",
+    "options": {
+      "A": "Correct placeholder answer",
+      "B": "Distractor B",
+      "C": "Distractor C",
+      "D": "Distractor D"
+    },
+    "correct": "A",
+    "guidance": "Guidance will be added for this question.",
+    "explanation": {
+      "why_correct": "Explanation will be provided here.",
+      "why_wrong": {
+        "B": "\u2014",
+        "C": "\u2014",
+        "D": "\u2014"
+      }
+    }
+  },
+  {
+    "id": "r94",
+    "difficulty": "intermediate",
+    "topic": "Seating Arrangements & Puzzles",
+    "question": "[Placeholder] Question 94 on Seating Arrangements & Puzzles. This question will be replaced with a real exam-style question.",
+    "options": {
+      "A": "Correct placeholder answer",
+      "B": "Distractor B",
+      "C": "Distractor C",
+      "D": "Distractor D"
+    },
+    "correct": "A",
+    "guidance": "Guidance will be added for this question.",
+    "explanation": {
+      "why_correct": "Explanation will be provided here.",
+      "why_wrong": {
+        "B": "\u2014",
+        "C": "\u2014",
+        "D": "\u2014"
+      }
+    }
+  },
+  {
+    "id": "r95",
+    "difficulty": "intermediate",
+    "topic": "Statement & Assumption",
+    "question": "[Placeholder] Question 95 on Statement & Assumption. This question will be replaced with a real exam-style question.",
+    "options": {
+      "A": "Correct placeholder answer",
+      "B": "Distractor B",
+      "C": "Distractor C",
+      "D": "Distractor D"
+    },
+    "correct": "A",
+    "guidance": "Guidance will be added for this question.",
+    "explanation": {
+      "why_correct": "Explanation will be provided here.",
+      "why_wrong": {
+        "B": "\u2014",
+        "C": "\u2014",
+        "D": "\u2014"
+      }
+    }
+  },
+  {
+    "id": "r96",
+    "difficulty": "intermediate",
+    "topic": "Cause & Effect Analysis",
+    "question": "[Placeholder] Question 96 on Cause & Effect Analysis. This question will be replaced with a real exam-style question.",
+    "options": {
+      "A": "Correct placeholder answer",
+      "B": "Distractor B",
+      "C": "Distractor C",
+      "D": "Distractor D"
+    },
+    "correct": "A",
+    "guidance": "Guidance will be added for this question.",
+    "explanation": {
+      "why_correct": "Explanation will be provided here.",
+      "why_wrong": {
+        "B": "\u2014",
+        "C": "\u2014",
+        "D": "\u2014"
+      }
+    }
+  },
+  {
+    "id": "r97",
+    "difficulty": "intermediate",
+    "topic": "Management & Marketing Concepts",
+    "question": "[Placeholder] Question 97 on Management & Marketing Concepts. This question will be replaced with a real exam-style question.",
+    "options": {
+      "A": "Correct placeholder answer",
+      "B": "Distractor B",
+      "C": "Distractor C",
+      "D": "Distractor D"
+    },
+    "correct": "A",
+    "guidance": "Guidance will be added for this question.",
+    "explanation": {
+      "why_correct": "Explanation will be provided here.",
+      "why_wrong": {
+        "B": "\u2014",
+        "C": "\u2014",
+        "D": "\u2014"
+      }
+    }
+  },
+  {
+    "id": "r98",
+    "difficulty": "hard",
+    "topic": "Organisational Behaviour",
+    "question": "[Placeholder] Question 98 on Organisational Behaviour. This question will be replaced with a real exam-style question.",
+    "options": {
+      "A": "Correct placeholder answer",
+      "B": "Distractor B",
+      "C": "Distractor C",
+      "D": "Distractor D"
+    },
+    "correct": "A",
+    "guidance": "Guidance will be added for this question.",
+    "explanation": {
+      "why_correct": "Explanation will be provided here.",
+      "why_wrong": {
+        "B": "\u2014",
+        "C": "\u2014",
+        "D": "\u2014"
+      }
+    }
+  },
+  {
+    "id": "r99",
+    "difficulty": "hard",
+    "topic": "Economics & Business Terminology",
+    "question": "[Placeholder] Question 99 on Economics & Business Terminology. This question will be replaced with a real exam-style question.",
+    "options": {
+      "A": "Correct placeholder answer",
+      "B": "Distractor B",
+      "C": "Distractor C",
+      "D": "Distractor D"
+    },
+    "correct": "A",
+    "guidance": "Guidance will be added for this question.",
+    "explanation": {
+      "why_correct": "Explanation will be provided here.",
+      "why_wrong": {
+        "B": "\u2014",
+        "C": "\u2014",
+        "D": "\u2014"
+      }
+    }
+  },
+  {
+    "id": "r100",
+    "difficulty": "hard",
+    "topic": "Coding-Decoding & Analogies",
+    "question": "[Placeholder] Question 100 on Coding-Decoding & Analogies. This question will be replaced with a real exam-style question.",
+    "options": {
+      "A": "Correct placeholder answer",
+      "B": "Distractor B",
+      "C": "Distractor C",
+      "D": "Distractor D"
+    },
+    "correct": "A",
+    "guidance": "Guidance will be added for this question.",
+    "explanation": {
+      "why_correct": "Explanation will be provided here.",
+      "why_wrong": {
+        "B": "\u2014",
+        "C": "\u2014",
+        "D": "\u2014"
+      }
+    }
+  },
+  {
+    "id": "r101",
+    "difficulty": "easy",
+    "topic": "Blood Relations & Direction Sense",
+    "question": "[Placeholder] Question 101 on Blood Relations & Direction Sense. This question will be replaced with a real exam-style question.",
+    "options": {
+      "A": "Correct placeholder answer",
+      "B": "Distractor B",
+      "C": "Distractor C",
+      "D": "Distractor D"
+    },
+    "correct": "A",
+    "guidance": "Guidance will be added for this question.",
+    "explanation": {
+      "why_correct": "Explanation will be provided here.",
+      "why_wrong": {
+        "B": "\u2014",
+        "C": "\u2014",
+        "D": "\u2014"
+      }
+    }
+  },
+  {
+    "id": "r102",
+    "difficulty": "easy",
+    "topic": "Syllogisms & Logical Deduction",
+    "question": "[Placeholder] Question 102 on Syllogisms & Logical Deduction. This question will be replaced with a real exam-style question.",
+    "options": {
+      "A": "Correct placeholder answer",
+      "B": "Distractor B",
+      "C": "Distractor C",
+      "D": "Distractor D"
+    },
+    "correct": "A",
+    "guidance": "Guidance will be added for this question.",
+    "explanation": {
+      "why_correct": "Explanation will be provided here.",
+      "why_wrong": {
+        "B": "\u2014",
+        "C": "\u2014",
+        "D": "\u2014"
+      }
+    }
+  },
+  {
+    "id": "r103",
+    "difficulty": "easy",
+    "topic": "Seating Arrangements & Puzzles",
+    "question": "[Placeholder] Question 103 on Seating Arrangements & Puzzles. This question will be replaced with a real exam-style question.",
+    "options": {
+      "A": "Correct placeholder answer",
+      "B": "Distractor B",
+      "C": "Distractor C",
+      "D": "Distractor D"
+    },
+    "correct": "A",
+    "guidance": "Guidance will be added for this question.",
+    "explanation": {
+      "why_correct": "Explanation will be provided here.",
+      "why_wrong": {
+        "B": "\u2014",
+        "C": "\u2014",
+        "D": "\u2014"
+      }
+    }
+  },
+  {
+    "id": "r104",
+    "difficulty": "intermediate",
+    "topic": "Statement & Assumption",
+    "question": "[Placeholder] Question 104 on Statement & Assumption. This question will be replaced with a real exam-style question.",
+    "options": {
+      "A": "Correct placeholder answer",
+      "B": "Distractor B",
+      "C": "Distractor C",
+      "D": "Distractor D"
+    },
+    "correct": "A",
+    "guidance": "Guidance will be added for this question.",
+    "explanation": {
+      "why_correct": "Explanation will be provided here.",
+      "why_wrong": {
+        "B": "\u2014",
+        "C": "\u2014",
+        "D": "\u2014"
+      }
+    }
+  },
+  {
+    "id": "r105",
+    "difficulty": "intermediate",
+    "topic": "Cause & Effect Analysis",
+    "question": "[Placeholder] Question 105 on Cause & Effect Analysis. This question will be replaced with a real exam-style question.",
+    "options": {
+      "A": "Correct placeholder answer",
+      "B": "Distractor B",
+      "C": "Distractor C",
+      "D": "Distractor D"
+    },
+    "correct": "A",
+    "guidance": "Guidance will be added for this question.",
+    "explanation": {
+      "why_correct": "Explanation will be provided here.",
+      "why_wrong": {
+        "B": "\u2014",
+        "C": "\u2014",
+        "D": "\u2014"
+      }
+    }
+  }
+]

@@ -1,0 +1,157 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>MBA Prep</title>
+<link href="https://fonts.googleapis.com/css2?family=DM+Serif+Display&family=DM+Sans:wght@400;500;600&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+
+<!-- LOGIN -->
+<div class="screen active" id="login-screen">
+  <div class="login-card">
+    <div class="login-logo">MBA Prep</div>
+    <div class="login-sub">MBA Entrance Exam Practice Platform</div>
+    <div class="error-msg" id="login-error"></div>
+    <div class="form-group"><label>Full Name</label><input type="text" id="login-name" placeholder="Enter your name" autocomplete="off"></div>
+    <div class="form-group"><label>Username</label><input type="text" id="login-user" placeholder="amat2026" autocomplete="off"></div>
+    <div class="form-group"><label>Password</label><input type="password" id="login-pass" placeholder="prepare"></div>
+    <button class="btn-primary" onclick="doLogin()">Sign In</button>
+  </div>
+</div>
+
+<!-- DASHBOARD -->
+<div class="screen" id="dashboard-screen">
+  <div class="topbar">
+    <div class="topbar-brand">MBA Prep</div>
+    <div class="topbar-right">
+      <span class="topbar-user" id="topbar-username">Welcome</span>
+      <button class="btn-logout" onclick="doLogout()">Sign Out</button>
+    </div>
+  </div>
+  <div class="dashboard-body">
+    <div class="panel" id="syllabus-panel">
+      <div class="panel-header">📚 Syllabus Tracker</div>
+      <div id="syllabus-content"></div>
+    </div>
+    <div class="right-col">
+      <div class="readiness-panel">
+        <div class="readiness-title-text">📊 Exam Readiness</div>
+        <div class="readiness-inner">
+          <div class="bars-block" id="section-bars"></div>
+          <div class="ring-wrap">
+            <div class="ring-sizer">
+              <svg viewBox="0 0 110 110"><circle fill="none" stroke="var(--gray3)" stroke-width="7" cx="55" cy="55" r="46"/><circle fill="none" stroke="#3B82F6" stroke-width="7" stroke-linecap="round" id="ring-syllabus" cx="55" cy="55" r="46" stroke-dasharray="289.0" stroke-dashoffset="289.0" style="transition:stroke-dashoffset .6s ease"/></svg>
+              <div class="ring-center"><span class="ring-pct" id="pct-syllabus">0%</span></div>
+            </div>
+            <div class="ring-label">Syllabus</div>
+          </div>
+          <div class="ring-wrap">
+            <div class="ring-sizer">
+              <svg viewBox="0 0 110 110"><circle fill="none" stroke="var(--gray3)" stroke-width="7" cx="55" cy="55" r="46"/><circle fill="none" stroke-width="7" stroke-linecap="round" id="ring-avgscore" cx="55" cy="55" r="46" stroke="#F59E0B" stroke-dasharray="289.0" stroke-dashoffset="289.0" style="transition:stroke-dashoffset .6s ease,stroke .4s ease"/></svg>
+              <div class="ring-center"><span class="ring-pct" id="pct-avgscore">—</span></div>
+            </div>
+            <div class="ring-label">Avg Score</div>
+          </div>
+          <div class="ring-wrap">
+            <div class="ring-sizer">
+              <svg viewBox="0 0 110 110"><circle fill="none" stroke="var(--gray3)" stroke-width="7" cx="55" cy="55" r="46"/><circle fill="none" stroke-width="7" stroke-linecap="round" id="ring-readiness" cx="55" cy="55" r="46" stroke="#10B981" stroke-dasharray="289.0" stroke-dashoffset="289.0" style="transition:stroke-dashoffset .7s ease,stroke .4s ease"/></svg>
+              <div class="ring-center"><span class="ring-pct" id="pct-readiness">0%</span><span class="ring-sub">ready</span></div>
+            </div>
+            <div class="ring-label">Readiness</div>
+          </div>
+          <div class="ring-wrap">
+            <div class="ring-sizer">
+              <svg viewBox="0 0 110 110"><circle fill="none" stroke="var(--gray3)" stroke-width="7" cx="55" cy="55" r="46"/><circle fill="none" stroke-width="7" stroke-linecap="round" id="ring-finalscore" cx="55" cy="55" r="46" stroke="#8B5CF6" stroke-dasharray="289.0" stroke-dashoffset="289.0" style="transition:stroke-dashoffset .6s ease"/></svg>
+              <div class="ring-center"><span class="ring-pct" id="pct-finalscore">—</span></div>
+            </div>
+            <div class="ring-label">Final Exam</div>
+          </div>
+        </div>
+      </div>
+      <div class="section-cards" id="section-cards"></div>
+    </div>
+  </div>
+  <div class="final-bar">
+    <div class="final-hint" id="final-hint">Complete all syllabus topics to unlock the Final Test</div>
+    <button class="btn-final" id="btn-final" disabled onclick="startFinalTest()">Final Test →</button>
+  </div>
+</div>
+
+<!-- EXAM -->
+<div class="screen" id="exam-screen">
+  <div class="exam-topbar">
+    <div><div class="exam-title" id="exam-title">Quantitative Aptitude</div><div class="exam-meta" id="exam-meta">Attempt 1</div></div>
+    <div class="timer-wrap"><span class="timer-label">Time Left</span><span class="timer-val" id="timer-display">10:00</span></div>
+    <button style="background:rgba(255,255,255,.15);border:none;color:white;padding:.5rem 1.1rem;border-radius:8px;font-weight:600;cursor:pointer;font-family:var(--font-main)" onclick="confirmSubmit()">Submit Exam</button>
+  </div>
+  <div class="exam-body">
+    <div class="tracker" id="tracker">
+      <button class="btn-prev-attempts" id="btn-prev-attempts" style="display:none" onclick="goReview()">📋 Previously Attempted</button>
+      <div id="tracker-content"></div>
+    </div>
+    <div class="questions-col">
+      <div class="questions-area" id="questions-area"></div>
+      <div class="page-nav" id="page-nav"></div>
+    </div>
+  </div>
+</div>
+
+<!-- RESULTS -->
+<div class="screen" id="results-screen">
+  <div class="results-score-section">
+    <div class="results-score-label">Your Score</div>
+    <div style="margin-bottom:.25rem"><span class="results-score-num" id="results-score-num">0</span><span class="results-score-pct">%</span></div>
+    <div class="results-stats">
+      <div class="results-stat"><div class="results-stat-val correct" id="r-correct">0</div><div class="results-stat-label">Correct</div></div>
+      <div class="results-stat"><div class="results-stat-val wrong" id="r-wrong">0</div><div class="results-stat-label">Wrong</div></div>
+      <div class="results-stat"><div class="results-stat-val skip" id="r-skip">0</div><div class="results-stat-label">Skipped</div></div>
+    </div>
+  </div>
+  <div class="results-body">
+    <div style="display:flex;align-items:center;justify-content:space-between;margin-bottom:1rem">
+      <div style="font-weight:600;color:var(--navy);font-size:.95rem" id="results-answered-label">Answered Questions</div>
+      <button class="btn-back-dash" onclick="goToDashboard()">← Back to Dashboard</button>
+    </div>
+    <div id="results-list"></div>
+  </div>
+</div>
+
+<!-- REVIEW -->
+<div class="screen" id="review-screen">
+  <div class="review-topbar">
+    <button class="btn-back" onclick="goBackToExam()">← Back to Exam</button>
+    <div class="review-title">Previously Attempted Questions</div>
+  </div>
+  <div class="review-body" id="review-body"></div>
+</div>
+
+<!-- ANTI-CHEAT OVERLAY -->
+<div id="anticheat-overlay">
+  <div class="anticheat-card">
+    <div class="anticheat-icon">⚠️</div>
+    <div class="anticheat-title">Tab Switch Detected</div>
+    <div class="anticheat-count" id="ac-count">1 / 3</div>
+    <div class="anticheat-body">Do not leave the exam window. <strong id="ac-remaining">2</strong> warnings left.</div>
+    <button class="btn-resume" onclick="dismissAntiCheat()">Resume Exam</button>
+  </div>
+</div>
+
+<!-- SUBMIT CONFIRM OVERLAY -->
+<div class="overlay" id="submit-overlay">
+  <div class="overlay-card">
+    <div class="overlay-icon">📝</div>
+    <div class="overlay-title">Submit Exam?</div>
+    <div class="overlay-body" id="submit-overlay-body">You have answered 0 out of 0 questions.</div>
+    <div class="overlay-actions">
+      <button class="btn-cancel" onclick="closeSubmitOverlay()">Continue Exam</button>
+      <button class="btn-confirm" onclick="doSubmit()">Submit Now</button>
+    </div>
+  </div>
+</div>
+
+<script src="js/app.js"></script>
+</body>
+</html>

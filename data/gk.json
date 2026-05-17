@@ -1,0 +1,2312 @@
+[
+  {
+    "id": "g1",
+    "difficulty": "easy",
+    "topic": "Current Affairs & Business News",
+    "question": "[Placeholder] Question 1 on Current Affairs & Business News. This question will be replaced with a real exam-style question.",
+    "options": {
+      "A": "Correct placeholder answer",
+      "B": "Distractor B",
+      "C": "Distractor C",
+      "D": "Distractor D"
+    },
+    "correct": "A",
+    "guidance": "Guidance will be added for this question.",
+    "explanation": {
+      "why_correct": "Explanation will be provided here.",
+      "why_wrong": {
+        "B": "\u2014",
+        "C": "\u2014",
+        "D": "\u2014"
+      }
+    }
+  },
+  {
+    "id": "g2",
+    "difficulty": "easy",
+    "topic": "Banking & Finance",
+    "question": "[Placeholder] Question 2 on Banking & Finance. This question will be replaced with a real exam-style question.",
+    "options": {
+      "A": "Correct placeholder answer",
+      "B": "Distractor B",
+      "C": "Distractor C",
+      "D": "Distractor D"
+    },
+    "correct": "A",
+    "guidance": "Guidance will be added for this question.",
+    "explanation": {
+      "why_correct": "Explanation will be provided here.",
+      "why_wrong": {
+        "B": "\u2014",
+        "C": "\u2014",
+        "D": "\u2014"
+      }
+    }
+  },
+  {
+    "id": "g3",
+    "difficulty": "easy",
+    "topic": "Government Policies & Schemes",
+    "question": "[Placeholder] Question 3 on Government Policies & Schemes. This question will be replaced with a real exam-style question.",
+    "options": {
+      "A": "Correct placeholder answer",
+      "B": "Distractor B",
+      "C": "Distractor C",
+      "D": "Distractor D"
+    },
+    "correct": "A",
+    "guidance": "Guidance will be added for this question.",
+    "explanation": {
+      "why_correct": "Explanation will be provided here.",
+      "why_wrong": {
+        "B": "\u2014",
+        "C": "\u2014",
+        "D": "\u2014"
+      }
+    }
+  },
+  {
+    "id": "g4",
+    "difficulty": "intermediate",
+    "topic": "Companies, CEOs & Awards",
+    "question": "[Placeholder] Question 4 on Companies, CEOs & Awards. This question will be replaced with a real exam-style question.",
+    "options": {
+      "A": "Correct placeholder answer",
+      "B": "Distractor B",
+      "C": "Distractor C",
+      "D": "Distractor D"
+    },
+    "correct": "A",
+    "guidance": "Guidance will be added for this question.",
+    "explanation": {
+      "why_correct": "Explanation will be provided here.",
+      "why_wrong": {
+        "B": "\u2014",
+        "C": "\u2014",
+        "D": "\u2014"
+      }
+    }
+  },
+  {
+    "id": "g5",
+    "difficulty": "intermediate",
+    "topic": "Indian & Global Economy",
+    "question": "[Placeholder] Question 5 on Indian & Global Economy. This question will be replaced with a real exam-style question.",
+    "options": {
+      "A": "Correct placeholder answer",
+      "B": "Distractor B",
+      "C": "Distractor C",
+      "D": "Distractor D"
+    },
+    "correct": "A",
+    "guidance": "Guidance will be added for this question.",
+    "explanation": {
+      "why_correct": "Explanation will be provided here.",
+      "why_wrong": {
+        "B": "\u2014",
+        "C": "\u2014",
+        "D": "\u2014"
+      }
+    }
+  },
+  {
+    "id": "g6",
+    "difficulty": "intermediate",
+    "topic": "International Organizations",
+    "question": "[Placeholder] Question 6 on International Organizations. This question will be replaced with a real exam-style question.",
+    "options": {
+      "A": "Correct placeholder answer",
+      "B": "Distractor B",
+      "C": "Distractor C",
+      "D": "Distractor D"
+    },
+    "correct": "A",
+    "guidance": "Guidance will be added for this question.",
+    "explanation": {
+      "why_correct": "Explanation will be provided here.",
+      "why_wrong": {
+        "B": "\u2014",
+        "C": "\u2014",
+        "D": "\u2014"
+      }
+    }
+  },
+  {
+    "id": "g7",
+    "difficulty": "intermediate",
+    "topic": "Science, Tech & Environment",
+    "question": "[Placeholder] Question 7 on Science, Tech & Environment. This question will be replaced with a real exam-style question.",
+    "options": {
+      "A": "Correct placeholder answer",
+      "B": "Distractor B",
+      "C": "Distractor C",
+      "D": "Distractor D"
+    },
+    "correct": "A",
+    "guidance": "Guidance will be added for this question.",
+    "explanation": {
+      "why_correct": "Explanation will be provided here.",
+      "why_wrong": {
+        "B": "\u2014",
+        "C": "\u2014",
+        "D": "\u2014"
+      }
+    }
+  },
+  {
+    "id": "g8",
+    "difficulty": "hard",
+    "topic": "Sports & Static GK",
+    "question": "[Placeholder] Question 8 on Sports & Static GK. This question will be replaced with a real exam-style question.",
+    "options": {
+      "A": "Correct placeholder answer",
+      "B": "Distractor B",
+      "C": "Distractor C",
+      "D": "Distractor D"
+    },
+    "correct": "A",
+    "guidance": "Guidance will be added for this question.",
+    "explanation": {
+      "why_correct": "Explanation will be provided here.",
+      "why_wrong": {
+        "B": "\u2014",
+        "C": "\u2014",
+        "D": "\u2014"
+      }
+    }
+  },
+  {
+    "id": "g9",
+    "difficulty": "hard",
+    "topic": "Reports & Indexes",
+    "question": "[Placeholder] Question 9 on Reports & Indexes. This question will be replaced with a real exam-style question.",
+    "options": {
+      "A": "Correct placeholder answer",
+      "B": "Distractor B",
+      "C": "Distractor C",
+      "D": "Distractor D"
+    },
+    "correct": "A",
+    "guidance": "Guidance will be added for this question.",
+    "explanation": {
+      "why_correct": "Explanation will be provided here.",
+      "why_wrong": {
+        "B": "\u2014",
+        "C": "\u2014",
+        "D": "\u2014"
+      }
+    }
+  },
+  {
+    "id": "g10",
+    "difficulty": "hard",
+    "topic": "Current Affairs & Business News",
+    "question": "[Placeholder] Question 10 on Current Affairs & Business News. This question will be replaced with a real exam-style question.",
+    "options": {
+      "A": "Correct placeholder answer",
+      "B": "Distractor B",
+      "C": "Distractor C",
+      "D": "Distractor D"
+    },
+    "correct": "A",
+    "guidance": "Guidance will be added for this question.",
+    "explanation": {
+      "why_correct": "Explanation will be provided here.",
+      "why_wrong": {
+        "B": "\u2014",
+        "C": "\u2014",
+        "D": "\u2014"
+      }
+    }
+  },
+  {
+    "id": "g11",
+    "difficulty": "easy",
+    "topic": "Banking & Finance",
+    "question": "[Placeholder] Question 11 on Banking & Finance. This question will be replaced with a real exam-style question.",
+    "options": {
+      "A": "Correct placeholder answer",
+      "B": "Distractor B",
+      "C": "Distractor C",
+      "D": "Distractor D"
+    },
+    "correct": "A",
+    "guidance": "Guidance will be added for this question.",
+    "explanation": {
+      "why_correct": "Explanation will be provided here.",
+      "why_wrong": {
+        "B": "\u2014",
+        "C": "\u2014",
+        "D": "\u2014"
+      }
+    }
+  },
+  {
+    "id": "g12",
+    "difficulty": "easy",
+    "topic": "Government Policies & Schemes",
+    "question": "[Placeholder] Question 12 on Government Policies & Schemes. This question will be replaced with a real exam-style question.",
+    "options": {
+      "A": "Correct placeholder answer",
+      "B": "Distractor B",
+      "C": "Distractor C",
+      "D": "Distractor D"
+    },
+    "correct": "A",
+    "guidance": "Guidance will be added for this question.",
+    "explanation": {
+      "why_correct": "Explanation will be provided here.",
+      "why_wrong": {
+        "B": "\u2014",
+        "C": "\u2014",
+        "D": "\u2014"
+      }
+    }
+  },
+  {
+    "id": "g13",
+    "difficulty": "easy",
+    "topic": "Companies, CEOs & Awards",
+    "question": "[Placeholder] Question 13 on Companies, CEOs & Awards. This question will be replaced with a real exam-style question.",
+    "options": {
+      "A": "Correct placeholder answer",
+      "B": "Distractor B",
+      "C": "Distractor C",
+      "D": "Distractor D"
+    },
+    "correct": "A",
+    "guidance": "Guidance will be added for this question.",
+    "explanation": {
+      "why_correct": "Explanation will be provided here.",
+      "why_wrong": {
+        "B": "\u2014",
+        "C": "\u2014",
+        "D": "\u2014"
+      }
+    }
+  },
+  {
+    "id": "g14",
+    "difficulty": "intermediate",
+    "topic": "Indian & Global Economy",
+    "question": "[Placeholder] Question 14 on Indian & Global Economy. This question will be replaced with a real exam-style question.",
+    "options": {
+      "A": "Correct placeholder answer",
+      "B": "Distractor B",
+      "C": "Distractor C",
+      "D": "Distractor D"
+    },
+    "correct": "A",
+    "guidance": "Guidance will be added for this question.",
+    "explanation": {
+      "why_correct": "Explanation will be provided here.",
+      "why_wrong": {
+        "B": "\u2014",
+        "C": "\u2014",
+        "D": "\u2014"
+      }
+    }
+  },
+  {
+    "id": "g15",
+    "difficulty": "intermediate",
+    "topic": "International Organizations",
+    "question": "[Placeholder] Question 15 on International Organizations. This question will be replaced with a real exam-style question.",
+    "options": {
+      "A": "Correct placeholder answer",
+      "B": "Distractor B",
+      "C": "Distractor C",
+      "D": "Distractor D"
+    },
+    "correct": "A",
+    "guidance": "Guidance will be added for this question.",
+    "explanation": {
+      "why_correct": "Explanation will be provided here.",
+      "why_wrong": {
+        "B": "\u2014",
+        "C": "\u2014",
+        "D": "\u2014"
+      }
+    }
+  },
+  {
+    "id": "g16",
+    "difficulty": "intermediate",
+    "topic": "Science, Tech & Environment",
+    "question": "[Placeholder] Question 16 on Science, Tech & Environment. This question will be replaced with a real exam-style question.",
+    "options": {
+      "A": "Correct placeholder answer",
+      "B": "Distractor B",
+      "C": "Distractor C",
+      "D": "Distractor D"
+    },
+    "correct": "A",
+    "guidance": "Guidance will be added for this question.",
+    "explanation": {
+      "why_correct": "Explanation will be provided here.",
+      "why_wrong": {
+        "B": "\u2014",
+        "C": "\u2014",
+        "D": "\u2014"
+      }
+    }
+  },
+  {
+    "id": "g17",
+    "difficulty": "intermediate",
+    "topic": "Sports & Static GK",
+    "question": "[Placeholder] Question 17 on Sports & Static GK. This question will be replaced with a real exam-style question.",
+    "options": {
+      "A": "Correct placeholder answer",
+      "B": "Distractor B",
+      "C": "Distractor C",
+      "D": "Distractor D"
+    },
+    "correct": "A",
+    "guidance": "Guidance will be added for this question.",
+    "explanation": {
+      "why_correct": "Explanation will be provided here.",
+      "why_wrong": {
+        "B": "\u2014",
+        "C": "\u2014",
+        "D": "\u2014"
+      }
+    }
+  },
+  {
+    "id": "g18",
+    "difficulty": "hard",
+    "topic": "Reports & Indexes",
+    "question": "[Placeholder] Question 18 on Reports & Indexes. This question will be replaced with a real exam-style question.",
+    "options": {
+      "A": "Correct placeholder answer",
+      "B": "Distractor B",
+      "C": "Distractor C",
+      "D": "Distractor D"
+    },
+    "correct": "A",
+    "guidance": "Guidance will be added for this question.",
+    "explanation": {
+      "why_correct": "Explanation will be provided here.",
+      "why_wrong": {
+        "B": "\u2014",
+        "C": "\u2014",
+        "D": "\u2014"
+      }
+    }
+  },
+  {
+    "id": "g19",
+    "difficulty": "hard",
+    "topic": "Current Affairs & Business News",
+    "question": "[Placeholder] Question 19 on Current Affairs & Business News. This question will be replaced with a real exam-style question.",
+    "options": {
+      "A": "Correct placeholder answer",
+      "B": "Distractor B",
+      "C": "Distractor C",
+      "D": "Distractor D"
+    },
+    "correct": "A",
+    "guidance": "Guidance will be added for this question.",
+    "explanation": {
+      "why_correct": "Explanation will be provided here.",
+      "why_wrong": {
+        "B": "\u2014",
+        "C": "\u2014",
+        "D": "\u2014"
+      }
+    }
+  },
+  {
+    "id": "g20",
+    "difficulty": "hard",
+    "topic": "Banking & Finance",
+    "question": "[Placeholder] Question 20 on Banking & Finance. This question will be replaced with a real exam-style question.",
+    "options": {
+      "A": "Correct placeholder answer",
+      "B": "Distractor B",
+      "C": "Distractor C",
+      "D": "Distractor D"
+    },
+    "correct": "A",
+    "guidance": "Guidance will be added for this question.",
+    "explanation": {
+      "why_correct": "Explanation will be provided here.",
+      "why_wrong": {
+        "B": "\u2014",
+        "C": "\u2014",
+        "D": "\u2014"
+      }
+    }
+  },
+  {
+    "id": "g21",
+    "difficulty": "easy",
+    "topic": "Government Policies & Schemes",
+    "question": "[Placeholder] Question 21 on Government Policies & Schemes. This question will be replaced with a real exam-style question.",
+    "options": {
+      "A": "Correct placeholder answer",
+      "B": "Distractor B",
+      "C": "Distractor C",
+      "D": "Distractor D"
+    },
+    "correct": "A",
+    "guidance": "Guidance will be added for this question.",
+    "explanation": {
+      "why_correct": "Explanation will be provided here.",
+      "why_wrong": {
+        "B": "\u2014",
+        "C": "\u2014",
+        "D": "\u2014"
+      }
+    }
+  },
+  {
+    "id": "g22",
+    "difficulty": "easy",
+    "topic": "Companies, CEOs & Awards",
+    "question": "[Placeholder] Question 22 on Companies, CEOs & Awards. This question will be replaced with a real exam-style question.",
+    "options": {
+      "A": "Correct placeholder answer",
+      "B": "Distractor B",
+      "C": "Distractor C",
+      "D": "Distractor D"
+    },
+    "correct": "A",
+    "guidance": "Guidance will be added for this question.",
+    "explanation": {
+      "why_correct": "Explanation will be provided here.",
+      "why_wrong": {
+        "B": "\u2014",
+        "C": "\u2014",
+        "D": "\u2014"
+      }
+    }
+  },
+  {
+    "id": "g23",
+    "difficulty": "easy",
+    "topic": "Indian & Global Economy",
+    "question": "[Placeholder] Question 23 on Indian & Global Economy. This question will be replaced with a real exam-style question.",
+    "options": {
+      "A": "Correct placeholder answer",
+      "B": "Distractor B",
+      "C": "Distractor C",
+      "D": "Distractor D"
+    },
+    "correct": "A",
+    "guidance": "Guidance will be added for this question.",
+    "explanation": {
+      "why_correct": "Explanation will be provided here.",
+      "why_wrong": {
+        "B": "\u2014",
+        "C": "\u2014",
+        "D": "\u2014"
+      }
+    }
+  },
+  {
+    "id": "g24",
+    "difficulty": "intermediate",
+    "topic": "International Organizations",
+    "question": "[Placeholder] Question 24 on International Organizations. This question will be replaced with a real exam-style question.",
+    "options": {
+      "A": "Correct placeholder answer",
+      "B": "Distractor B",
+      "C": "Distractor C",
+      "D": "Distractor D"
+    },
+    "correct": "A",
+    "guidance": "Guidance will be added for this question.",
+    "explanation": {
+      "why_correct": "Explanation will be provided here.",
+      "why_wrong": {
+        "B": "\u2014",
+        "C": "\u2014",
+        "D": "\u2014"
+      }
+    }
+  },
+  {
+    "id": "g25",
+    "difficulty": "intermediate",
+    "topic": "Science, Tech & Environment",
+    "question": "[Placeholder] Question 25 on Science, Tech & Environment. This question will be replaced with a real exam-style question.",
+    "options": {
+      "A": "Correct placeholder answer",
+      "B": "Distractor B",
+      "C": "Distractor C",
+      "D": "Distractor D"
+    },
+    "correct": "A",
+    "guidance": "Guidance will be added for this question.",
+    "explanation": {
+      "why_correct": "Explanation will be provided here.",
+      "why_wrong": {
+        "B": "\u2014",
+        "C": "\u2014",
+        "D": "\u2014"
+      }
+    }
+  },
+  {
+    "id": "g26",
+    "difficulty": "intermediate",
+    "topic": "Sports & Static GK",
+    "question": "[Placeholder] Question 26 on Sports & Static GK. This question will be replaced with a real exam-style question.",
+    "options": {
+      "A": "Correct placeholder answer",
+      "B": "Distractor B",
+      "C": "Distractor C",
+      "D": "Distractor D"
+    },
+    "correct": "A",
+    "guidance": "Guidance will be added for this question.",
+    "explanation": {
+      "why_correct": "Explanation will be provided here.",
+      "why_wrong": {
+        "B": "\u2014",
+        "C": "\u2014",
+        "D": "\u2014"
+      }
+    }
+  },
+  {
+    "id": "g27",
+    "difficulty": "intermediate",
+    "topic": "Reports & Indexes",
+    "question": "[Placeholder] Question 27 on Reports & Indexes. This question will be replaced with a real exam-style question.",
+    "options": {
+      "A": "Correct placeholder answer",
+      "B": "Distractor B",
+      "C": "Distractor C",
+      "D": "Distractor D"
+    },
+    "correct": "A",
+    "guidance": "Guidance will be added for this question.",
+    "explanation": {
+      "why_correct": "Explanation will be provided here.",
+      "why_wrong": {
+        "B": "\u2014",
+        "C": "\u2014",
+        "D": "\u2014"
+      }
+    }
+  },
+  {
+    "id": "g28",
+    "difficulty": "hard",
+    "topic": "Current Affairs & Business News",
+    "question": "[Placeholder] Question 28 on Current Affairs & Business News. This question will be replaced with a real exam-style question.",
+    "options": {
+      "A": "Correct placeholder answer",
+      "B": "Distractor B",
+      "C": "Distractor C",
+      "D": "Distractor D"
+    },
+    "correct": "A",
+    "guidance": "Guidance will be added for this question.",
+    "explanation": {
+      "why_correct": "Explanation will be provided here.",
+      "why_wrong": {
+        "B": "\u2014",
+        "C": "\u2014",
+        "D": "\u2014"
+      }
+    }
+  },
+  {
+    "id": "g29",
+    "difficulty": "hard",
+    "topic": "Banking & Finance",
+    "question": "[Placeholder] Question 29 on Banking & Finance. This question will be replaced with a real exam-style question.",
+    "options": {
+      "A": "Correct placeholder answer",
+      "B": "Distractor B",
+      "C": "Distractor C",
+      "D": "Distractor D"
+    },
+    "correct": "A",
+    "guidance": "Guidance will be added for this question.",
+    "explanation": {
+      "why_correct": "Explanation will be provided here.",
+      "why_wrong": {
+        "B": "\u2014",
+        "C": "\u2014",
+        "D": "\u2014"
+      }
+    }
+  },
+  {
+    "id": "g30",
+    "difficulty": "hard",
+    "topic": "Government Policies & Schemes",
+    "question": "[Placeholder] Question 30 on Government Policies & Schemes. This question will be replaced with a real exam-style question.",
+    "options": {
+      "A": "Correct placeholder answer",
+      "B": "Distractor B",
+      "C": "Distractor C",
+      "D": "Distractor D"
+    },
+    "correct": "A",
+    "guidance": "Guidance will be added for this question.",
+    "explanation": {
+      "why_correct": "Explanation will be provided here.",
+      "why_wrong": {
+        "B": "\u2014",
+        "C": "\u2014",
+        "D": "\u2014"
+      }
+    }
+  },
+  {
+    "id": "g31",
+    "difficulty": "easy",
+    "topic": "Companies, CEOs & Awards",
+    "question": "[Placeholder] Question 31 on Companies, CEOs & Awards. This question will be replaced with a real exam-style question.",
+    "options": {
+      "A": "Correct placeholder answer",
+      "B": "Distractor B",
+      "C": "Distractor C",
+      "D": "Distractor D"
+    },
+    "correct": "A",
+    "guidance": "Guidance will be added for this question.",
+    "explanation": {
+      "why_correct": "Explanation will be provided here.",
+      "why_wrong": {
+        "B": "\u2014",
+        "C": "\u2014",
+        "D": "\u2014"
+      }
+    }
+  },
+  {
+    "id": "g32",
+    "difficulty": "easy",
+    "topic": "Indian & Global Economy",
+    "question": "[Placeholder] Question 32 on Indian & Global Economy. This question will be replaced with a real exam-style question.",
+    "options": {
+      "A": "Correct placeholder answer",
+      "B": "Distractor B",
+      "C": "Distractor C",
+      "D": "Distractor D"
+    },
+    "correct": "A",
+    "guidance": "Guidance will be added for this question.",
+    "explanation": {
+      "why_correct": "Explanation will be provided here.",
+      "why_wrong": {
+        "B": "\u2014",
+        "C": "\u2014",
+        "D": "\u2014"
+      }
+    }
+  },
+  {
+    "id": "g33",
+    "difficulty": "easy",
+    "topic": "International Organizations",
+    "question": "[Placeholder] Question 33 on International Organizations. This question will be replaced with a real exam-style question.",
+    "options": {
+      "A": "Correct placeholder answer",
+      "B": "Distractor B",
+      "C": "Distractor C",
+      "D": "Distractor D"
+    },
+    "correct": "A",
+    "guidance": "Guidance will be added for this question.",
+    "explanation": {
+      "why_correct": "Explanation will be provided here.",
+      "why_wrong": {
+        "B": "\u2014",
+        "C": "\u2014",
+        "D": "\u2014"
+      }
+    }
+  },
+  {
+    "id": "g34",
+    "difficulty": "intermediate",
+    "topic": "Science, Tech & Environment",
+    "question": "[Placeholder] Question 34 on Science, Tech & Environment. This question will be replaced with a real exam-style question.",
+    "options": {
+      "A": "Correct placeholder answer",
+      "B": "Distractor B",
+      "C": "Distractor C",
+      "D": "Distractor D"
+    },
+    "correct": "A",
+    "guidance": "Guidance will be added for this question.",
+    "explanation": {
+      "why_correct": "Explanation will be provided here.",
+      "why_wrong": {
+        "B": "\u2014",
+        "C": "\u2014",
+        "D": "\u2014"
+      }
+    }
+  },
+  {
+    "id": "g35",
+    "difficulty": "intermediate",
+    "topic": "Sports & Static GK",
+    "question": "[Placeholder] Question 35 on Sports & Static GK. This question will be replaced with a real exam-style question.",
+    "options": {
+      "A": "Correct placeholder answer",
+      "B": "Distractor B",
+      "C": "Distractor C",
+      "D": "Distractor D"
+    },
+    "correct": "A",
+    "guidance": "Guidance will be added for this question.",
+    "explanation": {
+      "why_correct": "Explanation will be provided here.",
+      "why_wrong": {
+        "B": "\u2014",
+        "C": "\u2014",
+        "D": "\u2014"
+      }
+    }
+  },
+  {
+    "id": "g36",
+    "difficulty": "intermediate",
+    "topic": "Reports & Indexes",
+    "question": "[Placeholder] Question 36 on Reports & Indexes. This question will be replaced with a real exam-style question.",
+    "options": {
+      "A": "Correct placeholder answer",
+      "B": "Distractor B",
+      "C": "Distractor C",
+      "D": "Distractor D"
+    },
+    "correct": "A",
+    "guidance": "Guidance will be added for this question.",
+    "explanation": {
+      "why_correct": "Explanation will be provided here.",
+      "why_wrong": {
+        "B": "\u2014",
+        "C": "\u2014",
+        "D": "\u2014"
+      }
+    }
+  },
+  {
+    "id": "g37",
+    "difficulty": "intermediate",
+    "topic": "Current Affairs & Business News",
+    "question": "[Placeholder] Question 37 on Current Affairs & Business News. This question will be replaced with a real exam-style question.",
+    "options": {
+      "A": "Correct placeholder answer",
+      "B": "Distractor B",
+      "C": "Distractor C",
+      "D": "Distractor D"
+    },
+    "correct": "A",
+    "guidance": "Guidance will be added for this question.",
+    "explanation": {
+      "why_correct": "Explanation will be provided here.",
+      "why_wrong": {
+        "B": "\u2014",
+        "C": "\u2014",
+        "D": "\u2014"
+      }
+    }
+  },
+  {
+    "id": "g38",
+    "difficulty": "hard",
+    "topic": "Banking & Finance",
+    "question": "[Placeholder] Question 38 on Banking & Finance. This question will be replaced with a real exam-style question.",
+    "options": {
+      "A": "Correct placeholder answer",
+      "B": "Distractor B",
+      "C": "Distractor C",
+      "D": "Distractor D"
+    },
+    "correct": "A",
+    "guidance": "Guidance will be added for this question.",
+    "explanation": {
+      "why_correct": "Explanation will be provided here.",
+      "why_wrong": {
+        "B": "\u2014",
+        "C": "\u2014",
+        "D": "\u2014"
+      }
+    }
+  },
+  {
+    "id": "g39",
+    "difficulty": "hard",
+    "topic": "Government Policies & Schemes",
+    "question": "[Placeholder] Question 39 on Government Policies & Schemes. This question will be replaced with a real exam-style question.",
+    "options": {
+      "A": "Correct placeholder answer",
+      "B": "Distractor B",
+      "C": "Distractor C",
+      "D": "Distractor D"
+    },
+    "correct": "A",
+    "guidance": "Guidance will be added for this question.",
+    "explanation": {
+      "why_correct": "Explanation will be provided here.",
+      "why_wrong": {
+        "B": "\u2014",
+        "C": "\u2014",
+        "D": "\u2014"
+      }
+    }
+  },
+  {
+    "id": "g40",
+    "difficulty": "hard",
+    "topic": "Companies, CEOs & Awards",
+    "question": "[Placeholder] Question 40 on Companies, CEOs & Awards. This question will be replaced with a real exam-style question.",
+    "options": {
+      "A": "Correct placeholder answer",
+      "B": "Distractor B",
+      "C": "Distractor C",
+      "D": "Distractor D"
+    },
+    "correct": "A",
+    "guidance": "Guidance will be added for this question.",
+    "explanation": {
+      "why_correct": "Explanation will be provided here.",
+      "why_wrong": {
+        "B": "\u2014",
+        "C": "\u2014",
+        "D": "\u2014"
+      }
+    }
+  },
+  {
+    "id": "g41",
+    "difficulty": "easy",
+    "topic": "Indian & Global Economy",
+    "question": "[Placeholder] Question 41 on Indian & Global Economy. This question will be replaced with a real exam-style question.",
+    "options": {
+      "A": "Correct placeholder answer",
+      "B": "Distractor B",
+      "C": "Distractor C",
+      "D": "Distractor D"
+    },
+    "correct": "A",
+    "guidance": "Guidance will be added for this question.",
+    "explanation": {
+      "why_correct": "Explanation will be provided here.",
+      "why_wrong": {
+        "B": "\u2014",
+        "C": "\u2014",
+        "D": "\u2014"
+      }
+    }
+  },
+  {
+    "id": "g42",
+    "difficulty": "easy",
+    "topic": "International Organizations",
+    "question": "[Placeholder] Question 42 on International Organizations. This question will be replaced with a real exam-style question.",
+    "options": {
+      "A": "Correct placeholder answer",
+      "B": "Distractor B",
+      "C": "Distractor C",
+      "D": "Distractor D"
+    },
+    "correct": "A",
+    "guidance": "Guidance will be added for this question.",
+    "explanation": {
+      "why_correct": "Explanation will be provided here.",
+      "why_wrong": {
+        "B": "\u2014",
+        "C": "\u2014",
+        "D": "\u2014"
+      }
+    }
+  },
+  {
+    "id": "g43",
+    "difficulty": "easy",
+    "topic": "Science, Tech & Environment",
+    "question": "[Placeholder] Question 43 on Science, Tech & Environment. This question will be replaced with a real exam-style question.",
+    "options": {
+      "A": "Correct placeholder answer",
+      "B": "Distractor B",
+      "C": "Distractor C",
+      "D": "Distractor D"
+    },
+    "correct": "A",
+    "guidance": "Guidance will be added for this question.",
+    "explanation": {
+      "why_correct": "Explanation will be provided here.",
+      "why_wrong": {
+        "B": "\u2014",
+        "C": "\u2014",
+        "D": "\u2014"
+      }
+    }
+  },
+  {
+    "id": "g44",
+    "difficulty": "intermediate",
+    "topic": "Sports & Static GK",
+    "question": "[Placeholder] Question 44 on Sports & Static GK. This question will be replaced with a real exam-style question.",
+    "options": {
+      "A": "Correct placeholder answer",
+      "B": "Distractor B",
+      "C": "Distractor C",
+      "D": "Distractor D"
+    },
+    "correct": "A",
+    "guidance": "Guidance will be added for this question.",
+    "explanation": {
+      "why_correct": "Explanation will be provided here.",
+      "why_wrong": {
+        "B": "\u2014",
+        "C": "\u2014",
+        "D": "\u2014"
+      }
+    }
+  },
+  {
+    "id": "g45",
+    "difficulty": "intermediate",
+    "topic": "Reports & Indexes",
+    "question": "[Placeholder] Question 45 on Reports & Indexes. This question will be replaced with a real exam-style question.",
+    "options": {
+      "A": "Correct placeholder answer",
+      "B": "Distractor B",
+      "C": "Distractor C",
+      "D": "Distractor D"
+    },
+    "correct": "A",
+    "guidance": "Guidance will be added for this question.",
+    "explanation": {
+      "why_correct": "Explanation will be provided here.",
+      "why_wrong": {
+        "B": "\u2014",
+        "C": "\u2014",
+        "D": "\u2014"
+      }
+    }
+  },
+  {
+    "id": "g46",
+    "difficulty": "intermediate",
+    "topic": "Current Affairs & Business News",
+    "question": "[Placeholder] Question 46 on Current Affairs & Business News. This question will be replaced with a real exam-style question.",
+    "options": {
+      "A": "Correct placeholder answer",
+      "B": "Distractor B",
+      "C": "Distractor C",
+      "D": "Distractor D"
+    },
+    "correct": "A",
+    "guidance": "Guidance will be added for this question.",
+    "explanation": {
+      "why_correct": "Explanation will be provided here.",
+      "why_wrong": {
+        "B": "\u2014",
+        "C": "\u2014",
+        "D": "\u2014"
+      }
+    }
+  },
+  {
+    "id": "g47",
+    "difficulty": "intermediate",
+    "topic": "Banking & Finance",
+    "question": "[Placeholder] Question 47 on Banking & Finance. This question will be replaced with a real exam-style question.",
+    "options": {
+      "A": "Correct placeholder answer",
+      "B": "Distractor B",
+      "C": "Distractor C",
+      "D": "Distractor D"
+    },
+    "correct": "A",
+    "guidance": "Guidance will be added for this question.",
+    "explanation": {
+      "why_correct": "Explanation will be provided here.",
+      "why_wrong": {
+        "B": "\u2014",
+        "C": "\u2014",
+        "D": "\u2014"
+      }
+    }
+  },
+  {
+    "id": "g48",
+    "difficulty": "hard",
+    "topic": "Government Policies & Schemes",
+    "question": "[Placeholder] Question 48 on Government Policies & Schemes. This question will be replaced with a real exam-style question.",
+    "options": {
+      "A": "Correct placeholder answer",
+      "B": "Distractor B",
+      "C": "Distractor C",
+      "D": "Distractor D"
+    },
+    "correct": "A",
+    "guidance": "Guidance will be added for this question.",
+    "explanation": {
+      "why_correct": "Explanation will be provided here.",
+      "why_wrong": {
+        "B": "\u2014",
+        "C": "\u2014",
+        "D": "\u2014"
+      }
+    }
+  },
+  {
+    "id": "g49",
+    "difficulty": "hard",
+    "topic": "Companies, CEOs & Awards",
+    "question": "[Placeholder] Question 49 on Companies, CEOs & Awards. This question will be replaced with a real exam-style question.",
+    "options": {
+      "A": "Correct placeholder answer",
+      "B": "Distractor B",
+      "C": "Distractor C",
+      "D": "Distractor D"
+    },
+    "correct": "A",
+    "guidance": "Guidance will be added for this question.",
+    "explanation": {
+      "why_correct": "Explanation will be provided here.",
+      "why_wrong": {
+        "B": "\u2014",
+        "C": "\u2014",
+        "D": "\u2014"
+      }
+    }
+  },
+  {
+    "id": "g50",
+    "difficulty": "hard",
+    "topic": "Indian & Global Economy",
+    "question": "[Placeholder] Question 50 on Indian & Global Economy. This question will be replaced with a real exam-style question.",
+    "options": {
+      "A": "Correct placeholder answer",
+      "B": "Distractor B",
+      "C": "Distractor C",
+      "D": "Distractor D"
+    },
+    "correct": "A",
+    "guidance": "Guidance will be added for this question.",
+    "explanation": {
+      "why_correct": "Explanation will be provided here.",
+      "why_wrong": {
+        "B": "\u2014",
+        "C": "\u2014",
+        "D": "\u2014"
+      }
+    }
+  },
+  {
+    "id": "g51",
+    "difficulty": "easy",
+    "topic": "International Organizations",
+    "question": "[Placeholder] Question 51 on International Organizations. This question will be replaced with a real exam-style question.",
+    "options": {
+      "A": "Correct placeholder answer",
+      "B": "Distractor B",
+      "C": "Distractor C",
+      "D": "Distractor D"
+    },
+    "correct": "A",
+    "guidance": "Guidance will be added for this question.",
+    "explanation": {
+      "why_correct": "Explanation will be provided here.",
+      "why_wrong": {
+        "B": "\u2014",
+        "C": "\u2014",
+        "D": "\u2014"
+      }
+    }
+  },
+  {
+    "id": "g52",
+    "difficulty": "easy",
+    "topic": "Science, Tech & Environment",
+    "question": "[Placeholder] Question 52 on Science, Tech & Environment. This question will be replaced with a real exam-style question.",
+    "options": {
+      "A": "Correct placeholder answer",
+      "B": "Distractor B",
+      "C": "Distractor C",
+      "D": "Distractor D"
+    },
+    "correct": "A",
+    "guidance": "Guidance will be added for this question.",
+    "explanation": {
+      "why_correct": "Explanation will be provided here.",
+      "why_wrong": {
+        "B": "\u2014",
+        "C": "\u2014",
+        "D": "\u2014"
+      }
+    }
+  },
+  {
+    "id": "g53",
+    "difficulty": "easy",
+    "topic": "Sports & Static GK",
+    "question": "[Placeholder] Question 53 on Sports & Static GK. This question will be replaced with a real exam-style question.",
+    "options": {
+      "A": "Correct placeholder answer",
+      "B": "Distractor B",
+      "C": "Distractor C",
+      "D": "Distractor D"
+    },
+    "correct": "A",
+    "guidance": "Guidance will be added for this question.",
+    "explanation": {
+      "why_correct": "Explanation will be provided here.",
+      "why_wrong": {
+        "B": "\u2014",
+        "C": "\u2014",
+        "D": "\u2014"
+      }
+    }
+  },
+  {
+    "id": "g54",
+    "difficulty": "intermediate",
+    "topic": "Reports & Indexes",
+    "question": "[Placeholder] Question 54 on Reports & Indexes. This question will be replaced with a real exam-style question.",
+    "options": {
+      "A": "Correct placeholder answer",
+      "B": "Distractor B",
+      "C": "Distractor C",
+      "D": "Distractor D"
+    },
+    "correct": "A",
+    "guidance": "Guidance will be added for this question.",
+    "explanation": {
+      "why_correct": "Explanation will be provided here.",
+      "why_wrong": {
+        "B": "\u2014",
+        "C": "\u2014",
+        "D": "\u2014"
+      }
+    }
+  },
+  {
+    "id": "g55",
+    "difficulty": "intermediate",
+    "topic": "Current Affairs & Business News",
+    "question": "[Placeholder] Question 55 on Current Affairs & Business News. This question will be replaced with a real exam-style question.",
+    "options": {
+      "A": "Correct placeholder answer",
+      "B": "Distractor B",
+      "C": "Distractor C",
+      "D": "Distractor D"
+    },
+    "correct": "A",
+    "guidance": "Guidance will be added for this question.",
+    "explanation": {
+      "why_correct": "Explanation will be provided here.",
+      "why_wrong": {
+        "B": "\u2014",
+        "C": "\u2014",
+        "D": "\u2014"
+      }
+    }
+  },
+  {
+    "id": "g56",
+    "difficulty": "intermediate",
+    "topic": "Banking & Finance",
+    "question": "[Placeholder] Question 56 on Banking & Finance. This question will be replaced with a real exam-style question.",
+    "options": {
+      "A": "Correct placeholder answer",
+      "B": "Distractor B",
+      "C": "Distractor C",
+      "D": "Distractor D"
+    },
+    "correct": "A",
+    "guidance": "Guidance will be added for this question.",
+    "explanation": {
+      "why_correct": "Explanation will be provided here.",
+      "why_wrong": {
+        "B": "\u2014",
+        "C": "\u2014",
+        "D": "\u2014"
+      }
+    }
+  },
+  {
+    "id": "g57",
+    "difficulty": "intermediate",
+    "topic": "Government Policies & Schemes",
+    "question": "[Placeholder] Question 57 on Government Policies & Schemes. This question will be replaced with a real exam-style question.",
+    "options": {
+      "A": "Correct placeholder answer",
+      "B": "Distractor B",
+      "C": "Distractor C",
+      "D": "Distractor D"
+    },
+    "correct": "A",
+    "guidance": "Guidance will be added for this question.",
+    "explanation": {
+      "why_correct": "Explanation will be provided here.",
+      "why_wrong": {
+        "B": "\u2014",
+        "C": "\u2014",
+        "D": "\u2014"
+      }
+    }
+  },
+  {
+    "id": "g58",
+    "difficulty": "hard",
+    "topic": "Companies, CEOs & Awards",
+    "question": "[Placeholder] Question 58 on Companies, CEOs & Awards. This question will be replaced with a real exam-style question.",
+    "options": {
+      "A": "Correct placeholder answer",
+      "B": "Distractor B",
+      "C": "Distractor C",
+      "D": "Distractor D"
+    },
+    "correct": "A",
+    "guidance": "Guidance will be added for this question.",
+    "explanation": {
+      "why_correct": "Explanation will be provided here.",
+      "why_wrong": {
+        "B": "\u2014",
+        "C": "\u2014",
+        "D": "\u2014"
+      }
+    }
+  },
+  {
+    "id": "g59",
+    "difficulty": "hard",
+    "topic": "Indian & Global Economy",
+    "question": "[Placeholder] Question 59 on Indian & Global Economy. This question will be replaced with a real exam-style question.",
+    "options": {
+      "A": "Correct placeholder answer",
+      "B": "Distractor B",
+      "C": "Distractor C",
+      "D": "Distractor D"
+    },
+    "correct": "A",
+    "guidance": "Guidance will be added for this question.",
+    "explanation": {
+      "why_correct": "Explanation will be provided here.",
+      "why_wrong": {
+        "B": "\u2014",
+        "C": "\u2014",
+        "D": "\u2014"
+      }
+    }
+  },
+  {
+    "id": "g60",
+    "difficulty": "hard",
+    "topic": "International Organizations",
+    "question": "[Placeholder] Question 60 on International Organizations. This question will be replaced with a real exam-style question.",
+    "options": {
+      "A": "Correct placeholder answer",
+      "B": "Distractor B",
+      "C": "Distractor C",
+      "D": "Distractor D"
+    },
+    "correct": "A",
+    "guidance": "Guidance will be added for this question.",
+    "explanation": {
+      "why_correct": "Explanation will be provided here.",
+      "why_wrong": {
+        "B": "\u2014",
+        "C": "\u2014",
+        "D": "\u2014"
+      }
+    }
+  },
+  {
+    "id": "g61",
+    "difficulty": "easy",
+    "topic": "Science, Tech & Environment",
+    "question": "[Placeholder] Question 61 on Science, Tech & Environment. This question will be replaced with a real exam-style question.",
+    "options": {
+      "A": "Correct placeholder answer",
+      "B": "Distractor B",
+      "C": "Distractor C",
+      "D": "Distractor D"
+    },
+    "correct": "A",
+    "guidance": "Guidance will be added for this question.",
+    "explanation": {
+      "why_correct": "Explanation will be provided here.",
+      "why_wrong": {
+        "B": "\u2014",
+        "C": "\u2014",
+        "D": "\u2014"
+      }
+    }
+  },
+  {
+    "id": "g62",
+    "difficulty": "easy",
+    "topic": "Sports & Static GK",
+    "question": "[Placeholder] Question 62 on Sports & Static GK. This question will be replaced with a real exam-style question.",
+    "options": {
+      "A": "Correct placeholder answer",
+      "B": "Distractor B",
+      "C": "Distractor C",
+      "D": "Distractor D"
+    },
+    "correct": "A",
+    "guidance": "Guidance will be added for this question.",
+    "explanation": {
+      "why_correct": "Explanation will be provided here.",
+      "why_wrong": {
+        "B": "\u2014",
+        "C": "\u2014",
+        "D": "\u2014"
+      }
+    }
+  },
+  {
+    "id": "g63",
+    "difficulty": "easy",
+    "topic": "Reports & Indexes",
+    "question": "[Placeholder] Question 63 on Reports & Indexes. This question will be replaced with a real exam-style question.",
+    "options": {
+      "A": "Correct placeholder answer",
+      "B": "Distractor B",
+      "C": "Distractor C",
+      "D": "Distractor D"
+    },
+    "correct": "A",
+    "guidance": "Guidance will be added for this question.",
+    "explanation": {
+      "why_correct": "Explanation will be provided here.",
+      "why_wrong": {
+        "B": "\u2014",
+        "C": "\u2014",
+        "D": "\u2014"
+      }
+    }
+  },
+  {
+    "id": "g64",
+    "difficulty": "intermediate",
+    "topic": "Current Affairs & Business News",
+    "question": "[Placeholder] Question 64 on Current Affairs & Business News. This question will be replaced with a real exam-style question.",
+    "options": {
+      "A": "Correct placeholder answer",
+      "B": "Distractor B",
+      "C": "Distractor C",
+      "D": "Distractor D"
+    },
+    "correct": "A",
+    "guidance": "Guidance will be added for this question.",
+    "explanation": {
+      "why_correct": "Explanation will be provided here.",
+      "why_wrong": {
+        "B": "\u2014",
+        "C": "\u2014",
+        "D": "\u2014"
+      }
+    }
+  },
+  {
+    "id": "g65",
+    "difficulty": "intermediate",
+    "topic": "Banking & Finance",
+    "question": "[Placeholder] Question 65 on Banking & Finance. This question will be replaced with a real exam-style question.",
+    "options": {
+      "A": "Correct placeholder answer",
+      "B": "Distractor B",
+      "C": "Distractor C",
+      "D": "Distractor D"
+    },
+    "correct": "A",
+    "guidance": "Guidance will be added for this question.",
+    "explanation": {
+      "why_correct": "Explanation will be provided here.",
+      "why_wrong": {
+        "B": "\u2014",
+        "C": "\u2014",
+        "D": "\u2014"
+      }
+    }
+  },
+  {
+    "id": "g66",
+    "difficulty": "intermediate",
+    "topic": "Government Policies & Schemes",
+    "question": "[Placeholder] Question 66 on Government Policies & Schemes. This question will be replaced with a real exam-style question.",
+    "options": {
+      "A": "Correct placeholder answer",
+      "B": "Distractor B",
+      "C": "Distractor C",
+      "D": "Distractor D"
+    },
+    "correct": "A",
+    "guidance": "Guidance will be added for this question.",
+    "explanation": {
+      "why_correct": "Explanation will be provided here.",
+      "why_wrong": {
+        "B": "\u2014",
+        "C": "\u2014",
+        "D": "\u2014"
+      }
+    }
+  },
+  {
+    "id": "g67",
+    "difficulty": "intermediate",
+    "topic": "Companies, CEOs & Awards",
+    "question": "[Placeholder] Question 67 on Companies, CEOs & Awards. This question will be replaced with a real exam-style question.",
+    "options": {
+      "A": "Correct placeholder answer",
+      "B": "Distractor B",
+      "C": "Distractor C",
+      "D": "Distractor D"
+    },
+    "correct": "A",
+    "guidance": "Guidance will be added for this question.",
+    "explanation": {
+      "why_correct": "Explanation will be provided here.",
+      "why_wrong": {
+        "B": "\u2014",
+        "C": "\u2014",
+        "D": "\u2014"
+      }
+    }
+  },
+  {
+    "id": "g68",
+    "difficulty": "hard",
+    "topic": "Indian & Global Economy",
+    "question": "[Placeholder] Question 68 on Indian & Global Economy. This question will be replaced with a real exam-style question.",
+    "options": {
+      "A": "Correct placeholder answer",
+      "B": "Distractor B",
+      "C": "Distractor C",
+      "D": "Distractor D"
+    },
+    "correct": "A",
+    "guidance": "Guidance will be added for this question.",
+    "explanation": {
+      "why_correct": "Explanation will be provided here.",
+      "why_wrong": {
+        "B": "\u2014",
+        "C": "\u2014",
+        "D": "\u2014"
+      }
+    }
+  },
+  {
+    "id": "g69",
+    "difficulty": "hard",
+    "topic": "International Organizations",
+    "question": "[Placeholder] Question 69 on International Organizations. This question will be replaced with a real exam-style question.",
+    "options": {
+      "A": "Correct placeholder answer",
+      "B": "Distractor B",
+      "C": "Distractor C",
+      "D": "Distractor D"
+    },
+    "correct": "A",
+    "guidance": "Guidance will be added for this question.",
+    "explanation": {
+      "why_correct": "Explanation will be provided here.",
+      "why_wrong": {
+        "B": "\u2014",
+        "C": "\u2014",
+        "D": "\u2014"
+      }
+    }
+  },
+  {
+    "id": "g70",
+    "difficulty": "hard",
+    "topic": "Science, Tech & Environment",
+    "question": "[Placeholder] Question 70 on Science, Tech & Environment. This question will be replaced with a real exam-style question.",
+    "options": {
+      "A": "Correct placeholder answer",
+      "B": "Distractor B",
+      "C": "Distractor C",
+      "D": "Distractor D"
+    },
+    "correct": "A",
+    "guidance": "Guidance will be added for this question.",
+    "explanation": {
+      "why_correct": "Explanation will be provided here.",
+      "why_wrong": {
+        "B": "\u2014",
+        "C": "\u2014",
+        "D": "\u2014"
+      }
+    }
+  },
+  {
+    "id": "g71",
+    "difficulty": "easy",
+    "topic": "Sports & Static GK",
+    "question": "[Placeholder] Question 71 on Sports & Static GK. This question will be replaced with a real exam-style question.",
+    "options": {
+      "A": "Correct placeholder answer",
+      "B": "Distractor B",
+      "C": "Distractor C",
+      "D": "Distractor D"
+    },
+    "correct": "A",
+    "guidance": "Guidance will be added for this question.",
+    "explanation": {
+      "why_correct": "Explanation will be provided here.",
+      "why_wrong": {
+        "B": "\u2014",
+        "C": "\u2014",
+        "D": "\u2014"
+      }
+    }
+  },
+  {
+    "id": "g72",
+    "difficulty": "easy",
+    "topic": "Reports & Indexes",
+    "question": "[Placeholder] Question 72 on Reports & Indexes. This question will be replaced with a real exam-style question.",
+    "options": {
+      "A": "Correct placeholder answer",
+      "B": "Distractor B",
+      "C": "Distractor C",
+      "D": "Distractor D"
+    },
+    "correct": "A",
+    "guidance": "Guidance will be added for this question.",
+    "explanation": {
+      "why_correct": "Explanation will be provided here.",
+      "why_wrong": {
+        "B": "\u2014",
+        "C": "\u2014",
+        "D": "\u2014"
+      }
+    }
+  },
+  {
+    "id": "g73",
+    "difficulty": "easy",
+    "topic": "Current Affairs & Business News",
+    "question": "[Placeholder] Question 73 on Current Affairs & Business News. This question will be replaced with a real exam-style question.",
+    "options": {
+      "A": "Correct placeholder answer",
+      "B": "Distractor B",
+      "C": "Distractor C",
+      "D": "Distractor D"
+    },
+    "correct": "A",
+    "guidance": "Guidance will be added for this question.",
+    "explanation": {
+      "why_correct": "Explanation will be provided here.",
+      "why_wrong": {
+        "B": "\u2014",
+        "C": "\u2014",
+        "D": "\u2014"
+      }
+    }
+  },
+  {
+    "id": "g74",
+    "difficulty": "intermediate",
+    "topic": "Banking & Finance",
+    "question": "[Placeholder] Question 74 on Banking & Finance. This question will be replaced with a real exam-style question.",
+    "options": {
+      "A": "Correct placeholder answer",
+      "B": "Distractor B",
+      "C": "Distractor C",
+      "D": "Distractor D"
+    },
+    "correct": "A",
+    "guidance": "Guidance will be added for this question.",
+    "explanation": {
+      "why_correct": "Explanation will be provided here.",
+      "why_wrong": {
+        "B": "\u2014",
+        "C": "\u2014",
+        "D": "\u2014"
+      }
+    }
+  },
+  {
+    "id": "g75",
+    "difficulty": "intermediate",
+    "topic": "Government Policies & Schemes",
+    "question": "[Placeholder] Question 75 on Government Policies & Schemes. This question will be replaced with a real exam-style question.",
+    "options": {
+      "A": "Correct placeholder answer",
+      "B": "Distractor B",
+      "C": "Distractor C",
+      "D": "Distractor D"
+    },
+    "correct": "A",
+    "guidance": "Guidance will be added for this question.",
+    "explanation": {
+      "why_correct": "Explanation will be provided here.",
+      "why_wrong": {
+        "B": "\u2014",
+        "C": "\u2014",
+        "D": "\u2014"
+      }
+    }
+  },
+  {
+    "id": "g76",
+    "difficulty": "intermediate",
+    "topic": "Companies, CEOs & Awards",
+    "question": "[Placeholder] Question 76 on Companies, CEOs & Awards. This question will be replaced with a real exam-style question.",
+    "options": {
+      "A": "Correct placeholder answer",
+      "B": "Distractor B",
+      "C": "Distractor C",
+      "D": "Distractor D"
+    },
+    "correct": "A",
+    "guidance": "Guidance will be added for this question.",
+    "explanation": {
+      "why_correct": "Explanation will be provided here.",
+      "why_wrong": {
+        "B": "\u2014",
+        "C": "\u2014",
+        "D": "\u2014"
+      }
+    }
+  },
+  {
+    "id": "g77",
+    "difficulty": "intermediate",
+    "topic": "Indian & Global Economy",
+    "question": "[Placeholder] Question 77 on Indian & Global Economy. This question will be replaced with a real exam-style question.",
+    "options": {
+      "A": "Correct placeholder answer",
+      "B": "Distractor B",
+      "C": "Distractor C",
+      "D": "Distractor D"
+    },
+    "correct": "A",
+    "guidance": "Guidance will be added for this question.",
+    "explanation": {
+      "why_correct": "Explanation will be provided here.",
+      "why_wrong": {
+        "B": "\u2014",
+        "C": "\u2014",
+        "D": "\u2014"
+      }
+    }
+  },
+  {
+    "id": "g78",
+    "difficulty": "hard",
+    "topic": "International Organizations",
+    "question": "[Placeholder] Question 78 on International Organizations. This question will be replaced with a real exam-style question.",
+    "options": {
+      "A": "Correct placeholder answer",
+      "B": "Distractor B",
+      "C": "Distractor C",
+      "D": "Distractor D"
+    },
+    "correct": "A",
+    "guidance": "Guidance will be added for this question.",
+    "explanation": {
+      "why_correct": "Explanation will be provided here.",
+      "why_wrong": {
+        "B": "\u2014",
+        "C": "\u2014",
+        "D": "\u2014"
+      }
+    }
+  },
+  {
+    "id": "g79",
+    "difficulty": "hard",
+    "topic": "Science, Tech & Environment",
+    "question": "[Placeholder] Question 79 on Science, Tech & Environment. This question will be replaced with a real exam-style question.",
+    "options": {
+      "A": "Correct placeholder answer",
+      "B": "Distractor B",
+      "C": "Distractor C",
+      "D": "Distractor D"
+    },
+    "correct": "A",
+    "guidance": "Guidance will be added for this question.",
+    "explanation": {
+      "why_correct": "Explanation will be provided here.",
+      "why_wrong": {
+        "B": "\u2014",
+        "C": "\u2014",
+        "D": "\u2014"
+      }
+    }
+  },
+  {
+    "id": "g80",
+    "difficulty": "hard",
+    "topic": "Sports & Static GK",
+    "question": "[Placeholder] Question 80 on Sports & Static GK. This question will be replaced with a real exam-style question.",
+    "options": {
+      "A": "Correct placeholder answer",
+      "B": "Distractor B",
+      "C": "Distractor C",
+      "D": "Distractor D"
+    },
+    "correct": "A",
+    "guidance": "Guidance will be added for this question.",
+    "explanation": {
+      "why_correct": "Explanation will be provided here.",
+      "why_wrong": {
+        "B": "\u2014",
+        "C": "\u2014",
+        "D": "\u2014"
+      }
+    }
+  },
+  {
+    "id": "g81",
+    "difficulty": "easy",
+    "topic": "Reports & Indexes",
+    "question": "[Placeholder] Question 81 on Reports & Indexes. This question will be replaced with a real exam-style question.",
+    "options": {
+      "A": "Correct placeholder answer",
+      "B": "Distractor B",
+      "C": "Distractor C",
+      "D": "Distractor D"
+    },
+    "correct": "A",
+    "guidance": "Guidance will be added for this question.",
+    "explanation": {
+      "why_correct": "Explanation will be provided here.",
+      "why_wrong": {
+        "B": "\u2014",
+        "C": "\u2014",
+        "D": "\u2014"
+      }
+    }
+  },
+  {
+    "id": "g82",
+    "difficulty": "easy",
+    "topic": "Current Affairs & Business News",
+    "question": "[Placeholder] Question 82 on Current Affairs & Business News. This question will be replaced with a real exam-style question.",
+    "options": {
+      "A": "Correct placeholder answer",
+      "B": "Distractor B",
+      "C": "Distractor C",
+      "D": "Distractor D"
+    },
+    "correct": "A",
+    "guidance": "Guidance will be added for this question.",
+    "explanation": {
+      "why_correct": "Explanation will be provided here.",
+      "why_wrong": {
+        "B": "\u2014",
+        "C": "\u2014",
+        "D": "\u2014"
+      }
+    }
+  },
+  {
+    "id": "g83",
+    "difficulty": "easy",
+    "topic": "Banking & Finance",
+    "question": "[Placeholder] Question 83 on Banking & Finance. This question will be replaced with a real exam-style question.",
+    "options": {
+      "A": "Correct placeholder answer",
+      "B": "Distractor B",
+      "C": "Distractor C",
+      "D": "Distractor D"
+    },
+    "correct": "A",
+    "guidance": "Guidance will be added for this question.",
+    "explanation": {
+      "why_correct": "Explanation will be provided here.",
+      "why_wrong": {
+        "B": "\u2014",
+        "C": "\u2014",
+        "D": "\u2014"
+      }
+    }
+  },
+  {
+    "id": "g84",
+    "difficulty": "intermediate",
+    "topic": "Government Policies & Schemes",
+    "question": "[Placeholder] Question 84 on Government Policies & Schemes. This question will be replaced with a real exam-style question.",
+    "options": {
+      "A": "Correct placeholder answer",
+      "B": "Distractor B",
+      "C": "Distractor C",
+      "D": "Distractor D"
+    },
+    "correct": "A",
+    "guidance": "Guidance will be added for this question.",
+    "explanation": {
+      "why_correct": "Explanation will be provided here.",
+      "why_wrong": {
+        "B": "\u2014",
+        "C": "\u2014",
+        "D": "\u2014"
+      }
+    }
+  },
+  {
+    "id": "g85",
+    "difficulty": "intermediate",
+    "topic": "Companies, CEOs & Awards",
+    "question": "[Placeholder] Question 85 on Companies, CEOs & Awards. This question will be replaced with a real exam-style question.",
+    "options": {
+      "A": "Correct placeholder answer",
+      "B": "Distractor B",
+      "C": "Distractor C",
+      "D": "Distractor D"
+    },
+    "correct": "A",
+    "guidance": "Guidance will be added for this question.",
+    "explanation": {
+      "why_correct": "Explanation will be provided here.",
+      "why_wrong": {
+        "B": "\u2014",
+        "C": "\u2014",
+        "D": "\u2014"
+      }
+    }
+  },
+  {
+    "id": "g86",
+    "difficulty": "intermediate",
+    "topic": "Indian & Global Economy",
+    "question": "[Placeholder] Question 86 on Indian & Global Economy. This question will be replaced with a real exam-style question.",
+    "options": {
+      "A": "Correct placeholder answer",
+      "B": "Distractor B",
+      "C": "Distractor C",
+      "D": "Distractor D"
+    },
+    "correct": "A",
+    "guidance": "Guidance will be added for this question.",
+    "explanation": {
+      "why_correct": "Explanation will be provided here.",
+      "why_wrong": {
+        "B": "\u2014",
+        "C": "\u2014",
+        "D": "\u2014"
+      }
+    }
+  },
+  {
+    "id": "g87",
+    "difficulty": "intermediate",
+    "topic": "International Organizations",
+    "question": "[Placeholder] Question 87 on International Organizations. This question will be replaced with a real exam-style question.",
+    "options": {
+      "A": "Correct placeholder answer",
+      "B": "Distractor B",
+      "C": "Distractor C",
+      "D": "Distractor D"
+    },
+    "correct": "A",
+    "guidance": "Guidance will be added for this question.",
+    "explanation": {
+      "why_correct": "Explanation will be provided here.",
+      "why_wrong": {
+        "B": "\u2014",
+        "C": "\u2014",
+        "D": "\u2014"
+      }
+    }
+  },
+  {
+    "id": "g88",
+    "difficulty": "hard",
+    "topic": "Science, Tech & Environment",
+    "question": "[Placeholder] Question 88 on Science, Tech & Environment. This question will be replaced with a real exam-style question.",
+    "options": {
+      "A": "Correct placeholder answer",
+      "B": "Distractor B",
+      "C": "Distractor C",
+      "D": "Distractor D"
+    },
+    "correct": "A",
+    "guidance": "Guidance will be added for this question.",
+    "explanation": {
+      "why_correct": "Explanation will be provided here.",
+      "why_wrong": {
+        "B": "\u2014",
+        "C": "\u2014",
+        "D": "\u2014"
+      }
+    }
+  },
+  {
+    "id": "g89",
+    "difficulty": "hard",
+    "topic": "Sports & Static GK",
+    "question": "[Placeholder] Question 89 on Sports & Static GK. This question will be replaced with a real exam-style question.",
+    "options": {
+      "A": "Correct placeholder answer",
+      "B": "Distractor B",
+      "C": "Distractor C",
+      "D": "Distractor D"
+    },
+    "correct": "A",
+    "guidance": "Guidance will be added for this question.",
+    "explanation": {
+      "why_correct": "Explanation will be provided here.",
+      "why_wrong": {
+        "B": "\u2014",
+        "C": "\u2014",
+        "D": "\u2014"
+      }
+    }
+  },
+  {
+    "id": "g90",
+    "difficulty": "hard",
+    "topic": "Reports & Indexes",
+    "question": "[Placeholder] Question 90 on Reports & Indexes. This question will be replaced with a real exam-style question.",
+    "options": {
+      "A": "Correct placeholder answer",
+      "B": "Distractor B",
+      "C": "Distractor C",
+      "D": "Distractor D"
+    },
+    "correct": "A",
+    "guidance": "Guidance will be added for this question.",
+    "explanation": {
+      "why_correct": "Explanation will be provided here.",
+      "why_wrong": {
+        "B": "\u2014",
+        "C": "\u2014",
+        "D": "\u2014"
+      }
+    }
+  },
+  {
+    "id": "g91",
+    "difficulty": "easy",
+    "topic": "Current Affairs & Business News",
+    "question": "[Placeholder] Question 91 on Current Affairs & Business News. This question will be replaced with a real exam-style question.",
+    "options": {
+      "A": "Correct placeholder answer",
+      "B": "Distractor B",
+      "C": "Distractor C",
+      "D": "Distractor D"
+    },
+    "correct": "A",
+    "guidance": "Guidance will be added for this question.",
+    "explanation": {
+      "why_correct": "Explanation will be provided here.",
+      "why_wrong": {
+        "B": "\u2014",
+        "C": "\u2014",
+        "D": "\u2014"
+      }
+    }
+  },
+  {
+    "id": "g92",
+    "difficulty": "easy",
+    "topic": "Banking & Finance",
+    "question": "[Placeholder] Question 92 on Banking & Finance. This question will be replaced with a real exam-style question.",
+    "options": {
+      "A": "Correct placeholder answer",
+      "B": "Distractor B",
+      "C": "Distractor C",
+      "D": "Distractor D"
+    },
+    "correct": "A",
+    "guidance": "Guidance will be added for this question.",
+    "explanation": {
+      "why_correct": "Explanation will be provided here.",
+      "why_wrong": {
+        "B": "\u2014",
+        "C": "\u2014",
+        "D": "\u2014"
+      }
+    }
+  },
+  {
+    "id": "g93",
+    "difficulty": "easy",
+    "topic": "Government Policies & Schemes",
+    "question": "[Placeholder] Question 93 on Government Policies & Schemes. This question will be replaced with a real exam-style question.",
+    "options": {
+      "A": "Correct placeholder answer",
+      "B": "Distractor B",
+      "C": "Distractor C",
+      "D": "Distractor D"
+    },
+    "correct": "A",
+    "guidance": "Guidance will be added for this question.",
+    "explanation": {
+      "why_correct": "Explanation will be provided here.",
+      "why_wrong": {
+        "B": "\u2014",
+        "C": "\u2014",
+        "D": "\u2014"
+      }
+    }
+  },
+  {
+    "id": "g94",
+    "difficulty": "intermediate",
+    "topic": "Companies, CEOs & Awards",
+    "question": "[Placeholder] Question 94 on Companies, CEOs & Awards. This question will be replaced with a real exam-style question.",
+    "options": {
+      "A": "Correct placeholder answer",
+      "B": "Distractor B",
+      "C": "Distractor C",
+      "D": "Distractor D"
+    },
+    "correct": "A",
+    "guidance": "Guidance will be added for this question.",
+    "explanation": {
+      "why_correct": "Explanation will be provided here.",
+      "why_wrong": {
+        "B": "\u2014",
+        "C": "\u2014",
+        "D": "\u2014"
+      }
+    }
+  },
+  {
+    "id": "g95",
+    "difficulty": "intermediate",
+    "topic": "Indian & Global Economy",
+    "question": "[Placeholder] Question 95 on Indian & Global Economy. This question will be replaced with a real exam-style question.",
+    "options": {
+      "A": "Correct placeholder answer",
+      "B": "Distractor B",
+      "C": "Distractor C",
+      "D": "Distractor D"
+    },
+    "correct": "A",
+    "guidance": "Guidance will be added for this question.",
+    "explanation": {
+      "why_correct": "Explanation will be provided here.",
+      "why_wrong": {
+        "B": "\u2014",
+        "C": "\u2014",
+        "D": "\u2014"
+      }
+    }
+  },
+  {
+    "id": "g96",
+    "difficulty": "intermediate",
+    "topic": "International Organizations",
+    "question": "[Placeholder] Question 96 on International Organizations. This question will be replaced with a real exam-style question.",
+    "options": {
+      "A": "Correct placeholder answer",
+      "B": "Distractor B",
+      "C": "Distractor C",
+      "D": "Distractor D"
+    },
+    "correct": "A",
+    "guidance": "Guidance will be added for this question.",
+    "explanation": {
+      "why_correct": "Explanation will be provided here.",
+      "why_wrong": {
+        "B": "\u2014",
+        "C": "\u2014",
+        "D": "\u2014"
+      }
+    }
+  },
+  {
+    "id": "g97",
+    "difficulty": "intermediate",
+    "topic": "Science, Tech & Environment",
+    "question": "[Placeholder] Question 97 on Science, Tech & Environment. This question will be replaced with a real exam-style question.",
+    "options": {
+      "A": "Correct placeholder answer",
+      "B": "Distractor B",
+      "C": "Distractor C",
+      "D": "Distractor D"
+    },
+    "correct": "A",
+    "guidance": "Guidance will be added for this question.",
+    "explanation": {
+      "why_correct": "Explanation will be provided here.",
+      "why_wrong": {
+        "B": "\u2014",
+        "C": "\u2014",
+        "D": "\u2014"
+      }
+    }
+  },
+  {
+    "id": "g98",
+    "difficulty": "hard",
+    "topic": "Sports & Static GK",
+    "question": "[Placeholder] Question 98 on Sports & Static GK. This question will be replaced with a real exam-style question.",
+    "options": {
+      "A": "Correct placeholder answer",
+      "B": "Distractor B",
+      "C": "Distractor C",
+      "D": "Distractor D"
+    },
+    "correct": "A",
+    "guidance": "Guidance will be added for this question.",
+    "explanation": {
+      "why_correct": "Explanation will be provided here.",
+      "why_wrong": {
+        "B": "\u2014",
+        "C": "\u2014",
+        "D": "\u2014"
+      }
+    }
+  },
+  {
+    "id": "g99",
+    "difficulty": "hard",
+    "topic": "Reports & Indexes",
+    "question": "[Placeholder] Question 99 on Reports & Indexes. This question will be replaced with a real exam-style question.",
+    "options": {
+      "A": "Correct placeholder answer",
+      "B": "Distractor B",
+      "C": "Distractor C",
+      "D": "Distractor D"
+    },
+    "correct": "A",
+    "guidance": "Guidance will be added for this question.",
+    "explanation": {
+      "why_correct": "Explanation will be provided here.",
+      "why_wrong": {
+        "B": "\u2014",
+        "C": "\u2014",
+        "D": "\u2014"
+      }
+    }
+  },
+  {
+    "id": "g100",
+    "difficulty": "hard",
+    "topic": "Current Affairs & Business News",
+    "question": "[Placeholder] Question 100 on Current Affairs & Business News. This question will be replaced with a real exam-style question.",
+    "options": {
+      "A": "Correct placeholder answer",
+      "B": "Distractor B",
+      "C": "Distractor C",
+      "D": "Distractor D"
+    },
+    "correct": "A",
+    "guidance": "Guidance will be added for this question.",
+    "explanation": {
+      "why_correct": "Explanation will be provided here.",
+      "why_wrong": {
+        "B": "\u2014",
+        "C": "\u2014",
+        "D": "\u2014"
+      }
+    }
+  },
+  {
+    "id": "g101",
+    "difficulty": "easy",
+    "topic": "Banking & Finance",
+    "question": "[Placeholder] Question 101 on Banking & Finance. This question will be replaced with a real exam-style question.",
+    "options": {
+      "A": "Correct placeholder answer",
+      "B": "Distractor B",
+      "C": "Distractor C",
+      "D": "Distractor D"
+    },
+    "correct": "A",
+    "guidance": "Guidance will be added for this question.",
+    "explanation": {
+      "why_correct": "Explanation will be provided here.",
+      "why_wrong": {
+        "B": "\u2014",
+        "C": "\u2014",
+        "D": "\u2014"
+      }
+    }
+  },
+  {
+    "id": "g102",
+    "difficulty": "easy",
+    "topic": "Government Policies & Schemes",
+    "question": "[Placeholder] Question 102 on Government Policies & Schemes. This question will be replaced with a real exam-style question.",
+    "options": {
+      "A": "Correct placeholder answer",
+      "B": "Distractor B",
+      "C": "Distractor C",
+      "D": "Distractor D"
+    },
+    "correct": "A",
+    "guidance": "Guidance will be added for this question.",
+    "explanation": {
+      "why_correct": "Explanation will be provided here.",
+      "why_wrong": {
+        "B": "\u2014",
+        "C": "\u2014",
+        "D": "\u2014"
+      }
+    }
+  },
+  {
+    "id": "g103",
+    "difficulty": "easy",
+    "topic": "Companies, CEOs & Awards",
+    "question": "[Placeholder] Question 103 on Companies, CEOs & Awards. This question will be replaced with a real exam-style question.",
+    "options": {
+      "A": "Correct placeholder answer",
+      "B": "Distractor B",
+      "C": "Distractor C",
+      "D": "Distractor D"
+    },
+    "correct": "A",
+    "guidance": "Guidance will be added for this question.",
+    "explanation": {
+      "why_correct": "Explanation will be provided here.",
+      "why_wrong": {
+        "B": "\u2014",
+        "C": "\u2014",
+        "D": "\u2014"
+      }
+    }
+  },
+  {
+    "id": "g104",
+    "difficulty": "intermediate",
+    "topic": "Indian & Global Economy",
+    "question": "[Placeholder] Question 104 on Indian & Global Economy. This question will be replaced with a real exam-style question.",
+    "options": {
+      "A": "Correct placeholder answer",
+      "B": "Distractor B",
+      "C": "Distractor C",
+      "D": "Distractor D"
+    },
+    "correct": "A",
+    "guidance": "Guidance will be added for this question.",
+    "explanation": {
+      "why_correct": "Explanation will be provided here.",
+      "why_wrong": {
+        "B": "\u2014",
+        "C": "\u2014",
+        "D": "\u2014"
+      }
+    }
+  },
+  {
+    "id": "g105",
+    "difficulty": "intermediate",
+    "topic": "International Organizations",
+    "question": "[Placeholder] Question 105 on International Organizations. This question will be replaced with a real exam-style question.",
+    "options": {
+      "A": "Correct placeholder answer",
+      "B": "Distractor B",
+      "C": "Distractor C",
+      "D": "Distractor D"
+    },
+    "correct": "A",
+    "guidance": "Guidance will be added for this question.",
+    "explanation": {
+      "why_correct": "Explanation will be provided here.",
+      "why_wrong": {
+        "B": "\u2014",
+        "C": "\u2014",
+        "D": "\u2014"
+      }
+    }
+  }
+]

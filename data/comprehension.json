@@ -1,0 +1,2312 @@
+[
+  {
+    "id": "c1",
+    "difficulty": "easy",
+    "topic": "RC \u2014 Main Idea & Theme",
+    "question": "[Placeholder] Question 1 on RC \u2014 Main Idea & Theme. This question will be replaced with a real exam-style question.",
+    "options": {
+      "A": "Correct placeholder answer",
+      "B": "Distractor B",
+      "C": "Distractor C",
+      "D": "Distractor D"
+    },
+    "correct": "A",
+    "guidance": "Guidance will be added for this question.",
+    "explanation": {
+      "why_correct": "Explanation will be provided here.",
+      "why_wrong": {
+        "B": "\u2014",
+        "C": "\u2014",
+        "D": "\u2014"
+      }
+    }
+  },
+  {
+    "id": "c2",
+    "difficulty": "easy",
+    "topic": "RC \u2014 Inference & Implication",
+    "question": "[Placeholder] Question 2 on RC \u2014 Inference & Implication. This question will be replaced with a real exam-style question.",
+    "options": {
+      "A": "Correct placeholder answer",
+      "B": "Distractor B",
+      "C": "Distractor C",
+      "D": "Distractor D"
+    },
+    "correct": "A",
+    "guidance": "Guidance will be added for this question.",
+    "explanation": {
+      "why_correct": "Explanation will be provided here.",
+      "why_wrong": {
+        "B": "\u2014",
+        "C": "\u2014",
+        "D": "\u2014"
+      }
+    }
+  },
+  {
+    "id": "c3",
+    "difficulty": "easy",
+    "topic": "RC \u2014 Vocabulary in Context",
+    "question": "[Placeholder] Question 3 on RC \u2014 Vocabulary in Context. This question will be replaced with a real exam-style question.",
+    "options": {
+      "A": "Correct placeholder answer",
+      "B": "Distractor B",
+      "C": "Distractor C",
+      "D": "Distractor D"
+    },
+    "correct": "A",
+    "guidance": "Guidance will be added for this question.",
+    "explanation": {
+      "why_correct": "Explanation will be provided here.",
+      "why_wrong": {
+        "B": "\u2014",
+        "C": "\u2014",
+        "D": "\u2014"
+      }
+    }
+  },
+  {
+    "id": "c4",
+    "difficulty": "intermediate",
+    "topic": "RC \u2014 Fact vs Opinion",
+    "question": "[Placeholder] Question 4 on RC \u2014 Fact vs Opinion. This question will be replaced with a real exam-style question.",
+    "options": {
+      "A": "Correct placeholder answer",
+      "B": "Distractor B",
+      "C": "Distractor C",
+      "D": "Distractor D"
+    },
+    "correct": "A",
+    "guidance": "Guidance will be added for this question.",
+    "explanation": {
+      "why_correct": "Explanation will be provided here.",
+      "why_wrong": {
+        "B": "\u2014",
+        "C": "\u2014",
+        "D": "\u2014"
+      }
+    }
+  },
+  {
+    "id": "c5",
+    "difficulty": "intermediate",
+    "topic": "RC \u2014 Tone & Author's Attitude",
+    "question": "[Placeholder] Question 5 on RC \u2014 Tone & Author's Attitude. This question will be replaced with a real exam-style question.",
+    "options": {
+      "A": "Correct placeholder answer",
+      "B": "Distractor B",
+      "C": "Distractor C",
+      "D": "Distractor D"
+    },
+    "correct": "A",
+    "guidance": "Guidance will be added for this question.",
+    "explanation": {
+      "why_correct": "Explanation will be provided here.",
+      "why_wrong": {
+        "B": "\u2014",
+        "C": "\u2014",
+        "D": "\u2014"
+      }
+    }
+  },
+  {
+    "id": "c6",
+    "difficulty": "intermediate",
+    "topic": "RC \u2014 Main Idea & Theme",
+    "question": "[Placeholder] Question 6 on RC \u2014 Main Idea & Theme. This question will be replaced with a real exam-style question.",
+    "options": {
+      "A": "Correct placeholder answer",
+      "B": "Distractor B",
+      "C": "Distractor C",
+      "D": "Distractor D"
+    },
+    "correct": "A",
+    "guidance": "Guidance will be added for this question.",
+    "explanation": {
+      "why_correct": "Explanation will be provided here.",
+      "why_wrong": {
+        "B": "\u2014",
+        "C": "\u2014",
+        "D": "\u2014"
+      }
+    }
+  },
+  {
+    "id": "c7",
+    "difficulty": "intermediate",
+    "topic": "RC \u2014 Inference & Implication",
+    "question": "[Placeholder] Question 7 on RC \u2014 Inference & Implication. This question will be replaced with a real exam-style question.",
+    "options": {
+      "A": "Correct placeholder answer",
+      "B": "Distractor B",
+      "C": "Distractor C",
+      "D": "Distractor D"
+    },
+    "correct": "A",
+    "guidance": "Guidance will be added for this question.",
+    "explanation": {
+      "why_correct": "Explanation will be provided here.",
+      "why_wrong": {
+        "B": "\u2014",
+        "C": "\u2014",
+        "D": "\u2014"
+      }
+    }
+  },
+  {
+    "id": "c8",
+    "difficulty": "hard",
+    "topic": "RC \u2014 Vocabulary in Context",
+    "question": "[Placeholder] Question 8 on RC \u2014 Vocabulary in Context. This question will be replaced with a real exam-style question.",
+    "options": {
+      "A": "Correct placeholder answer",
+      "B": "Distractor B",
+      "C": "Distractor C",
+      "D": "Distractor D"
+    },
+    "correct": "A",
+    "guidance": "Guidance will be added for this question.",
+    "explanation": {
+      "why_correct": "Explanation will be provided here.",
+      "why_wrong": {
+        "B": "\u2014",
+        "C": "\u2014",
+        "D": "\u2014"
+      }
+    }
+  },
+  {
+    "id": "c9",
+    "difficulty": "hard",
+    "topic": "RC \u2014 Fact vs Opinion",
+    "question": "[Placeholder] Question 9 on RC \u2014 Fact vs Opinion. This question will be replaced with a real exam-style question.",
+    "options": {
+      "A": "Correct placeholder answer",
+      "B": "Distractor B",
+      "C": "Distractor C",
+      "D": "Distractor D"
+    },
+    "correct": "A",
+    "guidance": "Guidance will be added for this question.",
+    "explanation": {
+      "why_correct": "Explanation will be provided here.",
+      "why_wrong": {
+        "B": "\u2014",
+        "C": "\u2014",
+        "D": "\u2014"
+      }
+    }
+  },
+  {
+    "id": "c10",
+    "difficulty": "hard",
+    "topic": "RC \u2014 Tone & Author's Attitude",
+    "question": "[Placeholder] Question 10 on RC \u2014 Tone & Author's Attitude. This question will be replaced with a real exam-style question.",
+    "options": {
+      "A": "Correct placeholder answer",
+      "B": "Distractor B",
+      "C": "Distractor C",
+      "D": "Distractor D"
+    },
+    "correct": "A",
+    "guidance": "Guidance will be added for this question.",
+    "explanation": {
+      "why_correct": "Explanation will be provided here.",
+      "why_wrong": {
+        "B": "\u2014",
+        "C": "\u2014",
+        "D": "\u2014"
+      }
+    }
+  },
+  {
+    "id": "c11",
+    "difficulty": "easy",
+    "topic": "RC \u2014 Main Idea & Theme",
+    "question": "[Placeholder] Question 11 on RC \u2014 Main Idea & Theme. This question will be replaced with a real exam-style question.",
+    "options": {
+      "A": "Correct placeholder answer",
+      "B": "Distractor B",
+      "C": "Distractor C",
+      "D": "Distractor D"
+    },
+    "correct": "A",
+    "guidance": "Guidance will be added for this question.",
+    "explanation": {
+      "why_correct": "Explanation will be provided here.",
+      "why_wrong": {
+        "B": "\u2014",
+        "C": "\u2014",
+        "D": "\u2014"
+      }
+    }
+  },
+  {
+    "id": "c12",
+    "difficulty": "easy",
+    "topic": "RC \u2014 Inference & Implication",
+    "question": "[Placeholder] Question 12 on RC \u2014 Inference & Implication. This question will be replaced with a real exam-style question.",
+    "options": {
+      "A": "Correct placeholder answer",
+      "B": "Distractor B",
+      "C": "Distractor C",
+      "D": "Distractor D"
+    },
+    "correct": "A",
+    "guidance": "Guidance will be added for this question.",
+    "explanation": {
+      "why_correct": "Explanation will be provided here.",
+      "why_wrong": {
+        "B": "\u2014",
+        "C": "\u2014",
+        "D": "\u2014"
+      }
+    }
+  },
+  {
+    "id": "c13",
+    "difficulty": "easy",
+    "topic": "RC \u2014 Vocabulary in Context",
+    "question": "[Placeholder] Question 13 on RC \u2014 Vocabulary in Context. This question will be replaced with a real exam-style question.",
+    "options": {
+      "A": "Correct placeholder answer",
+      "B": "Distractor B",
+      "C": "Distractor C",
+      "D": "Distractor D"
+    },
+    "correct": "A",
+    "guidance": "Guidance will be added for this question.",
+    "explanation": {
+      "why_correct": "Explanation will be provided here.",
+      "why_wrong": {
+        "B": "\u2014",
+        "C": "\u2014",
+        "D": "\u2014"
+      }
+    }
+  },
+  {
+    "id": "c14",
+    "difficulty": "intermediate",
+    "topic": "RC \u2014 Fact vs Opinion",
+    "question": "[Placeholder] Question 14 on RC \u2014 Fact vs Opinion. This question will be replaced with a real exam-style question.",
+    "options": {
+      "A": "Correct placeholder answer",
+      "B": "Distractor B",
+      "C": "Distractor C",
+      "D": "Distractor D"
+    },
+    "correct": "A",
+    "guidance": "Guidance will be added for this question.",
+    "explanation": {
+      "why_correct": "Explanation will be provided here.",
+      "why_wrong": {
+        "B": "\u2014",
+        "C": "\u2014",
+        "D": "\u2014"
+      }
+    }
+  },
+  {
+    "id": "c15",
+    "difficulty": "intermediate",
+    "topic": "RC \u2014 Tone & Author's Attitude",
+    "question": "[Placeholder] Question 15 on RC \u2014 Tone & Author's Attitude. This question will be replaced with a real exam-style question.",
+    "options": {
+      "A": "Correct placeholder answer",
+      "B": "Distractor B",
+      "C": "Distractor C",
+      "D": "Distractor D"
+    },
+    "correct": "A",
+    "guidance": "Guidance will be added for this question.",
+    "explanation": {
+      "why_correct": "Explanation will be provided here.",
+      "why_wrong": {
+        "B": "\u2014",
+        "C": "\u2014",
+        "D": "\u2014"
+      }
+    }
+  },
+  {
+    "id": "c16",
+    "difficulty": "intermediate",
+    "topic": "RC \u2014 Main Idea & Theme",
+    "question": "[Placeholder] Question 16 on RC \u2014 Main Idea & Theme. This question will be replaced with a real exam-style question.",
+    "options": {
+      "A": "Correct placeholder answer",
+      "B": "Distractor B",
+      "C": "Distractor C",
+      "D": "Distractor D"
+    },
+    "correct": "A",
+    "guidance": "Guidance will be added for this question.",
+    "explanation": {
+      "why_correct": "Explanation will be provided here.",
+      "why_wrong": {
+        "B": "\u2014",
+        "C": "\u2014",
+        "D": "\u2014"
+      }
+    }
+  },
+  {
+    "id": "c17",
+    "difficulty": "intermediate",
+    "topic": "RC \u2014 Inference & Implication",
+    "question": "[Placeholder] Question 17 on RC \u2014 Inference & Implication. This question will be replaced with a real exam-style question.",
+    "options": {
+      "A": "Correct placeholder answer",
+      "B": "Distractor B",
+      "C": "Distractor C",
+      "D": "Distractor D"
+    },
+    "correct": "A",
+    "guidance": "Guidance will be added for this question.",
+    "explanation": {
+      "why_correct": "Explanation will be provided here.",
+      "why_wrong": {
+        "B": "\u2014",
+        "C": "\u2014",
+        "D": "\u2014"
+      }
+    }
+  },
+  {
+    "id": "c18",
+    "difficulty": "hard",
+    "topic": "RC \u2014 Vocabulary in Context",
+    "question": "[Placeholder] Question 18 on RC \u2014 Vocabulary in Context. This question will be replaced with a real exam-style question.",
+    "options": {
+      "A": "Correct placeholder answer",
+      "B": "Distractor B",
+      "C": "Distractor C",
+      "D": "Distractor D"
+    },
+    "correct": "A",
+    "guidance": "Guidance will be added for this question.",
+    "explanation": {
+      "why_correct": "Explanation will be provided here.",
+      "why_wrong": {
+        "B": "\u2014",
+        "C": "\u2014",
+        "D": "\u2014"
+      }
+    }
+  },
+  {
+    "id": "c19",
+    "difficulty": "hard",
+    "topic": "RC \u2014 Fact vs Opinion",
+    "question": "[Placeholder] Question 19 on RC \u2014 Fact vs Opinion. This question will be replaced with a real exam-style question.",
+    "options": {
+      "A": "Correct placeholder answer",
+      "B": "Distractor B",
+      "C": "Distractor C",
+      "D": "Distractor D"
+    },
+    "correct": "A",
+    "guidance": "Guidance will be added for this question.",
+    "explanation": {
+      "why_correct": "Explanation will be provided here.",
+      "why_wrong": {
+        "B": "\u2014",
+        "C": "\u2014",
+        "D": "\u2014"
+      }
+    }
+  },
+  {
+    "id": "c20",
+    "difficulty": "hard",
+    "topic": "RC \u2014 Tone & Author's Attitude",
+    "question": "[Placeholder] Question 20 on RC \u2014 Tone & Author's Attitude. This question will be replaced with a real exam-style question.",
+    "options": {
+      "A": "Correct placeholder answer",
+      "B": "Distractor B",
+      "C": "Distractor C",
+      "D": "Distractor D"
+    },
+    "correct": "A",
+    "guidance": "Guidance will be added for this question.",
+    "explanation": {
+      "why_correct": "Explanation will be provided here.",
+      "why_wrong": {
+        "B": "\u2014",
+        "C": "\u2014",
+        "D": "\u2014"
+      }
+    }
+  },
+  {
+    "id": "c21",
+    "difficulty": "easy",
+    "topic": "RC \u2014 Main Idea & Theme",
+    "question": "[Placeholder] Question 21 on RC \u2014 Main Idea & Theme. This question will be replaced with a real exam-style question.",
+    "options": {
+      "A": "Correct placeholder answer",
+      "B": "Distractor B",
+      "C": "Distractor C",
+      "D": "Distractor D"
+    },
+    "correct": "A",
+    "guidance": "Guidance will be added for this question.",
+    "explanation": {
+      "why_correct": "Explanation will be provided here.",
+      "why_wrong": {
+        "B": "\u2014",
+        "C": "\u2014",
+        "D": "\u2014"
+      }
+    }
+  },
+  {
+    "id": "c22",
+    "difficulty": "easy",
+    "topic": "RC \u2014 Inference & Implication",
+    "question": "[Placeholder] Question 22 on RC \u2014 Inference & Implication. This question will be replaced with a real exam-style question.",
+    "options": {
+      "A": "Correct placeholder answer",
+      "B": "Distractor B",
+      "C": "Distractor C",
+      "D": "Distractor D"
+    },
+    "correct": "A",
+    "guidance": "Guidance will be added for this question.",
+    "explanation": {
+      "why_correct": "Explanation will be provided here.",
+      "why_wrong": {
+        "B": "\u2014",
+        "C": "\u2014",
+        "D": "\u2014"
+      }
+    }
+  },
+  {
+    "id": "c23",
+    "difficulty": "easy",
+    "topic": "RC \u2014 Vocabulary in Context",
+    "question": "[Placeholder] Question 23 on RC \u2014 Vocabulary in Context. This question will be replaced with a real exam-style question.",
+    "options": {
+      "A": "Correct placeholder answer",
+      "B": "Distractor B",
+      "C": "Distractor C",
+      "D": "Distractor D"
+    },
+    "correct": "A",
+    "guidance": "Guidance will be added for this question.",
+    "explanation": {
+      "why_correct": "Explanation will be provided here.",
+      "why_wrong": {
+        "B": "\u2014",
+        "C": "\u2014",
+        "D": "\u2014"
+      }
+    }
+  },
+  {
+    "id": "c24",
+    "difficulty": "intermediate",
+    "topic": "RC \u2014 Fact vs Opinion",
+    "question": "[Placeholder] Question 24 on RC \u2014 Fact vs Opinion. This question will be replaced with a real exam-style question.",
+    "options": {
+      "A": "Correct placeholder answer",
+      "B": "Distractor B",
+      "C": "Distractor C",
+      "D": "Distractor D"
+    },
+    "correct": "A",
+    "guidance": "Guidance will be added for this question.",
+    "explanation": {
+      "why_correct": "Explanation will be provided here.",
+      "why_wrong": {
+        "B": "\u2014",
+        "C": "\u2014",
+        "D": "\u2014"
+      }
+    }
+  },
+  {
+    "id": "c25",
+    "difficulty": "intermediate",
+    "topic": "RC \u2014 Tone & Author's Attitude",
+    "question": "[Placeholder] Question 25 on RC \u2014 Tone & Author's Attitude. This question will be replaced with a real exam-style question.",
+    "options": {
+      "A": "Correct placeholder answer",
+      "B": "Distractor B",
+      "C": "Distractor C",
+      "D": "Distractor D"
+    },
+    "correct": "A",
+    "guidance": "Guidance will be added for this question.",
+    "explanation": {
+      "why_correct": "Explanation will be provided here.",
+      "why_wrong": {
+        "B": "\u2014",
+        "C": "\u2014",
+        "D": "\u2014"
+      }
+    }
+  },
+  {
+    "id": "c26",
+    "difficulty": "intermediate",
+    "topic": "RC \u2014 Main Idea & Theme",
+    "question": "[Placeholder] Question 26 on RC \u2014 Main Idea & Theme. This question will be replaced with a real exam-style question.",
+    "options": {
+      "A": "Correct placeholder answer",
+      "B": "Distractor B",
+      "C": "Distractor C",
+      "D": "Distractor D"
+    },
+    "correct": "A",
+    "guidance": "Guidance will be added for this question.",
+    "explanation": {
+      "why_correct": "Explanation will be provided here.",
+      "why_wrong": {
+        "B": "\u2014",
+        "C": "\u2014",
+        "D": "\u2014"
+      }
+    }
+  },
+  {
+    "id": "c27",
+    "difficulty": "intermediate",
+    "topic": "RC \u2014 Inference & Implication",
+    "question": "[Placeholder] Question 27 on RC \u2014 Inference & Implication. This question will be replaced with a real exam-style question.",
+    "options": {
+      "A": "Correct placeholder answer",
+      "B": "Distractor B",
+      "C": "Distractor C",
+      "D": "Distractor D"
+    },
+    "correct": "A",
+    "guidance": "Guidance will be added for this question.",
+    "explanation": {
+      "why_correct": "Explanation will be provided here.",
+      "why_wrong": {
+        "B": "\u2014",
+        "C": "\u2014",
+        "D": "\u2014"
+      }
+    }
+  },
+  {
+    "id": "c28",
+    "difficulty": "hard",
+    "topic": "RC \u2014 Vocabulary in Context",
+    "question": "[Placeholder] Question 28 on RC \u2014 Vocabulary in Context. This question will be replaced with a real exam-style question.",
+    "options": {
+      "A": "Correct placeholder answer",
+      "B": "Distractor B",
+      "C": "Distractor C",
+      "D": "Distractor D"
+    },
+    "correct": "A",
+    "guidance": "Guidance will be added for this question.",
+    "explanation": {
+      "why_correct": "Explanation will be provided here.",
+      "why_wrong": {
+        "B": "\u2014",
+        "C": "\u2014",
+        "D": "\u2014"
+      }
+    }
+  },
+  {
+    "id": "c29",
+    "difficulty": "hard",
+    "topic": "RC \u2014 Fact vs Opinion",
+    "question": "[Placeholder] Question 29 on RC \u2014 Fact vs Opinion. This question will be replaced with a real exam-style question.",
+    "options": {
+      "A": "Correct placeholder answer",
+      "B": "Distractor B",
+      "C": "Distractor C",
+      "D": "Distractor D"
+    },
+    "correct": "A",
+    "guidance": "Guidance will be added for this question.",
+    "explanation": {
+      "why_correct": "Explanation will be provided here.",
+      "why_wrong": {
+        "B": "\u2014",
+        "C": "\u2014",
+        "D": "\u2014"
+      }
+    }
+  },
+  {
+    "id": "c30",
+    "difficulty": "hard",
+    "topic": "RC \u2014 Tone & Author's Attitude",
+    "question": "[Placeholder] Question 30 on RC \u2014 Tone & Author's Attitude. This question will be replaced with a real exam-style question.",
+    "options": {
+      "A": "Correct placeholder answer",
+      "B": "Distractor B",
+      "C": "Distractor C",
+      "D": "Distractor D"
+    },
+    "correct": "A",
+    "guidance": "Guidance will be added for this question.",
+    "explanation": {
+      "why_correct": "Explanation will be provided here.",
+      "why_wrong": {
+        "B": "\u2014",
+        "C": "\u2014",
+        "D": "\u2014"
+      }
+    }
+  },
+  {
+    "id": "c31",
+    "difficulty": "easy",
+    "topic": "RC \u2014 Main Idea & Theme",
+    "question": "[Placeholder] Question 31 on RC \u2014 Main Idea & Theme. This question will be replaced with a real exam-style question.",
+    "options": {
+      "A": "Correct placeholder answer",
+      "B": "Distractor B",
+      "C": "Distractor C",
+      "D": "Distractor D"
+    },
+    "correct": "A",
+    "guidance": "Guidance will be added for this question.",
+    "explanation": {
+      "why_correct": "Explanation will be provided here.",
+      "why_wrong": {
+        "B": "\u2014",
+        "C": "\u2014",
+        "D": "\u2014"
+      }
+    }
+  },
+  {
+    "id": "c32",
+    "difficulty": "easy",
+    "topic": "RC \u2014 Inference & Implication",
+    "question": "[Placeholder] Question 32 on RC \u2014 Inference & Implication. This question will be replaced with a real exam-style question.",
+    "options": {
+      "A": "Correct placeholder answer",
+      "B": "Distractor B",
+      "C": "Distractor C",
+      "D": "Distractor D"
+    },
+    "correct": "A",
+    "guidance": "Guidance will be added for this question.",
+    "explanation": {
+      "why_correct": "Explanation will be provided here.",
+      "why_wrong": {
+        "B": "\u2014",
+        "C": "\u2014",
+        "D": "\u2014"
+      }
+    }
+  },
+  {
+    "id": "c33",
+    "difficulty": "easy",
+    "topic": "RC \u2014 Vocabulary in Context",
+    "question": "[Placeholder] Question 33 on RC \u2014 Vocabulary in Context. This question will be replaced with a real exam-style question.",
+    "options": {
+      "A": "Correct placeholder answer",
+      "B": "Distractor B",
+      "C": "Distractor C",
+      "D": "Distractor D"
+    },
+    "correct": "A",
+    "guidance": "Guidance will be added for this question.",
+    "explanation": {
+      "why_correct": "Explanation will be provided here.",
+      "why_wrong": {
+        "B": "\u2014",
+        "C": "\u2014",
+        "D": "\u2014"
+      }
+    }
+  },
+  {
+    "id": "c34",
+    "difficulty": "intermediate",
+    "topic": "RC \u2014 Fact vs Opinion",
+    "question": "[Placeholder] Question 34 on RC \u2014 Fact vs Opinion. This question will be replaced with a real exam-style question.",
+    "options": {
+      "A": "Correct placeholder answer",
+      "B": "Distractor B",
+      "C": "Distractor C",
+      "D": "Distractor D"
+    },
+    "correct": "A",
+    "guidance": "Guidance will be added for this question.",
+    "explanation": {
+      "why_correct": "Explanation will be provided here.",
+      "why_wrong": {
+        "B": "\u2014",
+        "C": "\u2014",
+        "D": "\u2014"
+      }
+    }
+  },
+  {
+    "id": "c35",
+    "difficulty": "intermediate",
+    "topic": "RC \u2014 Tone & Author's Attitude",
+    "question": "[Placeholder] Question 35 on RC \u2014 Tone & Author's Attitude. This question will be replaced with a real exam-style question.",
+    "options": {
+      "A": "Correct placeholder answer",
+      "B": "Distractor B",
+      "C": "Distractor C",
+      "D": "Distractor D"
+    },
+    "correct": "A",
+    "guidance": "Guidance will be added for this question.",
+    "explanation": {
+      "why_correct": "Explanation will be provided here.",
+      "why_wrong": {
+        "B": "\u2014",
+        "C": "\u2014",
+        "D": "\u2014"
+      }
+    }
+  },
+  {
+    "id": "c36",
+    "difficulty": "intermediate",
+    "topic": "RC \u2014 Main Idea & Theme",
+    "question": "[Placeholder] Question 36 on RC \u2014 Main Idea & Theme. This question will be replaced with a real exam-style question.",
+    "options": {
+      "A": "Correct placeholder answer",
+      "B": "Distractor B",
+      "C": "Distractor C",
+      "D": "Distractor D"
+    },
+    "correct": "A",
+    "guidance": "Guidance will be added for this question.",
+    "explanation": {
+      "why_correct": "Explanation will be provided here.",
+      "why_wrong": {
+        "B": "\u2014",
+        "C": "\u2014",
+        "D": "\u2014"
+      }
+    }
+  },
+  {
+    "id": "c37",
+    "difficulty": "intermediate",
+    "topic": "RC \u2014 Inference & Implication",
+    "question": "[Placeholder] Question 37 on RC \u2014 Inference & Implication. This question will be replaced with a real exam-style question.",
+    "options": {
+      "A": "Correct placeholder answer",
+      "B": "Distractor B",
+      "C": "Distractor C",
+      "D": "Distractor D"
+    },
+    "correct": "A",
+    "guidance": "Guidance will be added for this question.",
+    "explanation": {
+      "why_correct": "Explanation will be provided here.",
+      "why_wrong": {
+        "B": "\u2014",
+        "C": "\u2014",
+        "D": "\u2014"
+      }
+    }
+  },
+  {
+    "id": "c38",
+    "difficulty": "hard",
+    "topic": "RC \u2014 Vocabulary in Context",
+    "question": "[Placeholder] Question 38 on RC \u2014 Vocabulary in Context. This question will be replaced with a real exam-style question.",
+    "options": {
+      "A": "Correct placeholder answer",
+      "B": "Distractor B",
+      "C": "Distractor C",
+      "D": "Distractor D"
+    },
+    "correct": "A",
+    "guidance": "Guidance will be added for this question.",
+    "explanation": {
+      "why_correct": "Explanation will be provided here.",
+      "why_wrong": {
+        "B": "\u2014",
+        "C": "\u2014",
+        "D": "\u2014"
+      }
+    }
+  },
+  {
+    "id": "c39",
+    "difficulty": "hard",
+    "topic": "RC \u2014 Fact vs Opinion",
+    "question": "[Placeholder] Question 39 on RC \u2014 Fact vs Opinion. This question will be replaced with a real exam-style question.",
+    "options": {
+      "A": "Correct placeholder answer",
+      "B": "Distractor B",
+      "C": "Distractor C",
+      "D": "Distractor D"
+    },
+    "correct": "A",
+    "guidance": "Guidance will be added for this question.",
+    "explanation": {
+      "why_correct": "Explanation will be provided here.",
+      "why_wrong": {
+        "B": "\u2014",
+        "C": "\u2014",
+        "D": "\u2014"
+      }
+    }
+  },
+  {
+    "id": "c40",
+    "difficulty": "hard",
+    "topic": "RC \u2014 Tone & Author's Attitude",
+    "question": "[Placeholder] Question 40 on RC \u2014 Tone & Author's Attitude. This question will be replaced with a real exam-style question.",
+    "options": {
+      "A": "Correct placeholder answer",
+      "B": "Distractor B",
+      "C": "Distractor C",
+      "D": "Distractor D"
+    },
+    "correct": "A",
+    "guidance": "Guidance will be added for this question.",
+    "explanation": {
+      "why_correct": "Explanation will be provided here.",
+      "why_wrong": {
+        "B": "\u2014",
+        "C": "\u2014",
+        "D": "\u2014"
+      }
+    }
+  },
+  {
+    "id": "c41",
+    "difficulty": "easy",
+    "topic": "RC \u2014 Main Idea & Theme",
+    "question": "[Placeholder] Question 41 on RC \u2014 Main Idea & Theme. This question will be replaced with a real exam-style question.",
+    "options": {
+      "A": "Correct placeholder answer",
+      "B": "Distractor B",
+      "C": "Distractor C",
+      "D": "Distractor D"
+    },
+    "correct": "A",
+    "guidance": "Guidance will be added for this question.",
+    "explanation": {
+      "why_correct": "Explanation will be provided here.",
+      "why_wrong": {
+        "B": "\u2014",
+        "C": "\u2014",
+        "D": "\u2014"
+      }
+    }
+  },
+  {
+    "id": "c42",
+    "difficulty": "easy",
+    "topic": "RC \u2014 Inference & Implication",
+    "question": "[Placeholder] Question 42 on RC \u2014 Inference & Implication. This question will be replaced with a real exam-style question.",
+    "options": {
+      "A": "Correct placeholder answer",
+      "B": "Distractor B",
+      "C": "Distractor C",
+      "D": "Distractor D"
+    },
+    "correct": "A",
+    "guidance": "Guidance will be added for this question.",
+    "explanation": {
+      "why_correct": "Explanation will be provided here.",
+      "why_wrong": {
+        "B": "\u2014",
+        "C": "\u2014",
+        "D": "\u2014"
+      }
+    }
+  },
+  {
+    "id": "c43",
+    "difficulty": "easy",
+    "topic": "RC \u2014 Vocabulary in Context",
+    "question": "[Placeholder] Question 43 on RC \u2014 Vocabulary in Context. This question will be replaced with a real exam-style question.",
+    "options": {
+      "A": "Correct placeholder answer",
+      "B": "Distractor B",
+      "C": "Distractor C",
+      "D": "Distractor D"
+    },
+    "correct": "A",
+    "guidance": "Guidance will be added for this question.",
+    "explanation": {
+      "why_correct": "Explanation will be provided here.",
+      "why_wrong": {
+        "B": "\u2014",
+        "C": "\u2014",
+        "D": "\u2014"
+      }
+    }
+  },
+  {
+    "id": "c44",
+    "difficulty": "intermediate",
+    "topic": "RC \u2014 Fact vs Opinion",
+    "question": "[Placeholder] Question 44 on RC \u2014 Fact vs Opinion. This question will be replaced with a real exam-style question.",
+    "options": {
+      "A": "Correct placeholder answer",
+      "B": "Distractor B",
+      "C": "Distractor C",
+      "D": "Distractor D"
+    },
+    "correct": "A",
+    "guidance": "Guidance will be added for this question.",
+    "explanation": {
+      "why_correct": "Explanation will be provided here.",
+      "why_wrong": {
+        "B": "\u2014",
+        "C": "\u2014",
+        "D": "\u2014"
+      }
+    }
+  },
+  {
+    "id": "c45",
+    "difficulty": "intermediate",
+    "topic": "RC \u2014 Tone & Author's Attitude",
+    "question": "[Placeholder] Question 45 on RC \u2014 Tone & Author's Attitude. This question will be replaced with a real exam-style question.",
+    "options": {
+      "A": "Correct placeholder answer",
+      "B": "Distractor B",
+      "C": "Distractor C",
+      "D": "Distractor D"
+    },
+    "correct": "A",
+    "guidance": "Guidance will be added for this question.",
+    "explanation": {
+      "why_correct": "Explanation will be provided here.",
+      "why_wrong": {
+        "B": "\u2014",
+        "C": "\u2014",
+        "D": "\u2014"
+      }
+    }
+  },
+  {
+    "id": "c46",
+    "difficulty": "intermediate",
+    "topic": "RC \u2014 Main Idea & Theme",
+    "question": "[Placeholder] Question 46 on RC \u2014 Main Idea & Theme. This question will be replaced with a real exam-style question.",
+    "options": {
+      "A": "Correct placeholder answer",
+      "B": "Distractor B",
+      "C": "Distractor C",
+      "D": "Distractor D"
+    },
+    "correct": "A",
+    "guidance": "Guidance will be added for this question.",
+    "explanation": {
+      "why_correct": "Explanation will be provided here.",
+      "why_wrong": {
+        "B": "\u2014",
+        "C": "\u2014",
+        "D": "\u2014"
+      }
+    }
+  },
+  {
+    "id": "c47",
+    "difficulty": "intermediate",
+    "topic": "RC \u2014 Inference & Implication",
+    "question": "[Placeholder] Question 47 on RC \u2014 Inference & Implication. This question will be replaced with a real exam-style question.",
+    "options": {
+      "A": "Correct placeholder answer",
+      "B": "Distractor B",
+      "C": "Distractor C",
+      "D": "Distractor D"
+    },
+    "correct": "A",
+    "guidance": "Guidance will be added for this question.",
+    "explanation": {
+      "why_correct": "Explanation will be provided here.",
+      "why_wrong": {
+        "B": "\u2014",
+        "C": "\u2014",
+        "D": "\u2014"
+      }
+    }
+  },
+  {
+    "id": "c48",
+    "difficulty": "hard",
+    "topic": "RC \u2014 Vocabulary in Context",
+    "question": "[Placeholder] Question 48 on RC \u2014 Vocabulary in Context. This question will be replaced with a real exam-style question.",
+    "options": {
+      "A": "Correct placeholder answer",
+      "B": "Distractor B",
+      "C": "Distractor C",
+      "D": "Distractor D"
+    },
+    "correct": "A",
+    "guidance": "Guidance will be added for this question.",
+    "explanation": {
+      "why_correct": "Explanation will be provided here.",
+      "why_wrong": {
+        "B": "\u2014",
+        "C": "\u2014",
+        "D": "\u2014"
+      }
+    }
+  },
+  {
+    "id": "c49",
+    "difficulty": "hard",
+    "topic": "RC \u2014 Fact vs Opinion",
+    "question": "[Placeholder] Question 49 on RC \u2014 Fact vs Opinion. This question will be replaced with a real exam-style question.",
+    "options": {
+      "A": "Correct placeholder answer",
+      "B": "Distractor B",
+      "C": "Distractor C",
+      "D": "Distractor D"
+    },
+    "correct": "A",
+    "guidance": "Guidance will be added for this question.",
+    "explanation": {
+      "why_correct": "Explanation will be provided here.",
+      "why_wrong": {
+        "B": "\u2014",
+        "C": "\u2014",
+        "D": "\u2014"
+      }
+    }
+  },
+  {
+    "id": "c50",
+    "difficulty": "hard",
+    "topic": "RC \u2014 Tone & Author's Attitude",
+    "question": "[Placeholder] Question 50 on RC \u2014 Tone & Author's Attitude. This question will be replaced with a real exam-style question.",
+    "options": {
+      "A": "Correct placeholder answer",
+      "B": "Distractor B",
+      "C": "Distractor C",
+      "D": "Distractor D"
+    },
+    "correct": "A",
+    "guidance": "Guidance will be added for this question.",
+    "explanation": {
+      "why_correct": "Explanation will be provided here.",
+      "why_wrong": {
+        "B": "\u2014",
+        "C": "\u2014",
+        "D": "\u2014"
+      }
+    }
+  },
+  {
+    "id": "c51",
+    "difficulty": "easy",
+    "topic": "RC \u2014 Main Idea & Theme",
+    "question": "[Placeholder] Question 51 on RC \u2014 Main Idea & Theme. This question will be replaced with a real exam-style question.",
+    "options": {
+      "A": "Correct placeholder answer",
+      "B": "Distractor B",
+      "C": "Distractor C",
+      "D": "Distractor D"
+    },
+    "correct": "A",
+    "guidance": "Guidance will be added for this question.",
+    "explanation": {
+      "why_correct": "Explanation will be provided here.",
+      "why_wrong": {
+        "B": "\u2014",
+        "C": "\u2014",
+        "D": "\u2014"
+      }
+    }
+  },
+  {
+    "id": "c52",
+    "difficulty": "easy",
+    "topic": "RC \u2014 Inference & Implication",
+    "question": "[Placeholder] Question 52 on RC \u2014 Inference & Implication. This question will be replaced with a real exam-style question.",
+    "options": {
+      "A": "Correct placeholder answer",
+      "B": "Distractor B",
+      "C": "Distractor C",
+      "D": "Distractor D"
+    },
+    "correct": "A",
+    "guidance": "Guidance will be added for this question.",
+    "explanation": {
+      "why_correct": "Explanation will be provided here.",
+      "why_wrong": {
+        "B": "\u2014",
+        "C": "\u2014",
+        "D": "\u2014"
+      }
+    }
+  },
+  {
+    "id": "c53",
+    "difficulty": "easy",
+    "topic": "RC \u2014 Vocabulary in Context",
+    "question": "[Placeholder] Question 53 on RC \u2014 Vocabulary in Context. This question will be replaced with a real exam-style question.",
+    "options": {
+      "A": "Correct placeholder answer",
+      "B": "Distractor B",
+      "C": "Distractor C",
+      "D": "Distractor D"
+    },
+    "correct": "A",
+    "guidance": "Guidance will be added for this question.",
+    "explanation": {
+      "why_correct": "Explanation will be provided here.",
+      "why_wrong": {
+        "B": "\u2014",
+        "C": "\u2014",
+        "D": "\u2014"
+      }
+    }
+  },
+  {
+    "id": "c54",
+    "difficulty": "intermediate",
+    "topic": "RC \u2014 Fact vs Opinion",
+    "question": "[Placeholder] Question 54 on RC \u2014 Fact vs Opinion. This question will be replaced with a real exam-style question.",
+    "options": {
+      "A": "Correct placeholder answer",
+      "B": "Distractor B",
+      "C": "Distractor C",
+      "D": "Distractor D"
+    },
+    "correct": "A",
+    "guidance": "Guidance will be added for this question.",
+    "explanation": {
+      "why_correct": "Explanation will be provided here.",
+      "why_wrong": {
+        "B": "\u2014",
+        "C": "\u2014",
+        "D": "\u2014"
+      }
+    }
+  },
+  {
+    "id": "c55",
+    "difficulty": "intermediate",
+    "topic": "RC \u2014 Tone & Author's Attitude",
+    "question": "[Placeholder] Question 55 on RC \u2014 Tone & Author's Attitude. This question will be replaced with a real exam-style question.",
+    "options": {
+      "A": "Correct placeholder answer",
+      "B": "Distractor B",
+      "C": "Distractor C",
+      "D": "Distractor D"
+    },
+    "correct": "A",
+    "guidance": "Guidance will be added for this question.",
+    "explanation": {
+      "why_correct": "Explanation will be provided here.",
+      "why_wrong": {
+        "B": "\u2014",
+        "C": "\u2014",
+        "D": "\u2014"
+      }
+    }
+  },
+  {
+    "id": "c56",
+    "difficulty": "intermediate",
+    "topic": "RC \u2014 Main Idea & Theme",
+    "question": "[Placeholder] Question 56 on RC \u2014 Main Idea & Theme. This question will be replaced with a real exam-style question.",
+    "options": {
+      "A": "Correct placeholder answer",
+      "B": "Distractor B",
+      "C": "Distractor C",
+      "D": "Distractor D"
+    },
+    "correct": "A",
+    "guidance": "Guidance will be added for this question.",
+    "explanation": {
+      "why_correct": "Explanation will be provided here.",
+      "why_wrong": {
+        "B": "\u2014",
+        "C": "\u2014",
+        "D": "\u2014"
+      }
+    }
+  },
+  {
+    "id": "c57",
+    "difficulty": "intermediate",
+    "topic": "RC \u2014 Inference & Implication",
+    "question": "[Placeholder] Question 57 on RC \u2014 Inference & Implication. This question will be replaced with a real exam-style question.",
+    "options": {
+      "A": "Correct placeholder answer",
+      "B": "Distractor B",
+      "C": "Distractor C",
+      "D": "Distractor D"
+    },
+    "correct": "A",
+    "guidance": "Guidance will be added for this question.",
+    "explanation": {
+      "why_correct": "Explanation will be provided here.",
+      "why_wrong": {
+        "B": "\u2014",
+        "C": "\u2014",
+        "D": "\u2014"
+      }
+    }
+  },
+  {
+    "id": "c58",
+    "difficulty": "hard",
+    "topic": "RC \u2014 Vocabulary in Context",
+    "question": "[Placeholder] Question 58 on RC \u2014 Vocabulary in Context. This question will be replaced with a real exam-style question.",
+    "options": {
+      "A": "Correct placeholder answer",
+      "B": "Distractor B",
+      "C": "Distractor C",
+      "D": "Distractor D"
+    },
+    "correct": "A",
+    "guidance": "Guidance will be added for this question.",
+    "explanation": {
+      "why_correct": "Explanation will be provided here.",
+      "why_wrong": {
+        "B": "\u2014",
+        "C": "\u2014",
+        "D": "\u2014"
+      }
+    }
+  },
+  {
+    "id": "c59",
+    "difficulty": "hard",
+    "topic": "RC \u2014 Fact vs Opinion",
+    "question": "[Placeholder] Question 59 on RC \u2014 Fact vs Opinion. This question will be replaced with a real exam-style question.",
+    "options": {
+      "A": "Correct placeholder answer",
+      "B": "Distractor B",
+      "C": "Distractor C",
+      "D": "Distractor D"
+    },
+    "correct": "A",
+    "guidance": "Guidance will be added for this question.",
+    "explanation": {
+      "why_correct": "Explanation will be provided here.",
+      "why_wrong": {
+        "B": "\u2014",
+        "C": "\u2014",
+        "D": "\u2014"
+      }
+    }
+  },
+  {
+    "id": "c60",
+    "difficulty": "hard",
+    "topic": "RC \u2014 Tone & Author's Attitude",
+    "question": "[Placeholder] Question 60 on RC \u2014 Tone & Author's Attitude. This question will be replaced with a real exam-style question.",
+    "options": {
+      "A": "Correct placeholder answer",
+      "B": "Distractor B",
+      "C": "Distractor C",
+      "D": "Distractor D"
+    },
+    "correct": "A",
+    "guidance": "Guidance will be added for this question.",
+    "explanation": {
+      "why_correct": "Explanation will be provided here.",
+      "why_wrong": {
+        "B": "\u2014",
+        "C": "\u2014",
+        "D": "\u2014"
+      }
+    }
+  },
+  {
+    "id": "c61",
+    "difficulty": "easy",
+    "topic": "RC \u2014 Main Idea & Theme",
+    "question": "[Placeholder] Question 61 on RC \u2014 Main Idea & Theme. This question will be replaced with a real exam-style question.",
+    "options": {
+      "A": "Correct placeholder answer",
+      "B": "Distractor B",
+      "C": "Distractor C",
+      "D": "Distractor D"
+    },
+    "correct": "A",
+    "guidance": "Guidance will be added for this question.",
+    "explanation": {
+      "why_correct": "Explanation will be provided here.",
+      "why_wrong": {
+        "B": "\u2014",
+        "C": "\u2014",
+        "D": "\u2014"
+      }
+    }
+  },
+  {
+    "id": "c62",
+    "difficulty": "easy",
+    "topic": "RC \u2014 Inference & Implication",
+    "question": "[Placeholder] Question 62 on RC \u2014 Inference & Implication. This question will be replaced with a real exam-style question.",
+    "options": {
+      "A": "Correct placeholder answer",
+      "B": "Distractor B",
+      "C": "Distractor C",
+      "D": "Distractor D"
+    },
+    "correct": "A",
+    "guidance": "Guidance will be added for this question.",
+    "explanation": {
+      "why_correct": "Explanation will be provided here.",
+      "why_wrong": {
+        "B": "\u2014",
+        "C": "\u2014",
+        "D": "\u2014"
+      }
+    }
+  },
+  {
+    "id": "c63",
+    "difficulty": "easy",
+    "topic": "RC \u2014 Vocabulary in Context",
+    "question": "[Placeholder] Question 63 on RC \u2014 Vocabulary in Context. This question will be replaced with a real exam-style question.",
+    "options": {
+      "A": "Correct placeholder answer",
+      "B": "Distractor B",
+      "C": "Distractor C",
+      "D": "Distractor D"
+    },
+    "correct": "A",
+    "guidance": "Guidance will be added for this question.",
+    "explanation": {
+      "why_correct": "Explanation will be provided here.",
+      "why_wrong": {
+        "B": "\u2014",
+        "C": "\u2014",
+        "D": "\u2014"
+      }
+    }
+  },
+  {
+    "id": "c64",
+    "difficulty": "intermediate",
+    "topic": "RC \u2014 Fact vs Opinion",
+    "question": "[Placeholder] Question 64 on RC \u2014 Fact vs Opinion. This question will be replaced with a real exam-style question.",
+    "options": {
+      "A": "Correct placeholder answer",
+      "B": "Distractor B",
+      "C": "Distractor C",
+      "D": "Distractor D"
+    },
+    "correct": "A",
+    "guidance": "Guidance will be added for this question.",
+    "explanation": {
+      "why_correct": "Explanation will be provided here.",
+      "why_wrong": {
+        "B": "\u2014",
+        "C": "\u2014",
+        "D": "\u2014"
+      }
+    }
+  },
+  {
+    "id": "c65",
+    "difficulty": "intermediate",
+    "topic": "RC \u2014 Tone & Author's Attitude",
+    "question": "[Placeholder] Question 65 on RC \u2014 Tone & Author's Attitude. This question will be replaced with a real exam-style question.",
+    "options": {
+      "A": "Correct placeholder answer",
+      "B": "Distractor B",
+      "C": "Distractor C",
+      "D": "Distractor D"
+    },
+    "correct": "A",
+    "guidance": "Guidance will be added for this question.",
+    "explanation": {
+      "why_correct": "Explanation will be provided here.",
+      "why_wrong": {
+        "B": "\u2014",
+        "C": "\u2014",
+        "D": "\u2014"
+      }
+    }
+  },
+  {
+    "id": "c66",
+    "difficulty": "intermediate",
+    "topic": "RC \u2014 Main Idea & Theme",
+    "question": "[Placeholder] Question 66 on RC \u2014 Main Idea & Theme. This question will be replaced with a real exam-style question.",
+    "options": {
+      "A": "Correct placeholder answer",
+      "B": "Distractor B",
+      "C": "Distractor C",
+      "D": "Distractor D"
+    },
+    "correct": "A",
+    "guidance": "Guidance will be added for this question.",
+    "explanation": {
+      "why_correct": "Explanation will be provided here.",
+      "why_wrong": {
+        "B": "\u2014",
+        "C": "\u2014",
+        "D": "\u2014"
+      }
+    }
+  },
+  {
+    "id": "c67",
+    "difficulty": "intermediate",
+    "topic": "RC \u2014 Inference & Implication",
+    "question": "[Placeholder] Question 67 on RC \u2014 Inference & Implication. This question will be replaced with a real exam-style question.",
+    "options": {
+      "A": "Correct placeholder answer",
+      "B": "Distractor B",
+      "C": "Distractor C",
+      "D": "Distractor D"
+    },
+    "correct": "A",
+    "guidance": "Guidance will be added for this question.",
+    "explanation": {
+      "why_correct": "Explanation will be provided here.",
+      "why_wrong": {
+        "B": "\u2014",
+        "C": "\u2014",
+        "D": "\u2014"
+      }
+    }
+  },
+  {
+    "id": "c68",
+    "difficulty": "hard",
+    "topic": "RC \u2014 Vocabulary in Context",
+    "question": "[Placeholder] Question 68 on RC \u2014 Vocabulary in Context. This question will be replaced with a real exam-style question.",
+    "options": {
+      "A": "Correct placeholder answer",
+      "B": "Distractor B",
+      "C": "Distractor C",
+      "D": "Distractor D"
+    },
+    "correct": "A",
+    "guidance": "Guidance will be added for this question.",
+    "explanation": {
+      "why_correct": "Explanation will be provided here.",
+      "why_wrong": {
+        "B": "\u2014",
+        "C": "\u2014",
+        "D": "\u2014"
+      }
+    }
+  },
+  {
+    "id": "c69",
+    "difficulty": "hard",
+    "topic": "RC \u2014 Fact vs Opinion",
+    "question": "[Placeholder] Question 69 on RC \u2014 Fact vs Opinion. This question will be replaced with a real exam-style question.",
+    "options": {
+      "A": "Correct placeholder answer",
+      "B": "Distractor B",
+      "C": "Distractor C",
+      "D": "Distractor D"
+    },
+    "correct": "A",
+    "guidance": "Guidance will be added for this question.",
+    "explanation": {
+      "why_correct": "Explanation will be provided here.",
+      "why_wrong": {
+        "B": "\u2014",
+        "C": "\u2014",
+        "D": "\u2014"
+      }
+    }
+  },
+  {
+    "id": "c70",
+    "difficulty": "hard",
+    "topic": "RC \u2014 Tone & Author's Attitude",
+    "question": "[Placeholder] Question 70 on RC \u2014 Tone & Author's Attitude. This question will be replaced with a real exam-style question.",
+    "options": {
+      "A": "Correct placeholder answer",
+      "B": "Distractor B",
+      "C": "Distractor C",
+      "D": "Distractor D"
+    },
+    "correct": "A",
+    "guidance": "Guidance will be added for this question.",
+    "explanation": {
+      "why_correct": "Explanation will be provided here.",
+      "why_wrong": {
+        "B": "\u2014",
+        "C": "\u2014",
+        "D": "\u2014"
+      }
+    }
+  },
+  {
+    "id": "c71",
+    "difficulty": "easy",
+    "topic": "RC \u2014 Main Idea & Theme",
+    "question": "[Placeholder] Question 71 on RC \u2014 Main Idea & Theme. This question will be replaced with a real exam-style question.",
+    "options": {
+      "A": "Correct placeholder answer",
+      "B": "Distractor B",
+      "C": "Distractor C",
+      "D": "Distractor D"
+    },
+    "correct": "A",
+    "guidance": "Guidance will be added for this question.",
+    "explanation": {
+      "why_correct": "Explanation will be provided here.",
+      "why_wrong": {
+        "B": "\u2014",
+        "C": "\u2014",
+        "D": "\u2014"
+      }
+    }
+  },
+  {
+    "id": "c72",
+    "difficulty": "easy",
+    "topic": "RC \u2014 Inference & Implication",
+    "question": "[Placeholder] Question 72 on RC \u2014 Inference & Implication. This question will be replaced with a real exam-style question.",
+    "options": {
+      "A": "Correct placeholder answer",
+      "B": "Distractor B",
+      "C": "Distractor C",
+      "D": "Distractor D"
+    },
+    "correct": "A",
+    "guidance": "Guidance will be added for this question.",
+    "explanation": {
+      "why_correct": "Explanation will be provided here.",
+      "why_wrong": {
+        "B": "\u2014",
+        "C": "\u2014",
+        "D": "\u2014"
+      }
+    }
+  },
+  {
+    "id": "c73",
+    "difficulty": "easy",
+    "topic": "RC \u2014 Vocabulary in Context",
+    "question": "[Placeholder] Question 73 on RC \u2014 Vocabulary in Context. This question will be replaced with a real exam-style question.",
+    "options": {
+      "A": "Correct placeholder answer",
+      "B": "Distractor B",
+      "C": "Distractor C",
+      "D": "Distractor D"
+    },
+    "correct": "A",
+    "guidance": "Guidance will be added for this question.",
+    "explanation": {
+      "why_correct": "Explanation will be provided here.",
+      "why_wrong": {
+        "B": "\u2014",
+        "C": "\u2014",
+        "D": "\u2014"
+      }
+    }
+  },
+  {
+    "id": "c74",
+    "difficulty": "intermediate",
+    "topic": "RC \u2014 Fact vs Opinion",
+    "question": "[Placeholder] Question 74 on RC \u2014 Fact vs Opinion. This question will be replaced with a real exam-style question.",
+    "options": {
+      "A": "Correct placeholder answer",
+      "B": "Distractor B",
+      "C": "Distractor C",
+      "D": "Distractor D"
+    },
+    "correct": "A",
+    "guidance": "Guidance will be added for this question.",
+    "explanation": {
+      "why_correct": "Explanation will be provided here.",
+      "why_wrong": {
+        "B": "\u2014",
+        "C": "\u2014",
+        "D": "\u2014"
+      }
+    }
+  },
+  {
+    "id": "c75",
+    "difficulty": "intermediate",
+    "topic": "RC \u2014 Tone & Author's Attitude",
+    "question": "[Placeholder] Question 75 on RC \u2014 Tone & Author's Attitude. This question will be replaced with a real exam-style question.",
+    "options": {
+      "A": "Correct placeholder answer",
+      "B": "Distractor B",
+      "C": "Distractor C",
+      "D": "Distractor D"
+    },
+    "correct": "A",
+    "guidance": "Guidance will be added for this question.",
+    "explanation": {
+      "why_correct": "Explanation will be provided here.",
+      "why_wrong": {
+        "B": "\u2014",
+        "C": "\u2014",
+        "D": "\u2014"
+      }
+    }
+  },
+  {
+    "id": "c76",
+    "difficulty": "intermediate",
+    "topic": "RC \u2014 Main Idea & Theme",
+    "question": "[Placeholder] Question 76 on RC \u2014 Main Idea & Theme. This question will be replaced with a real exam-style question.",
+    "options": {
+      "A": "Correct placeholder answer",
+      "B": "Distractor B",
+      "C": "Distractor C",
+      "D": "Distractor D"
+    },
+    "correct": "A",
+    "guidance": "Guidance will be added for this question.",
+    "explanation": {
+      "why_correct": "Explanation will be provided here.",
+      "why_wrong": {
+        "B": "\u2014",
+        "C": "\u2014",
+        "D": "\u2014"
+      }
+    }
+  },
+  {
+    "id": "c77",
+    "difficulty": "intermediate",
+    "topic": "RC \u2014 Inference & Implication",
+    "question": "[Placeholder] Question 77 on RC \u2014 Inference & Implication. This question will be replaced with a real exam-style question.",
+    "options": {
+      "A": "Correct placeholder answer",
+      "B": "Distractor B",
+      "C": "Distractor C",
+      "D": "Distractor D"
+    },
+    "correct": "A",
+    "guidance": "Guidance will be added for this question.",
+    "explanation": {
+      "why_correct": "Explanation will be provided here.",
+      "why_wrong": {
+        "B": "\u2014",
+        "C": "\u2014",
+        "D": "\u2014"
+      }
+    }
+  },
+  {
+    "id": "c78",
+    "difficulty": "hard",
+    "topic": "RC \u2014 Vocabulary in Context",
+    "question": "[Placeholder] Question 78 on RC \u2014 Vocabulary in Context. This question will be replaced with a real exam-style question.",
+    "options": {
+      "A": "Correct placeholder answer",
+      "B": "Distractor B",
+      "C": "Distractor C",
+      "D": "Distractor D"
+    },
+    "correct": "A",
+    "guidance": "Guidance will be added for this question.",
+    "explanation": {
+      "why_correct": "Explanation will be provided here.",
+      "why_wrong": {
+        "B": "\u2014",
+        "C": "\u2014",
+        "D": "\u2014"
+      }
+    }
+  },
+  {
+    "id": "c79",
+    "difficulty": "hard",
+    "topic": "RC \u2014 Fact vs Opinion",
+    "question": "[Placeholder] Question 79 on RC \u2014 Fact vs Opinion. This question will be replaced with a real exam-style question.",
+    "options": {
+      "A": "Correct placeholder answer",
+      "B": "Distractor B",
+      "C": "Distractor C",
+      "D": "Distractor D"
+    },
+    "correct": "A",
+    "guidance": "Guidance will be added for this question.",
+    "explanation": {
+      "why_correct": "Explanation will be provided here.",
+      "why_wrong": {
+        "B": "\u2014",
+        "C": "\u2014",
+        "D": "\u2014"
+      }
+    }
+  },
+  {
+    "id": "c80",
+    "difficulty": "hard",
+    "topic": "RC \u2014 Tone & Author's Attitude",
+    "question": "[Placeholder] Question 80 on RC \u2014 Tone & Author's Attitude. This question will be replaced with a real exam-style question.",
+    "options": {
+      "A": "Correct placeholder answer",
+      "B": "Distractor B",
+      "C": "Distractor C",
+      "D": "Distractor D"
+    },
+    "correct": "A",
+    "guidance": "Guidance will be added for this question.",
+    "explanation": {
+      "why_correct": "Explanation will be provided here.",
+      "why_wrong": {
+        "B": "\u2014",
+        "C": "\u2014",
+        "D": "\u2014"
+      }
+    }
+  },
+  {
+    "id": "c81",
+    "difficulty": "easy",
+    "topic": "RC \u2014 Main Idea & Theme",
+    "question": "[Placeholder] Question 81 on RC \u2014 Main Idea & Theme. This question will be replaced with a real exam-style question.",
+    "options": {
+      "A": "Correct placeholder answer",
+      "B": "Distractor B",
+      "C": "Distractor C",
+      "D": "Distractor D"
+    },
+    "correct": "A",
+    "guidance": "Guidance will be added for this question.",
+    "explanation": {
+      "why_correct": "Explanation will be provided here.",
+      "why_wrong": {
+        "B": "\u2014",
+        "C": "\u2014",
+        "D": "\u2014"
+      }
+    }
+  },
+  {
+    "id": "c82",
+    "difficulty": "easy",
+    "topic": "RC \u2014 Inference & Implication",
+    "question": "[Placeholder] Question 82 on RC \u2014 Inference & Implication. This question will be replaced with a real exam-style question.",
+    "options": {
+      "A": "Correct placeholder answer",
+      "B": "Distractor B",
+      "C": "Distractor C",
+      "D": "Distractor D"
+    },
+    "correct": "A",
+    "guidance": "Guidance will be added for this question.",
+    "explanation": {
+      "why_correct": "Explanation will be provided here.",
+      "why_wrong": {
+        "B": "\u2014",
+        "C": "\u2014",
+        "D": "\u2014"
+      }
+    }
+  },
+  {
+    "id": "c83",
+    "difficulty": "easy",
+    "topic": "RC \u2014 Vocabulary in Context",
+    "question": "[Placeholder] Question 83 on RC \u2014 Vocabulary in Context. This question will be replaced with a real exam-style question.",
+    "options": {
+      "A": "Correct placeholder answer",
+      "B": "Distractor B",
+      "C": "Distractor C",
+      "D": "Distractor D"
+    },
+    "correct": "A",
+    "guidance": "Guidance will be added for this question.",
+    "explanation": {
+      "why_correct": "Explanation will be provided here.",
+      "why_wrong": {
+        "B": "\u2014",
+        "C": "\u2014",
+        "D": "\u2014"
+      }
+    }
+  },
+  {
+    "id": "c84",
+    "difficulty": "intermediate",
+    "topic": "RC \u2014 Fact vs Opinion",
+    "question": "[Placeholder] Question 84 on RC \u2014 Fact vs Opinion. This question will be replaced with a real exam-style question.",
+    "options": {
+      "A": "Correct placeholder answer",
+      "B": "Distractor B",
+      "C": "Distractor C",
+      "D": "Distractor D"
+    },
+    "correct": "A",
+    "guidance": "Guidance will be added for this question.",
+    "explanation": {
+      "why_correct": "Explanation will be provided here.",
+      "why_wrong": {
+        "B": "\u2014",
+        "C": "\u2014",
+        "D": "\u2014"
+      }
+    }
+  },
+  {
+    "id": "c85",
+    "difficulty": "intermediate",
+    "topic": "RC \u2014 Tone & Author's Attitude",
+    "question": "[Placeholder] Question 85 on RC \u2014 Tone & Author's Attitude. This question will be replaced with a real exam-style question.",
+    "options": {
+      "A": "Correct placeholder answer",
+      "B": "Distractor B",
+      "C": "Distractor C",
+      "D": "Distractor D"
+    },
+    "correct": "A",
+    "guidance": "Guidance will be added for this question.",
+    "explanation": {
+      "why_correct": "Explanation will be provided here.",
+      "why_wrong": {
+        "B": "\u2014",
+        "C": "\u2014",
+        "D": "\u2014"
+      }
+    }
+  },
+  {
+    "id": "c86",
+    "difficulty": "intermediate",
+    "topic": "RC \u2014 Main Idea & Theme",
+    "question": "[Placeholder] Question 86 on RC \u2014 Main Idea & Theme. This question will be replaced with a real exam-style question.",
+    "options": {
+      "A": "Correct placeholder answer",
+      "B": "Distractor B",
+      "C": "Distractor C",
+      "D": "Distractor D"
+    },
+    "correct": "A",
+    "guidance": "Guidance will be added for this question.",
+    "explanation": {
+      "why_correct": "Explanation will be provided here.",
+      "why_wrong": {
+        "B": "\u2014",
+        "C": "\u2014",
+        "D": "\u2014"
+      }
+    }
+  },
+  {
+    "id": "c87",
+    "difficulty": "intermediate",
+    "topic": "RC \u2014 Inference & Implication",
+    "question": "[Placeholder] Question 87 on RC \u2014 Inference & Implication. This question will be replaced with a real exam-style question.",
+    "options": {
+      "A": "Correct placeholder answer",
+      "B": "Distractor B",
+      "C": "Distractor C",
+      "D": "Distractor D"
+    },
+    "correct": "A",
+    "guidance": "Guidance will be added for this question.",
+    "explanation": {
+      "why_correct": "Explanation will be provided here.",
+      "why_wrong": {
+        "B": "\u2014",
+        "C": "\u2014",
+        "D": "\u2014"
+      }
+    }
+  },
+  {
+    "id": "c88",
+    "difficulty": "hard",
+    "topic": "RC \u2014 Vocabulary in Context",
+    "question": "[Placeholder] Question 88 on RC \u2014 Vocabulary in Context. This question will be replaced with a real exam-style question.",
+    "options": {
+      "A": "Correct placeholder answer",
+      "B": "Distractor B",
+      "C": "Distractor C",
+      "D": "Distractor D"
+    },
+    "correct": "A",
+    "guidance": "Guidance will be added for this question.",
+    "explanation": {
+      "why_correct": "Explanation will be provided here.",
+      "why_wrong": {
+        "B": "\u2014",
+        "C": "\u2014",
+        "D": "\u2014"
+      }
+    }
+  },
+  {
+    "id": "c89",
+    "difficulty": "hard",
+    "topic": "RC \u2014 Fact vs Opinion",
+    "question": "[Placeholder] Question 89 on RC \u2014 Fact vs Opinion. This question will be replaced with a real exam-style question.",
+    "options": {
+      "A": "Correct placeholder answer",
+      "B": "Distractor B",
+      "C": "Distractor C",
+      "D": "Distractor D"
+    },
+    "correct": "A",
+    "guidance": "Guidance will be added for this question.",
+    "explanation": {
+      "why_correct": "Explanation will be provided here.",
+      "why_wrong": {
+        "B": "\u2014",
+        "C": "\u2014",
+        "D": "\u2014"
+      }
+    }
+  },
+  {
+    "id": "c90",
+    "difficulty": "hard",
+    "topic": "RC \u2014 Tone & Author's Attitude",
+    "question": "[Placeholder] Question 90 on RC \u2014 Tone & Author's Attitude. This question will be replaced with a real exam-style question.",
+    "options": {
+      "A": "Correct placeholder answer",
+      "B": "Distractor B",
+      "C": "Distractor C",
+      "D": "Distractor D"
+    },
+    "correct": "A",
+    "guidance": "Guidance will be added for this question.",
+    "explanation": {
+      "why_correct": "Explanation will be provided here.",
+      "why_wrong": {
+        "B": "\u2014",
+        "C": "\u2014",
+        "D": "\u2014"
+      }
+    }
+  },
+  {
+    "id": "c91",
+    "difficulty": "easy",
+    "topic": "RC \u2014 Main Idea & Theme",
+    "question": "[Placeholder] Question 91 on RC \u2014 Main Idea & Theme. This question will be replaced with a real exam-style question.",
+    "options": {
+      "A": "Correct placeholder answer",
+      "B": "Distractor B",
+      "C": "Distractor C",
+      "D": "Distractor D"
+    },
+    "correct": "A",
+    "guidance": "Guidance will be added for this question.",
+    "explanation": {
+      "why_correct": "Explanation will be provided here.",
+      "why_wrong": {
+        "B": "\u2014",
+        "C": "\u2014",
+        "D": "\u2014"
+      }
+    }
+  },
+  {
+    "id": "c92",
+    "difficulty": "easy",
+    "topic": "RC \u2014 Inference & Implication",
+    "question": "[Placeholder] Question 92 on RC \u2014 Inference & Implication. This question will be replaced with a real exam-style question.",
+    "options": {
+      "A": "Correct placeholder answer",
+      "B": "Distractor B",
+      "C": "Distractor C",
+      "D": "Distractor D"
+    },
+    "correct": "A",
+    "guidance": "Guidance will be added for this question.",
+    "explanation": {
+      "why_correct": "Explanation will be provided here.",
+      "why_wrong": {
+        "B": "\u2014",
+        "C": "\u2014",
+        "D": "\u2014"
+      }
+    }
+  },
+  {
+    "id": "c93",
+    "difficulty": "easy",
+    "topic": "RC \u2014 Vocabulary in Context",
+    "question": "[Placeholder] Question 93 on RC \u2014 Vocabulary in Context. This question will be replaced with a real exam-style question.",
+    "options": {
+      "A": "Correct placeholder answer",
+      "B": "Distractor B",
+      "C": "Distractor C",
+      "D": "Distractor D"
+    },
+    "correct": "A",
+    "guidance": "Guidance will be added for this question.",
+    "explanation": {
+      "why_correct": "Explanation will be provided here.",
+      "why_wrong": {
+        "B": "\u2014",
+        "C": "\u2014",
+        "D": "\u2014"
+      }
+    }
+  },
+  {
+    "id": "c94",
+    "difficulty": "intermediate",
+    "topic": "RC \u2014 Fact vs Opinion",
+    "question": "[Placeholder] Question 94 on RC \u2014 Fact vs Opinion. This question will be replaced with a real exam-style question.",
+    "options": {
+      "A": "Correct placeholder answer",
+      "B": "Distractor B",
+      "C": "Distractor C",
+      "D": "Distractor D"
+    },
+    "correct": "A",
+    "guidance": "Guidance will be added for this question.",
+    "explanation": {
+      "why_correct": "Explanation will be provided here.",
+      "why_wrong": {
+        "B": "\u2014",
+        "C": "\u2014",
+        "D": "\u2014"
+      }
+    }
+  },
+  {
+    "id": "c95",
+    "difficulty": "intermediate",
+    "topic": "RC \u2014 Tone & Author's Attitude",
+    "question": "[Placeholder] Question 95 on RC \u2014 Tone & Author's Attitude. This question will be replaced with a real exam-style question.",
+    "options": {
+      "A": "Correct placeholder answer",
+      "B": "Distractor B",
+      "C": "Distractor C",
+      "D": "Distractor D"
+    },
+    "correct": "A",
+    "guidance": "Guidance will be added for this question.",
+    "explanation": {
+      "why_correct": "Explanation will be provided here.",
+      "why_wrong": {
+        "B": "\u2014",
+        "C": "\u2014",
+        "D": "\u2014"
+      }
+    }
+  },
+  {
+    "id": "c96",
+    "difficulty": "intermediate",
+    "topic": "RC \u2014 Main Idea & Theme",
+    "question": "[Placeholder] Question 96 on RC \u2014 Main Idea & Theme. This question will be replaced with a real exam-style question.",
+    "options": {
+      "A": "Correct placeholder answer",
+      "B": "Distractor B",
+      "C": "Distractor C",
+      "D": "Distractor D"
+    },
+    "correct": "A",
+    "guidance": "Guidance will be added for this question.",
+    "explanation": {
+      "why_correct": "Explanation will be provided here.",
+      "why_wrong": {
+        "B": "\u2014",
+        "C": "\u2014",
+        "D": "\u2014"
+      }
+    }
+  },
+  {
+    "id": "c97",
+    "difficulty": "intermediate",
+    "topic": "RC \u2014 Inference & Implication",
+    "question": "[Placeholder] Question 97 on RC \u2014 Inference & Implication. This question will be replaced with a real exam-style question.",
+    "options": {
+      "A": "Correct placeholder answer",
+      "B": "Distractor B",
+      "C": "Distractor C",
+      "D": "Distractor D"
+    },
+    "correct": "A",
+    "guidance": "Guidance will be added for this question.",
+    "explanation": {
+      "why_correct": "Explanation will be provided here.",
+      "why_wrong": {
+        "B": "\u2014",
+        "C": "\u2014",
+        "D": "\u2014"
+      }
+    }
+  },
+  {
+    "id": "c98",
+    "difficulty": "hard",
+    "topic": "RC \u2014 Vocabulary in Context",
+    "question": "[Placeholder] Question 98 on RC \u2014 Vocabulary in Context. This question will be replaced with a real exam-style question.",
+    "options": {
+      "A": "Correct placeholder answer",
+      "B": "Distractor B",
+      "C": "Distractor C",
+      "D": "Distractor D"
+    },
+    "correct": "A",
+    "guidance": "Guidance will be added for this question.",
+    "explanation": {
+      "why_correct": "Explanation will be provided here.",
+      "why_wrong": {
+        "B": "\u2014",
+        "C": "\u2014",
+        "D": "\u2014"
+      }
+    }
+  },
+  {
+    "id": "c99",
+    "difficulty": "hard",
+    "topic": "RC \u2014 Fact vs Opinion",
+    "question": "[Placeholder] Question 99 on RC \u2014 Fact vs Opinion. This question will be replaced with a real exam-style question.",
+    "options": {
+      "A": "Correct placeholder answer",
+      "B": "Distractor B",
+      "C": "Distractor C",
+      "D": "Distractor D"
+    },
+    "correct": "A",
+    "guidance": "Guidance will be added for this question.",
+    "explanation": {
+      "why_correct": "Explanation will be provided here.",
+      "why_wrong": {
+        "B": "\u2014",
+        "C": "\u2014",
+        "D": "\u2014"
+      }
+    }
+  },
+  {
+    "id": "c100",
+    "difficulty": "hard",
+    "topic": "RC \u2014 Tone & Author's Attitude",
+    "question": "[Placeholder] Question 100 on RC \u2014 Tone & Author's Attitude. This question will be replaced with a real exam-style question.",
+    "options": {
+      "A": "Correct placeholder answer",
+      "B": "Distractor B",
+      "C": "Distractor C",
+      "D": "Distractor D"
+    },
+    "correct": "A",
+    "guidance": "Guidance will be added for this question.",
+    "explanation": {
+      "why_correct": "Explanation will be provided here.",
+      "why_wrong": {
+        "B": "\u2014",
+        "C": "\u2014",
+        "D": "\u2014"
+      }
+    }
+  },
+  {
+    "id": "c101",
+    "difficulty": "easy",
+    "topic": "RC \u2014 Main Idea & Theme",
+    "question": "[Placeholder] Question 101 on RC \u2014 Main Idea & Theme. This question will be replaced with a real exam-style question.",
+    "options": {
+      "A": "Correct placeholder answer",
+      "B": "Distractor B",
+      "C": "Distractor C",
+      "D": "Distractor D"
+    },
+    "correct": "A",
+    "guidance": "Guidance will be added for this question.",
+    "explanation": {
+      "why_correct": "Explanation will be provided here.",
+      "why_wrong": {
+        "B": "\u2014",
+        "C": "\u2014",
+        "D": "\u2014"
+      }
+    }
+  },
+  {
+    "id": "c102",
+    "difficulty": "easy",
+    "topic": "RC \u2014 Inference & Implication",
+    "question": "[Placeholder] Question 102 on RC \u2014 Inference & Implication. This question will be replaced with a real exam-style question.",
+    "options": {
+      "A": "Correct placeholder answer",
+      "B": "Distractor B",
+      "C": "Distractor C",
+      "D": "Distractor D"
+    },
+    "correct": "A",
+    "guidance": "Guidance will be added for this question.",
+    "explanation": {
+      "why_correct": "Explanation will be provided here.",
+      "why_wrong": {
+        "B": "\u2014",
+        "C": "\u2014",
+        "D": "\u2014"
+      }
+    }
+  },
+  {
+    "id": "c103",
+    "difficulty": "easy",
+    "topic": "RC \u2014 Vocabulary in Context",
+    "question": "[Placeholder] Question 103 on RC \u2014 Vocabulary in Context. This question will be replaced with a real exam-style question.",
+    "options": {
+      "A": "Correct placeholder answer",
+      "B": "Distractor B",
+      "C": "Distractor C",
+      "D": "Distractor D"
+    },
+    "correct": "A",
+    "guidance": "Guidance will be added for this question.",
+    "explanation": {
+      "why_correct": "Explanation will be provided here.",
+      "why_wrong": {
+        "B": "\u2014",
+        "C": "\u2014",
+        "D": "\u2014"
+      }
+    }
+  },
+  {
+    "id": "c104",
+    "difficulty": "intermediate",
+    "topic": "RC \u2014 Fact vs Opinion",
+    "question": "[Placeholder] Question 104 on RC \u2014 Fact vs Opinion. This question will be replaced with a real exam-style question.",
+    "options": {
+      "A": "Correct placeholder answer",
+      "B": "Distractor B",
+      "C": "Distractor C",
+      "D": "Distractor D"
+    },
+    "correct": "A",
+    "guidance": "Guidance will be added for this question.",
+    "explanation": {
+      "why_correct": "Explanation will be provided here.",
+      "why_wrong": {
+        "B": "\u2014",
+        "C": "\u2014",
+        "D": "\u2014"
+      }
+    }
+  },
+  {
+    "id": "c105",
+    "difficulty": "intermediate",
+    "topic": "RC \u2014 Tone & Author's Attitude",
+    "question": "[Placeholder] Question 105 on RC \u2014 Tone & Author's Attitude. This question will be replaced with a real exam-style question.",
+    "options": {
+      "A": "Correct placeholder answer",
+      "B": "Distractor B",
+      "C": "Distractor C",
+      "D": "Distractor D"
+    },
+    "correct": "A",
+    "guidance": "Guidance will be added for this question.",
+    "explanation": {
+      "why_correct": "Explanation will be provided here.",
+      "why_wrong": {
+        "B": "\u2014",
+        "C": "\u2014",
+        "D": "\u2014"
+      }
+    }
+  }
+]
