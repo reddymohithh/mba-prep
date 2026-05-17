@@ -4,7 +4,7 @@ A browser-based MBA entrance exam practice platform designed for AMAT / CMAT / M
 
 ## Live Demo
 
-**[reddymohith.github.io/mba-prep](https://reddymohith.github.io/mba-prep)**
+**[reddymohith.github.io/mba-prep](https://reddymohithh.github.io/mba-prep/)**
 
 Default credentials: `amat2026` / `prepare`
 
